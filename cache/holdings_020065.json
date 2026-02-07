@@ -1,0 +1,56 @@
+{
+  "fund_code": "020065",
+  "fund_name": "西部利得科技创新混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 91.98,
+  "parsed_weight": 66.64,
+  "missing_weight": 25.34,
+  "positions": [
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 9.5
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 9.48
+    },
+    {
+      "stock_code": "688088",
+      "stock_name": "虹软科技",
+      "weight": 9.44
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 9.31
+    },
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 7.36
+    },
+    {
+      "stock_code": "688258",
+      "stock_name": "卓易信息",
+      "weight": 5.58
+    },
+    {
+      "stock_code": "688031",
+      "stock_name": "星环科技",
+      "weight": 5.45
+    },
+    {
+      "stock_code": "688365",
+      "stock_name": "光云科技",
+      "weight": 5.32
+    },
+    {
+      "stock_code": "300170",
+      "stock_name": "汉得信息",
+      "weight": 5.2
+    }
+  ],
+  "fetched_at": "2026-02-02 01:32:16"
+}

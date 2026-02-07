@@ -1,0 +1,61 @@
+{
+  "fund_code": "009751",
+  "fund_name": "汇安价值蓝筹混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 90.09,
+  "parsed_weight": 44.13,
+  "missing_weight": 45.96,
+  "positions": [
+    {
+      "stock_code": "300136",
+      "stock_name": "信维通信",
+      "weight": 5.05
+    },
+    {
+      "stock_code": "688002",
+      "stock_name": "睿创微纳",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 4.96
+    },
+    {
+      "stock_code": "002565",
+      "stock_name": "顺灏股份",
+      "weight": 4.69
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 4.43
+    },
+    {
+      "stock_code": "600343",
+      "stock_name": "航天动力",
+      "weight": 4.4
+    },
+    {
+      "stock_code": "688270",
+      "stock_name": "臻镭科技",
+      "weight": 4.36
+    },
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 4.16
+    },
+    {
+      "stock_code": "300455",
+      "stock_name": "航天智装",
+      "weight": 3.83
+    },
+    {
+      "stock_code": "002149",
+      "stock_name": "西部材料",
+      "weight": 3.24
+    }
+  ],
+  "fetched_at": "2026-02-01 20:11:25"
+}

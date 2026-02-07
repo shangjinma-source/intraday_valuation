@@ -1,0 +1,61 @@
+{
+  "fund_code": "010623",
+  "fund_name": "恒越成长精选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.55,
+  "parsed_weight": 42.97,
+  "missing_weight": 50.58,
+  "positions": [
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 6.76
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 5.11
+    },
+    {
+      "stock_code": "603067",
+      "stock_name": "振华股份",
+      "weight": 4.82
+    },
+    {
+      "stock_code": "001309",
+      "stock_name": "德明利",
+      "weight": 4.44
+    },
+    {
+      "stock_code": "688525",
+      "stock_name": "佰维存储",
+      "weight": 4.19
+    },
+    {
+      "stock_code": "688123",
+      "stock_name": "聚辰股份",
+      "weight": 3.99
+    },
+    {
+      "stock_code": "688630",
+      "stock_name": "芯碁微装",
+      "weight": 3.6
+    },
+    {
+      "stock_code": "688766",
+      "stock_name": "普冉股份",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "688141",
+      "stock_name": "杰华特",
+      "weight": 3.3
+    },
+    {
+      "stock_code": "688318",
+      "stock_name": "财富趋势",
+      "weight": 3.23
+    }
+  ],
+  "fetched_at": "2026-02-01 19:58:26"
+}

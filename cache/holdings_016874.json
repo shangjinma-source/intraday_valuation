@@ -1,0 +1,60 @@
+{
+  "fund_code": "016874",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 92.35,
+  "parsed_weight": 74.86,
+  "missing_weight": 17.49,
+  "positions": [
+    {
+      "stock_code": "688525",
+      "stock_name": "佰维存储",
+      "weight": 9.58
+    },
+    {
+      "stock_code": "301308",
+      "stock_name": "江波龙",
+      "weight": 8.89
+    },
+    {
+      "stock_code": "688766",
+      "stock_name": "普冉股份",
+      "weight": 8.89
+    },
+    {
+      "stock_code": "688031",
+      "stock_name": "星环科技",
+      "weight": 8.5
+    },
+    {
+      "stock_code": "001309",
+      "stock_name": "德明利",
+      "weight": 7.9
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 7.63
+    },
+    {
+      "stock_code": "300223",
+      "stock_name": "北京君正",
+      "weight": 6.28
+    },
+    {
+      "stock_code": "688627",
+      "stock_name": "精智达",
+      "weight": 6.09
+    },
+    {
+      "stock_code": "603929",
+      "stock_name": "亚翔集成",
+      "weight": 5.89
+    },
+    {
+      "stock_code": "603986",
+      "stock_name": "兆易创新",
+      "weight": 5.21
+    }
+  ],
+  "fetched_at": "2026-01-31 15:42:32"
+}

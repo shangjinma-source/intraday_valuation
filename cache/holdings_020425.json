@@ -1,0 +1,61 @@
+{
+  "fund_code": "020425",
+  "fund_name": "方正富邦致盛混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.66,
+  "parsed_weight": 68.55,
+  "missing_weight": 25.11,
+  "positions": [
+    {
+      "stock_code": "688676",
+      "stock_name": "金盘科技",
+      "weight": 8.5
+    },
+    {
+      "stock_code": "688472",
+      "stock_name": "阿特斯",
+      "weight": 8.2
+    },
+    {
+      "stock_code": "601126",
+      "stock_name": "四方股份",
+      "weight": 7.85
+    },
+    {
+      "stock_code": "002709",
+      "stock_name": "天赐材料",
+      "weight": 7.57
+    },
+    {
+      "stock_code": "300990",
+      "stock_name": "同飞股份",
+      "weight": 7.0
+    },
+    {
+      "stock_code": "002518",
+      "stock_name": "科士达",
+      "weight": 6.72
+    },
+    {
+      "stock_code": "002028",
+      "stock_name": "思源电气",
+      "weight": 6.59
+    },
+    {
+      "stock_code": "002240",
+      "stock_name": "盛新锂能",
+      "weight": 5.63
+    },
+    {
+      "stock_code": "300037",
+      "stock_name": "新宙邦",
+      "weight": 5.45
+    },
+    {
+      "stock_code": "688772",
+      "stock_name": "珠海冠宇",
+      "weight": 5.04
+    }
+  ],
+  "fetched_at": "2026-02-02 01:43:24"
+}

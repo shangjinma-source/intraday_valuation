@@ -1,0 +1,61 @@
+{
+  "fund_code": "025949",
+  "fund_name": "诺安研究精选股票C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 92.19,
+  "parsed_weight": 35.42,
+  "missing_weight": 56.77,
+  "positions": [
+    {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 4.0
+    },
+    {
+      "stock_code": "688239",
+      "stock_name": "航宇科技",
+      "weight": 3.73
+    },
+    {
+      "stock_code": "300593",
+      "stock_name": "新雷能",
+      "weight": 3.64
+    },
+    {
+      "stock_code": "301005",
+      "stock_name": "超捷股份",
+      "weight": 3.58
+    },
+    {
+      "stock_code": "688270",
+      "stock_name": "臻镭科技",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "688122",
+      "stock_name": "西部超导",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "301117",
+      "stock_name": "佳缘科技",
+      "weight": 3.45
+    },
+    {
+      "stock_code": "688539",
+      "stock_name": "高华科技",
+      "weight": 3.44
+    },
+    {
+      "stock_code": "688027",
+      "stock_name": "国盾量子",
+      "weight": 3.39
+    },
+    {
+      "stock_code": "300102",
+      "stock_name": "乾照光电",
+      "weight": 3.13
+    }
+  ],
+  "fetched_at": "2026-02-01 20:16:57"
+}

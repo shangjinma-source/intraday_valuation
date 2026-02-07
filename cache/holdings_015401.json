@@ -1,0 +1,61 @@
+{
+  "fund_code": "015401",
+  "fund_name": "弘毅远方甄选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 90.16,
+  "parsed_weight": 54.17,
+  "missing_weight": 35.99,
+  "positions": [
+    {
+      "stock_code": "002050",
+      "stock_name": "三花智控",
+      "weight": 6.58
+    },
+    {
+      "stock_code": "301225",
+      "stock_name": "恒勃股份",
+      "weight": 6.39
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 5.93
+    },
+    {
+      "stock_code": "002126",
+      "stock_name": "银轮股份",
+      "weight": 5.62
+    },
+    {
+      "stock_code": "301550",
+      "stock_name": "斯菱智驱",
+      "weight": 5.5
+    },
+    {
+      "stock_code": "688698",
+      "stock_name": "伟创电气",
+      "weight": 5.27
+    },
+    {
+      "stock_code": "600699",
+      "stock_name": "均胜电子",
+      "weight": 5.13
+    },
+    {
+      "stock_code": "300680",
+      "stock_name": "隆盛科技",
+      "weight": 4.98
+    },
+    {
+      "stock_code": "603179",
+      "stock_name": "新泉股份",
+      "weight": 4.39
+    },
+    {
+      "stock_code": "300007",
+      "stock_name": "汉威科技",
+      "weight": 4.38
+    }
+  ],
+  "fetched_at": "2026-02-02 02:04:27"
+}

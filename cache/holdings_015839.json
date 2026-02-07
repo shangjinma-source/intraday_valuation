@@ -1,0 +1,61 @@
+{
+  "fund_code": "015839",
+  "fund_name": "广发招利混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.61,
+  "parsed_weight": 51.44,
+  "missing_weight": 43.17,
+  "positions": [
+    {
+      "stock_code": "300136",
+      "stock_name": "信维通信",
+      "weight": 5.62
+    },
+    {
+      "stock_code": "300751",
+      "stock_name": "迈为股份",
+      "weight": 5.44
+    },
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 5.27
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 5.19
+    },
+    {
+      "stock_code": "002565",
+      "stock_name": "顺灏股份",
+      "weight": 5.18
+    },
+    {
+      "stock_code": "688387",
+      "stock_name": "信科移动",
+      "weight": 5.07
+    },
+    {
+      "stock_code": "688066",
+      "stock_name": "航天宏图",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "002792",
+      "stock_name": "通宇通讯",
+      "weight": 4.93
+    },
+    {
+      "stock_code": "300433",
+      "stock_name": "蓝思科技",
+      "weight": 4.89
+    },
+    {
+      "stock_code": "600552",
+      "stock_name": "凯盛科技",
+      "weight": 4.84
+    }
+  ],
+  "fetched_at": "2026-02-01 20:12:24"
+}

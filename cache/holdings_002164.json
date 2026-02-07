@@ -1,0 +1,61 @@
+{
+  "fund_code": "002164",
+  "fund_name": "汇添富新睿精选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 90.36,
+  "parsed_weight": 62.25,
+  "missing_weight": 28.11,
+  "positions": [
+    {
+      "stock_code": "002028",
+      "stock_name": "思源电气",
+      "weight": 9.11
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 7.71
+    },
+    {
+      "stock_code": "002518",
+      "stock_name": "科士达",
+      "weight": 7.03
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 7.03
+    },
+    {
+      "stock_code": "688676",
+      "stock_name": "金盘科技",
+      "weight": 6.92
+    },
+    {
+      "stock_code": "603308",
+      "stock_name": "应流股份",
+      "weight": 6.53
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 5.68
+    },
+    {
+      "stock_code": "000811",
+      "stock_name": "冰轮环境",
+      "weight": 4.46
+    },
+    {
+      "stock_code": "300593",
+      "stock_name": "新雷能",
+      "weight": 3.94
+    },
+    {
+      "stock_code": "600875",
+      "stock_name": "东方电气",
+      "weight": 3.84
+    }
+  ],
+  "fetched_at": "2026-02-05 02:39:10"
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "007491",
+  "fund_name": "南方信息创新混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.28,
+  "parsed_weight": 83.96,
+  "missing_weight": 10.32,
+  "positions": [
+    {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 9.89
+    },
+    {
+      "stock_code": "300567",
+      "stock_name": "精测电子",
+      "weight": 9.81
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 9.8
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 9.6
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 9.58
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 9.43
+    },
+    {
+      "stock_code": "688409",
+      "stock_name": "富创精密",
+      "weight": 9.3
+    },
+    {
+      "stock_code": "600641",
+      "stock_name": "先导基电",
+      "weight": 5.67
+    },
+    {
+      "stock_code": "688172",
+      "stock_name": "燕东微",
+      "weight": 5.48
+    },
+    {
+      "stock_code": "688019",
+      "stock_name": "安集科技",
+      "weight": 5.4
+    }
+  ],
+  "fetched_at": "2026-02-01 01:38:18"
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "018133",
+  "fund_name": "博时中证有色金属矿业主题指数C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.52,
+  "parsed_weight": 52.58,
+  "missing_weight": 41.94,
+  "positions": [
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 9.67
+    },
+    {
+      "stock_code": "603993",
+      "stock_name": "洛阳钼业",
+      "weight": 9.07
+    },
+    {
+      "stock_code": "600111",
+      "stock_name": "北方稀土",
+      "weight": 6.06
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 5.38
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 5.03
+    },
+    {
+      "stock_code": "002460",
+      "stock_name": "赣锋锂业",
+      "weight": 3.69
+    },
+    {
+      "stock_code": "600547",
+      "stock_name": "山东黄金",
+      "weight": 3.63
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 3.55
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "002466",
+      "stock_name": "天齐锂业",
+      "weight": 2.97
+    }
+  ],
+  "fetched_at": "2026-02-01 00:40:23"
+}

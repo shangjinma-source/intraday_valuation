@@ -1,0 +1,61 @@
+{
+  "fund_code": "519771",
+  "fund_name": "交银优择回报灵活配置混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.96,
+  "parsed_weight": 45.97,
+  "missing_weight": 48.99,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 8.48
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 7.53
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 7.43
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 5.22
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 3.22
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 3.14
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 2.76
+    },
+    {
+      "stock_code": "688167",
+      "stock_name": "炬光科技",
+      "weight": 2.76
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 2.57
+    }
+  ],
+  "fetched_at": "2026-02-02 01:18:53"
+}

@@ -1,0 +1,41 @@
+{
+  "fund_code": "014918",
+  "fund_name": "汇丰晋信时代先锋混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.58,
+  "parsed_weight": 50.26,
+  "missing_weight": 43.32,
+  "positions": [
+    {
+      "stock_code": "002459",
+      "stock_name": "晶澳科技",
+      "weight": 9.78
+    },
+    {
+      "stock_code": "600438",
+      "stock_name": "通威股份",
+      "weight": 9.28
+    },
+    {
+      "stock_code": "601012",
+      "stock_name": "隆基绿能",
+      "weight": 8.81
+    },
+    {
+      "stock_code": "688599",
+      "stock_name": "天合光能",
+      "weight": 8.0
+    },
+    {
+      "stock_code": "600732",
+      "stock_name": "爱旭股份",
+      "weight": 7.93
+    },
+    {
+      "stock_code": "688303",
+      "stock_name": "大全能源",
+      "weight": 6.46
+    }
+  ],
+  "fetched_at": "2026-02-02 02:20:58"
+}

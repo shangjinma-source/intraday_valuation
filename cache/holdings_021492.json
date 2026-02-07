@@ -1,0 +1,61 @@
+{
+  "fund_code": "021492",
+  "fund_name": "中航远见领航混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.2,
+  "parsed_weight": 88.63,
+  "missing_weight": 5.57,
+  "positions": [
+    {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 9.64
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 9.55
+    },
+    {
+      "stock_code": "688049",
+      "stock_name": "炬芯科技",
+      "weight": 9.34
+    },
+    {
+      "stock_code": "300458",
+      "stock_name": "全志科技",
+      "weight": 9.33
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 9.31
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 9.09
+    },
+    {
+      "stock_code": "688591",
+      "stock_name": "泰凌微",
+      "weight": 8.95
+    },
+    {
+      "stock_code": "688332",
+      "stock_name": "中科蓝讯",
+      "weight": 8.93
+    },
+    {
+      "stock_code": "688220",
+      "stock_name": "翱捷科技",
+      "weight": 8.87
+    },
+    {
+      "stock_code": "688486",
+      "stock_name": "龙迅股份",
+      "weight": 5.62
+    }
+  ],
+  "fetched_at": "2026-02-01 01:38:51"
+}

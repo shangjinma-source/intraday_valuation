@@ -1,0 +1,46 @@
+{
+  "fund_code": "022321",
+  "fund_name": "汇添富弘瑞回报混合发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 90.53,
+  "parsed_weight": 38.03,
+  "missing_weight": 52.5,
+  "positions": [
+    {
+      "stock_code": "603993",
+      "stock_name": "洛阳钼业",
+      "weight": 8.55
+    },
+    {
+      "stock_code": "000408",
+      "stock_name": "藏格矿业",
+      "weight": 8.2
+    },
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 7.82
+    },
+    {
+      "stock_code": "603979",
+      "stock_name": "金诚信",
+      "weight": 4.59
+    },
+    {
+      "stock_code": "601168",
+      "stock_name": "西部矿业",
+      "weight": 3.63
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 3.11
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "weight": 2.13
+    }
+  ],
+  "fetched_at": "2026-02-01 00:27:41"
+}

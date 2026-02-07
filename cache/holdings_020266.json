@@ -1,0 +1,41 @@
+{
+  "fund_code": "020266",
+  "fund_name": "长城产业优选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 92.91,
+  "parsed_weight": 38.25,
+  "missing_weight": 54.66,
+  "positions": [
+    {
+      "stock_code": "688088",
+      "stock_name": "虹软科技",
+      "weight": 7.1
+    },
+    {
+      "stock_code": "688031",
+      "stock_name": "星环科技",
+      "weight": 7.1
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 6.8
+    },
+    {
+      "stock_code": "688692",
+      "stock_name": "达梦数据",
+      "weight": 6.08
+    },
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 5.83
+    },
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 5.34
+    }
+  ],
+  "fetched_at": "2026-02-02 01:35:20"
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "023602",
+  "fund_name": "泰信优势领航混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 90.29,
+  "parsed_weight": 66.54,
+  "missing_weight": 23.75,
+  "positions": [
+    {
+      "stock_code": "688258",
+      "stock_name": "卓易信息",
+      "weight": 8.34
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 8.12
+    },
+    {
+      "stock_code": "603859",
+      "stock_name": "能科科技",
+      "weight": 7.85
+    },
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 7.24
+    },
+    {
+      "stock_code": "300378",
+      "stock_name": "鼎捷数智",
+      "weight": 6.34
+    },
+    {
+      "stock_code": "688095",
+      "stock_name": "福昕软件",
+      "weight": 6.09
+    },
+    {
+      "stock_code": "688088",
+      "stock_name": "虹软科技",
+      "weight": 5.95
+    },
+    {
+      "stock_code": "603918",
+      "stock_name": "金桥信息",
+      "weight": 5.94
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 5.89
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 4.78
+    }
+  ],
+  "fetched_at": "2026-02-02 01:31:36"
+}

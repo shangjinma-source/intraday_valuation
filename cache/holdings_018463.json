@@ -1,0 +1,61 @@
+{
+  "fund_code": "018463",
+  "fund_name": "德邦稳盈增长灵活配置混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.0,
+  "parsed_weight": 68.29,
+  "missing_weight": 25.71,
+  "positions": [
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 10.21
+    },
+    {
+      "stock_code": "688258",
+      "stock_name": "卓易信息",
+      "weight": 9.8
+    },
+    {
+      "stock_code": "300624",
+      "stock_name": "万兴科技",
+      "weight": 7.94
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 7.39
+    },
+    {
+      "stock_code": "300364",
+      "stock_name": "中文在线",
+      "weight": 6.27
+    },
+    {
+      "stock_code": "300170",
+      "stock_name": "汉得信息",
+      "weight": 6.13
+    },
+    {
+      "stock_code": "688500",
+      "stock_name": "慧辰股份",
+      "weight": 5.31
+    },
+    {
+      "stock_code": "301171",
+      "stock_name": "易点天下",
+      "weight": 5.12
+    },
+    {
+      "stock_code": "603039",
+      "stock_name": "泛微网络",
+      "weight": 5.09
+    },
+    {
+      "stock_code": "688365",
+      "stock_name": "光云科技",
+      "weight": 5.03
+    }
+  ],
+  "fetched_at": "2026-02-02 01:32:01"
+}

@@ -1,0 +1,86 @@
+{
+  "fund_code": "011840",
+  "fund_name": "天弘中证人工智能C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 95.15,
+  "parsed_weight": 55.37,
+  "missing_weight": 39.78,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 10.04
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 10.0
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 8.99
+    },
+    {
+      "stock_code": "688008",
+      "stock_name": "澜起科技",
+      "weight": 4.81
+    },
+    {
+      "stock_code": "603019",
+      "stock_name": "中科曙光",
+      "weight": 4.46
+    },
+    {
+      "stock_code": "002230",
+      "stock_name": "科大讯飞",
+      "weight": 4.14
+    },
+    {
+      "stock_code": "002415",
+      "stock_name": "海康威视",
+      "weight": 3.9
+    },
+    {
+      "stock_code": "603501",
+      "stock_name": "豪威集团",
+      "weight": 3.8
+    },
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "000977",
+      "stock_name": "浪潮信息",
+      "weight": 2.44
+    },
+    {
+      "stock_code": "688795",
+      "stock_name": "摩尔线程",
+      "weight": 0.13
+    },
+    {
+      "stock_code": "688802",
+      "stock_name": "沐曦股份",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "600930",
+      "stock_name": "华电新能",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "688783",
+      "stock_name": "西安奕材",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301656",
+      "stock_name": "联合动力",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-05 00:04:07"
+}

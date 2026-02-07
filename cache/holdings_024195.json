@@ -1,0 +1,64 @@
+{
+  "fund_code": "024195",
+  "fund_name": "永赢国证商用卫星通信产业ETF发起联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 97.08,
+  "parsed_weight": 43.95,
+  "missing_weight": 53.13,
+  "positions": [
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 7.78
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 7.61
+    },
+    {
+      "stock_code": "688002",
+      "stock_name": "睿创微纳",
+      "weight": 5.81
+    },
+    {
+      "stock_code": "300136",
+      "stock_name": "信维通信",
+      "weight": 4.18
+    },
+    {
+      "stock_code": "688385",
+      "stock_name": "复旦微电",
+      "weight": 3.92
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 3.48
+    },
+    {
+      "stock_code": "688270",
+      "stock_name": "臻镭科技",
+      "weight": 3.01
+    },
+    {
+      "stock_code": "002465",
+      "stock_name": "海格通信",
+      "weight": 2.81
+    },
+    {
+      "stock_code": "601698",
+      "stock_name": "中国卫通",
+      "weight": 2.68
+    },
+    {
+      "stock_code": "300782",
+      "stock_name": "卓胜微",
+      "weight": 2.67
+    }
+  ],
+  "fetched_at": "2026-02-01 20:14:19",
+  "original_fund_code": "024195",
+  "etf_target": "159206",
+  "is_etf_link": true
+}

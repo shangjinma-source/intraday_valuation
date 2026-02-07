@@ -1,0 +1,61 @@
+{
+  "fund_code": "025942",
+  "fund_name": "广发新动力混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 88.38,
+  "parsed_weight": 43.51,
+  "missing_weight": 44.87,
+  "positions": [
+    {
+      "stock_code": "300115",
+      "stock_name": "长盈精密",
+      "weight": 7.12
+    },
+    {
+      "stock_code": "603179",
+      "stock_name": "新泉股份",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "603119",
+      "stock_name": "浙江荣泰",
+      "weight": 4.9
+    },
+    {
+      "stock_code": "603667",
+      "stock_name": "五洲新春",
+      "weight": 4.63
+    },
+    {
+      "stock_code": "688160",
+      "stock_name": "步科股份",
+      "weight": 4.61
+    },
+    {
+      "stock_code": "301550",
+      "stock_name": "斯菱智驱",
+      "weight": 4.27
+    },
+    {
+      "stock_code": "301225",
+      "stock_name": "恒勃股份",
+      "weight": 3.54
+    },
+    {
+      "stock_code": "300421",
+      "stock_name": "力星股份",
+      "weight": 3.25
+    },
+    {
+      "stock_code": "601100",
+      "stock_name": "恒立液压",
+      "weight": 3.11
+    },
+    {
+      "stock_code": "002048",
+      "stock_name": "宁波华翔",
+      "weight": 3.07
+    }
+  ],
+  "fetched_at": "2026-02-02 02:04:04"
+}

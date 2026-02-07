@@ -1,0 +1,41 @@
+{
+  "fund_code": "024389",
+  "fund_name": "中航智选领航混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.69,
+  "parsed_weight": 46.18,
+  "missing_weight": 48.51,
+  "positions": [
+    {
+      "stock_code": "688326",
+      "stock_name": "经纬恒润",
+      "weight": 9.89
+    },
+    {
+      "stock_code": "603920",
+      "stock_name": "世运电路",
+      "weight": 9.79
+    },
+    {
+      "stock_code": "002920",
+      "stock_name": "德赛西威",
+      "weight": 9.15
+    },
+    {
+      "stock_code": "603179",
+      "stock_name": "新泉股份",
+      "weight": 5.79
+    },
+    {
+      "stock_code": "688648",
+      "stock_name": "中邮科技",
+      "weight": 5.78
+    },
+    {
+      "stock_code": "600699",
+      "stock_name": "均胜电子",
+      "weight": 5.78
+    }
+  ],
+  "fetched_at": "2026-02-02 02:08:39"
+}

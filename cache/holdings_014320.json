@@ -1,0 +1,51 @@
+{
+  "fund_code": "014320",
+  "fund_name": "德邦半导体产业混合发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.89,
+  "parsed_weight": 43.91,
+  "missing_weight": 49.98,
+  "positions": [
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 6.95
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 6.85
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 6.78
+    },
+    {
+      "stock_code": "001309",
+      "stock_name": "德明利",
+      "weight": 5.78
+    },
+    {
+      "stock_code": "301308",
+      "stock_name": "江波龙",
+      "weight": 4.67
+    },
+    {
+      "stock_code": "603986",
+      "stock_name": "兆易创新",
+      "weight": 4.59
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 4.27
+    },
+    {
+      "stock_code": "688548",
+      "stock_name": "广钢气体",
+      "weight": 4.02
+    }
+  ],
+  "fetched_at": "2026-02-01 19:59:37"
+}

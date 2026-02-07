@@ -1,0 +1,61 @@
+{
+  "fund_code": "019571",
+  "fund_name": "诺安优化配置混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 87.93,
+  "parsed_weight": 65.53,
+  "missing_weight": 22.4,
+  "positions": [
+    {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 8.42
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 8.2
+    },
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 7.72
+    },
+    {
+      "stock_code": "301269",
+      "stock_name": "华大九天",
+      "weight": 7.65
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 7.39
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 6.33
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 5.24
+    },
+    {
+      "stock_code": "600895",
+      "stock_name": "张江高科",
+      "weight": 5.06
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "688627",
+      "stock_name": "精智达",
+      "weight": 4.48
+    }
+  ],
+  "fetched_at": "2026-02-01 01:32:31"
+}

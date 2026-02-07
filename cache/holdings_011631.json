@@ -1,0 +1,86 @@
+{
+  "fund_code": "011631",
+  "fund_name": "东财有色增强C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 96.05,
+  "parsed_weight": 45.64,
+  "missing_weight": 50.41,
+  "positions": [
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 9.02
+    },
+    {
+      "stock_code": "603993",
+      "stock_name": "洛阳钼业",
+      "weight": 7.67
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 4.57
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 4.28
+    },
+    {
+      "stock_code": "600111",
+      "stock_name": "北方稀土",
+      "weight": 3.94
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "002466",
+      "stock_name": "天齐锂业",
+      "weight": 2.78
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 2.68
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 2.63
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 2.57
+    },
+    {
+      "stock_code": "000408",
+      "stock_name": "藏格矿业",
+      "weight": 0.75
+    },
+    {
+      "stock_code": "000603",
+      "stock_name": "盛达资源",
+      "weight": 0.57
+    },
+    {
+      "stock_code": "600711",
+      "stock_name": "盛屯矿业",
+      "weight": 0.51
+    },
+    {
+      "stock_code": "603979",
+      "stock_name": "金诚信",
+      "weight": 0.5
+    },
+    {
+      "stock_code": "000758",
+      "stock_name": "中色股份",
+      "weight": 0.31
+    }
+  ],
+  "fetched_at": "2026-02-01 00:38:46"
+}

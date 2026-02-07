@@ -1,0 +1,74 @@
+{
+  "fund_code": "012680",
+  "fund_name": "华泰柏瑞光伏ETF联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.32,
+  "parsed_weight": 54.76,
+  "missing_weight": 44.56,
+  "positions": [
+    {
+      "stock_code": "600089",
+      "stock_name": "特变电工",
+      "weight": 9.79
+    },
+    {
+      "stock_code": "601012",
+      "stock_name": "隆基绿能",
+      "weight": 9.61
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 9.19
+    },
+    {
+      "stock_code": "000100",
+      "stock_name": "TCL科技",
+      "weight": 8.23
+    },
+    {
+      "stock_code": "600438",
+      "stock_name": "通威股份",
+      "weight": 4.82
+    },
+    {
+      "stock_code": "300751",
+      "stock_name": "迈为股份",
+      "weight": 3.0
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 2.73
+    },
+    {
+      "stock_code": "601877",
+      "stock_name": "正泰电器",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "002129",
+      "stock_name": "TCL中环",
+      "weight": 2.42
+    },
+    {
+      "stock_code": "300724",
+      "stock_name": "捷佳伟创",
+      "weight": 2.31
+    },
+    {
+      "stock_code": "688795",
+      "stock_name": "摩尔线程",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "688802",
+      "stock_name": "沐曦股份",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-02 02:16:58",
+  "original_fund_code": "012680",
+  "etf_target": "515790",
+  "is_etf_link": true
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "005967",
+  "fund_name": "鹏华创新驱动混合",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.19,
+  "parsed_weight": 85.85,
+  "missing_weight": 8.34,
+  "positions": [
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 10.06
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 9.92
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 9.76
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 9.44
+    },
+    {
+      "stock_code": "603986",
+      "stock_name": "兆易创新",
+      "weight": 9.24
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 9.24
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 9.16
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "weight": 9.05
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 5.07
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 4.91
+    }
+  ],
+  "fetched_at": "2026-02-01 19:58:02"
+}

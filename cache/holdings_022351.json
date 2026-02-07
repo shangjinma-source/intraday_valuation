@@ -1,0 +1,64 @@
+{
+  "fund_code": "022351",
+  "fund_name": "嘉实中证全指集成电路ETF发起联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.64,
+  "parsed_weight": 53.45,
+  "missing_weight": 46.19,
+  "positions": [
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 11.47
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 9.91
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 8.4
+    },
+    {
+      "stock_code": "603986",
+      "stock_name": "兆易创新",
+      "weight": 5.78
+    },
+    {
+      "stock_code": "688008",
+      "stock_name": "澜起科技",
+      "weight": 5.43
+    },
+    {
+      "stock_code": "603501",
+      "stock_name": "豪威集团",
+      "weight": 4.29
+    },
+    {
+      "stock_code": "002049",
+      "stock_name": "紫光国微",
+      "weight": 2.17
+    },
+    {
+      "stock_code": "600584",
+      "stock_name": "长电科技",
+      "weight": 2.12
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 2.03
+    },
+    {
+      "stock_code": "002156",
+      "stock_name": "通富微电",
+      "weight": 1.85
+    }
+  ],
+  "fetched_at": "2026-02-01 20:02:19",
+  "original_fund_code": "022351",
+  "etf_target": "562820",
+  "is_etf_link": true
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "001407",
+  "fund_name": "景顺长城稳健回报混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 90.63,
+  "parsed_weight": 61.89,
+  "missing_weight": 28.74,
+  "positions": [
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 9.31
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 8.7
+    },
+    {
+      "stock_code": "002384",
+      "stock_name": "东山精密",
+      "weight": 8.36
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 7.64
+    },
+    {
+      "stock_code": "603179",
+      "stock_name": "新泉股份",
+      "weight": 6.46
+    },
+    {
+      "stock_code": "601138",
+      "stock_name": "工业富联",
+      "weight": 5.39
+    },
+    {
+      "stock_code": "688676",
+      "stock_name": "金盘科技",
+      "weight": 4.85
+    },
+    {
+      "stock_code": "301550",
+      "stock_name": "斯菱智驱",
+      "weight": 4.47
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "weight": 3.74
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 2.97
+    }
+  ],
+  "fetched_at": "2026-02-02 01:28:54"
+}

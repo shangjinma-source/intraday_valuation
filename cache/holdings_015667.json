@@ -1,0 +1,61 @@
+{
+  "fund_code": "015667",
+  "fund_name": "银河文体娱乐混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 89.3,
+  "parsed_weight": 57.79,
+  "missing_weight": 31.51,
+  "positions": [
+    {
+      "stock_code": "301110",
+      "stock_name": "青木科技",
+      "weight": 8.26
+    },
+    {
+      "stock_code": "301171",
+      "stock_name": "易点天下",
+      "weight": 7.61
+    },
+    {
+      "stock_code": "000892",
+      "stock_name": "欢瑞世纪",
+      "weight": 6.23
+    },
+    {
+      "stock_code": "002858",
+      "stock_name": "力盛体育",
+      "weight": 5.41
+    },
+    {
+      "stock_code": "300364",
+      "stock_name": "中文在线",
+      "weight": 5.24
+    },
+    {
+      "stock_code": "002315",
+      "stock_name": "焦点科技",
+      "weight": 5.21
+    },
+    {
+      "stock_code": "002602",
+      "stock_name": "世纪华通",
+      "weight": 5.21
+    },
+    {
+      "stock_code": "002517",
+      "stock_name": "恺英网络",
+      "weight": 4.93
+    },
+    {
+      "stock_code": "300378",
+      "stock_name": "鼎捷数智",
+      "weight": 4.89
+    },
+    {
+      "stock_code": "301231",
+      "stock_name": "荣信文化",
+      "weight": 4.8
+    }
+  ],
+  "fetched_at": "2026-02-02 01:30:35"
+}

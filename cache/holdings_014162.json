@@ -1,0 +1,61 @@
+{
+  "fund_code": "014162",
+  "fund_name": "万家人工智能混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 89.56,
+  "parsed_weight": 58.16,
+  "missing_weight": 31.4,
+  "positions": [
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 9.56
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 9.45
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 7.91
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 6.32
+    },
+    {
+      "stock_code": "688702",
+      "stock_name": "盛科通信",
+      "weight": 4.36
+    },
+    {
+      "stock_code": "002436",
+      "stock_name": "兴森科技",
+      "weight": 4.21
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 4.14
+    },
+    {
+      "stock_code": "603083",
+      "stock_name": "剑桥科技",
+      "weight": 4.14
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 4.06
+    },
+    {
+      "stock_code": "002080",
+      "stock_name": "中材科技",
+      "weight": 4.01
+    }
+  ],
+  "fetched_at": "2026-02-05 00:03:16"
+}

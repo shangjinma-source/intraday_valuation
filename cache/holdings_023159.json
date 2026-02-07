@@ -1,0 +1,61 @@
+{
+  "fund_code": "023159",
+  "fund_name": "上银先进制造混合发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.33,
+  "parsed_weight": 56.13,
+  "missing_weight": 37.2,
+  "positions": [
+    {
+      "stock_code": "688778",
+      "stock_name": "厦钨新能",
+      "weight": 8.08
+    },
+    {
+      "stock_code": "300285",
+      "stock_name": "国瓷材料",
+      "weight": 7.85
+    },
+    {
+      "stock_code": "002738",
+      "stock_name": "中矿资源",
+      "weight": 6.06
+    },
+    {
+      "stock_code": "002460",
+      "stock_name": "赣锋锂业",
+      "weight": 5.95
+    },
+    {
+      "stock_code": "301662",
+      "stock_name": "宏工科技",
+      "weight": 5.08
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "002203",
+      "stock_name": "海亮股份",
+      "weight": 4.86
+    },
+    {
+      "stock_code": "301360",
+      "stock_name": "荣旗科技",
+      "weight": 4.49
+    },
+    {
+      "stock_code": "301150",
+      "stock_name": "中一科技",
+      "weight": 4.43
+    },
+    {
+      "stock_code": "688518",
+      "stock_name": "联赢激光",
+      "weight": 4.32
+    }
+  ],
+  "fetched_at": "2026-02-02 01:45:05"
+}

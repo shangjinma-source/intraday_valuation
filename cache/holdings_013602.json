@@ -1,0 +1,89 @@
+{
+  "fund_code": "013602",
+  "fund_name": "国泰中证光伏产业ETF发起联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.5,
+  "parsed_weight": 54.92,
+  "missing_weight": 44.58,
+  "positions": [
+    {
+      "stock_code": "600089",
+      "stock_name": "特变电工",
+      "weight": 9.76
+    },
+    {
+      "stock_code": "601012",
+      "stock_name": "隆基绿能",
+      "weight": 9.59
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 9.15
+    },
+    {
+      "stock_code": "000100",
+      "stock_name": "TCL科技",
+      "weight": 8.21
+    },
+    {
+      "stock_code": "600438",
+      "stock_name": "通威股份",
+      "weight": 4.82
+    },
+    {
+      "stock_code": "300751",
+      "stock_name": "迈为股份",
+      "weight": 3.0
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 2.72
+    },
+    {
+      "stock_code": "601877",
+      "stock_name": "正泰电器",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "002129",
+      "stock_name": "TCL中环",
+      "weight": 2.41
+    },
+    {
+      "stock_code": "300724",
+      "stock_name": "捷佳伟创",
+      "weight": 2.31
+    },
+    {
+      "stock_code": "688765",
+      "stock_name": "禾元生物",
+      "weight": 0.1
+    },
+    {
+      "stock_code": "688783",
+      "stock_name": "西安奕材",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "688809",
+      "stock_name": "强一股份",
+      "weight": 0.08
+    },
+    {
+      "stock_code": "688795",
+      "stock_name": "摩尔线程",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "001369",
+      "stock_name": "双欣环保",
+      "weight": 0.03
+    }
+  ],
+  "fetched_at": "2026-02-02 02:16:33",
+  "original_fund_code": "013602",
+  "etf_target": "159864",
+  "is_etf_link": true
+}

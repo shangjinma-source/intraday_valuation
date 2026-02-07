@@ -1,0 +1,61 @@
+{
+  "fund_code": "013346",
+  "fund_name": "富荣信息技术混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.47,
+  "parsed_weight": 52.82,
+  "missing_weight": 41.65,
+  "positions": [
+    {
+      "stock_code": "688031",
+      "stock_name": "星环科技",
+      "weight": 7.08
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 6.81
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 5.91
+    },
+    {
+      "stock_code": "688500",
+      "stock_name": "慧辰股份",
+      "weight": 5.26
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 4.94
+    },
+    {
+      "stock_code": "688258",
+      "stock_name": "卓易信息",
+      "weight": 4.93
+    },
+    {
+      "stock_code": "300058",
+      "stock_name": "蓝色光标",
+      "weight": 4.59
+    },
+    {
+      "stock_code": "688095",
+      "stock_name": "福昕软件",
+      "weight": 4.49
+    },
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 4.42
+    },
+    {
+      "stock_code": "688229",
+      "stock_name": "博睿数据",
+      "weight": 4.39
+    }
+  ],
+  "fetched_at": "2026-02-02 01:31:06"
+}

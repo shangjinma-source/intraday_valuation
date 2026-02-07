@@ -1,0 +1,61 @@
+{
+  "fund_code": "020124",
+  "fund_name": "银华沪深股通精选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 68.84,
+  "parsed_weight": 40.67,
+  "missing_weight": 28.17,
+  "positions": [
+    {
+      "stock_code": "600030",
+      "stock_name": "中信证券",
+      "weight": 5.64
+    },
+    {
+      "stock_code": "601198",
+      "stock_name": "东兴证券",
+      "weight": 4.84
+    },
+    {
+      "stock_code": "600958",
+      "stock_name": "东方证券",
+      "weight": 4.75
+    },
+    {
+      "stock_code": "601211",
+      "stock_name": "国泰海通",
+      "weight": 4.41
+    },
+    {
+      "stock_code": "601377",
+      "stock_name": "兴业证券",
+      "weight": 4.07
+    },
+    {
+      "stock_code": "002155",
+      "stock_name": "湖南黄金",
+      "weight": 3.88
+    },
+    {
+      "stock_code": "600999",
+      "stock_name": "招商证券",
+      "weight": 3.63
+    },
+    {
+      "stock_code": "002027",
+      "stock_name": "分众传媒",
+      "weight": 3.58
+    },
+    {
+      "stock_code": "601555",
+      "stock_name": "东吴证券",
+      "weight": 3.54
+    },
+    {
+      "stock_code": "300413",
+      "stock_name": "芒果超媒",
+      "weight": 2.33
+    }
+  ],
+  "fetched_at": "2026-02-01 00:45:32"
+}

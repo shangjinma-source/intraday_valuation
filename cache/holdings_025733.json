@@ -1,0 +1,64 @@
+{
+  "fund_code": "025733",
+  "fund_name": "华安国证航天航空行业ETF发起式联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 98.08,
+  "parsed_weight": 51.37,
+  "missing_weight": 46.71,
+  "positions": [
+    {
+      "stock_code": "002625",
+      "stock_name": "光启技术",
+      "weight": 9.13
+    },
+    {
+      "stock_code": "600893",
+      "stock_name": "航发动力",
+      "weight": 6.42
+    },
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 6.34
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 6.14
+    },
+    {
+      "stock_code": "600760",
+      "stock_name": "中航沈飞",
+      "weight": 5.85
+    },
+    {
+      "stock_code": "000547",
+      "stock_name": "航天发展",
+      "weight": 4.85
+    },
+    {
+      "stock_code": "000768",
+      "stock_name": "中航西飞",
+      "weight": 3.89
+    },
+    {
+      "stock_code": "600372",
+      "stock_name": "中航机载",
+      "weight": 3.56
+    },
+    {
+      "stock_code": "302132",
+      "stock_name": "中航成飞",
+      "weight": 2.6
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 2.59
+    }
+  ],
+  "fetched_at": "2026-02-01 20:14:01",
+  "original_fund_code": "025733",
+  "etf_target": "159267",
+  "is_etf_link": true
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "007046",
+  "fund_name": "方正富邦创新动力混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.42,
+  "parsed_weight": 63.63,
+  "missing_weight": 30.79,
+  "positions": [
+    {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 9.24
+    },
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 7.99
+    },
+    {
+      "stock_code": "600580",
+      "stock_name": "卧龙电驱",
+      "weight": 7.69
+    },
+    {
+      "stock_code": "601698",
+      "stock_name": "中国卫通",
+      "weight": 6.72
+    },
+    {
+      "stock_code": "000801",
+      "stock_name": "四川九洲",
+      "weight": 6.64
+    },
+    {
+      "stock_code": "688333",
+      "stock_name": "铂力特",
+      "weight": 5.46
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 5.3
+    },
+    {
+      "stock_code": "300900",
+      "stock_name": "广联航空",
+      "weight": 5.05
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "600435",
+      "stock_name": "北方导航",
+      "weight": 4.53
+    }
+  ],
+  "fetched_at": "2026-02-01 20:10:43"
+}

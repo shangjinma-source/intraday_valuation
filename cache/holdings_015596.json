@@ -1,0 +1,66 @@
+{
+  "fund_code": "015596",
+  "fund_name": "国泰国证有色金属行业指数(LOF)C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.33,
+  "parsed_weight": 48.71,
+  "missing_weight": 45.62,
+  "positions": [
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 14.6
+    },
+    {
+      "stock_code": "603993",
+      "stock_name": "洛阳钼业",
+      "weight": 6.2
+    },
+    {
+      "stock_code": "600111",
+      "stock_name": "北方稀土",
+      "weight": 4.72
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 4.65
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 4.31
+    },
+    {
+      "stock_code": "002460",
+      "stock_name": "赣锋锂业",
+      "weight": 3.1
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 3.01
+    },
+    {
+      "stock_code": "600547",
+      "stock_name": "山东黄金",
+      "weight": 2.81
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 2.8
+    },
+    {
+      "stock_code": "002466",
+      "stock_name": "天齐锂业",
+      "weight": 2.5
+    },
+    {
+      "stock_code": "301656",
+      "stock_name": "联合动力",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-01 00:41:31"
+}

@@ -1,0 +1,51 @@
+{
+  "fund_code": "018241",
+  "fund_name": "嘉实制造升级股票发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.59,
+  "parsed_weight": 45.25,
+  "missing_weight": 48.34,
+  "positions": [
+    {
+      "stock_code": "688290",
+      "stock_name": "景业智能",
+      "weight": 8.78
+    },
+    {
+      "stock_code": "300969",
+      "stock_name": "恒帅股份",
+      "weight": 7.9
+    },
+    {
+      "stock_code": "601100",
+      "stock_name": "恒立液压",
+      "weight": 6.83
+    },
+    {
+      "stock_code": "688160",
+      "stock_name": "步科股份",
+      "weight": 5.11
+    },
+    {
+      "stock_code": "603040",
+      "stock_name": "新坐标",
+      "weight": 4.32
+    },
+    {
+      "stock_code": "002937",
+      "stock_name": "兴瑞科技",
+      "weight": 4.19
+    },
+    {
+      "stock_code": "688322",
+      "stock_name": "奥比中光",
+      "weight": 4.15
+    },
+    {
+      "stock_code": "300354",
+      "stock_name": "东华测试",
+      "weight": 3.97
+    }
+  ],
+  "fetched_at": "2026-02-02 02:05:13"
+}

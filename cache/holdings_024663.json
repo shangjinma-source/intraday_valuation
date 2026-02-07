@@ -1,0 +1,64 @@
+{
+  "fund_code": "024663",
+  "fund_name": "富国创业板人工智能ETF发起式联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.93,
+  "parsed_weight": 58.06,
+  "missing_weight": 41.87,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 15.67
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 15.56
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 6.83
+    },
+    {
+      "stock_code": "300058",
+      "stock_name": "蓝色光标",
+      "weight": 3.17
+    },
+    {
+      "stock_code": "300857",
+      "stock_name": "协创数据",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "300339",
+      "stock_name": "润和软件",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "300033",
+      "stock_name": "同花顺",
+      "weight": 2.84
+    },
+    {
+      "stock_code": "300223",
+      "stock_name": "北京君正",
+      "weight": 2.79
+    },
+    {
+      "stock_code": "300442",
+      "stock_name": "润泽科技",
+      "weight": 2.77
+    },
+    {
+      "stock_code": "300418",
+      "stock_name": "昆仑万维",
+      "weight": 2.71
+    }
+  ],
+  "fetched_at": "2026-02-05 00:10:50",
+  "original_fund_code": "024663",
+  "etf_target": "159246",
+  "is_etf_link": true
+}

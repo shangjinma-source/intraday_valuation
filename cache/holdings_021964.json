@@ -1,0 +1,66 @@
+{
+  "fund_code": "021964",
+  "fund_name": "天弘储能电池指数C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.58,
+  "parsed_weight": 56.41,
+  "missing_weight": 38.17,
+  "positions": [
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 8.85
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 8.79
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 8.64
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 7.32
+    },
+    {
+      "stock_code": "002074",
+      "stock_name": "国轩高科",
+      "weight": 4.9
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 4.28
+    },
+    {
+      "stock_code": "300207",
+      "stock_name": "欣旺达",
+      "weight": 4.1
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 3.69
+    },
+    {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 3.24
+    },
+    {
+      "stock_code": "688676",
+      "stock_name": "金盘科技",
+      "weight": 2.58
+    },
+    {
+      "stock_code": "001280",
+      "stock_name": "中国铀业",
+      "weight": 0.02
+    }
+  ],
+  "fetched_at": "2026-02-02 01:40:26"
+}

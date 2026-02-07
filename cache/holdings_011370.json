@@ -1,0 +1,61 @@
+{
+  "fund_code": "011370",
+  "fund_name": "华商均衡成长混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 92.39,
+  "parsed_weight": 50.01,
+  "missing_weight": 42.38,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 8.0
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 7.32
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 5.45
+    },
+    {
+      "stock_code": "601869",
+      "stock_name": "长飞光纤",
+      "weight": 4.91
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "weight": 4.18
+    },
+    {
+      "stock_code": "002384",
+      "stock_name": "东山精密",
+      "weight": 4.17
+    },
+    {
+      "stock_code": "688143",
+      "stock_name": "长盈通",
+      "weight": 4.03
+    },
+    {
+      "stock_code": "300548",
+      "stock_name": "长芯博创",
+      "weight": 4.0
+    },
+    {
+      "stock_code": "688195",
+      "stock_name": "腾景科技",
+      "weight": 4.0
+    },
+    {
+      "stock_code": "688233",
+      "stock_name": "神工股份",
+      "weight": 3.95
+    }
+  ],
+  "fetched_at": "2026-02-02 01:17:58"
+}

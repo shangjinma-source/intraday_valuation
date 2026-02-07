@@ -1,0 +1,56 @@
+{
+  "fund_code": "015968",
+  "fund_name": "永赢半导体产业智选混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 80.2,
+  "parsed_weight": 62.06,
+  "missing_weight": 18.14,
+  "positions": [
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 9.21
+    },
+    {
+      "stock_code": "002338",
+      "stock_name": "奥普光电",
+      "weight": 8.98
+    },
+    {
+      "stock_code": "301392",
+      "stock_name": "汇成真空",
+      "weight": 8.82
+    },
+    {
+      "stock_code": "002222",
+      "stock_name": "福晶科技",
+      "weight": 7.7
+    },
+    {
+      "stock_code": "301308",
+      "stock_name": "江波龙",
+      "weight": 6.28
+    },
+    {
+      "stock_code": "001309",
+      "stock_name": "德明利",
+      "weight": 5.94
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 5.79
+    },
+    {
+      "stock_code": "688172",
+      "stock_name": "燕东微",
+      "weight": 4.95
+    },
+    {
+      "stock_code": "603986",
+      "stock_name": "兆易创新",
+      "weight": 4.39
+    }
+  ],
+  "fetched_at": "2026-02-01 01:28:40"
+}

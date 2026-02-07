@@ -1,0 +1,61 @@
+{
+  "fund_code": "018777",
+  "fund_name": "金信精选成长混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 89.77,
+  "parsed_weight": 82.58,
+  "missing_weight": 7.19,
+  "positions": [
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 10.23
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 9.92
+    },
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 9.89
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 9.73
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 9.63
+    },
+    {
+      "stock_code": "002222",
+      "stock_name": "福晶科技",
+      "weight": 8.91
+    },
+    {
+      "stock_code": "301421",
+      "stock_name": "波长光电",
+      "weight": 7.44
+    },
+    {
+      "stock_code": "301392",
+      "stock_name": "汇成真空",
+      "weight": 6.35
+    },
+    {
+      "stock_code": "688195",
+      "stock_name": "腾景科技",
+      "weight": 5.26
+    },
+    {
+      "stock_code": "301021",
+      "stock_name": "英诺激光",
+      "weight": 5.22
+    }
+  ],
+  "fetched_at": "2026-02-01 01:32:16"
+}

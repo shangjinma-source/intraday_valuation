@@ -1,0 +1,61 @@
+{
+  "fund_code": "011068",
+  "fund_name": "华宝资源优选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 89.57,
+  "parsed_weight": 56.68,
+  "missing_weight": 32.89,
+  "positions": [
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 9.55
+    },
+    {
+      "stock_code": "603993",
+      "stock_name": "洛阳钼业",
+      "weight": 9.48
+    },
+    {
+      "stock_code": "002738",
+      "stock_name": "中矿资源",
+      "weight": 6.9
+    },
+    {
+      "stock_code": "000408",
+      "stock_name": "藏格矿业",
+      "weight": 5.12
+    },
+    {
+      "stock_code": "000630",
+      "stock_name": "铜陵有色",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 4.85
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 4.42
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 3.89
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "weight": 3.73
+    },
+    {
+      "stock_code": "300390",
+      "stock_name": "天华新能",
+      "weight": 3.73
+    }
+  ],
+  "fetched_at": "2026-02-01 00:46:48"
+}

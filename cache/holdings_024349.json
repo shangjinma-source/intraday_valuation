@@ -1,0 +1,61 @@
+{
+  "fund_code": "024349",
+  "fund_name": "中欧国证通用航空产业指数发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 91.92,
+  "parsed_weight": 30.63,
+  "missing_weight": 61.29,
+  "positions": [
+    {
+      "stock_code": "002085",
+      "stock_name": "万丰奥威",
+      "weight": 4.69
+    },
+    {
+      "stock_code": "600038",
+      "stock_name": "中直股份",
+      "weight": 3.32
+    },
+    {
+      "stock_code": "002389",
+      "stock_name": "航天彩虹",
+      "weight": 3.31
+    },
+    {
+      "stock_code": "300045",
+      "stock_name": "华力创通",
+      "weight": 3.3
+    },
+    {
+      "stock_code": "600316",
+      "stock_name": "洪都航空",
+      "weight": 3.16
+    },
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 3.08
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 2.56
+    },
+    {
+      "stock_code": "688297",
+      "stock_name": "中无人机",
+      "weight": 2.5
+    },
+    {
+      "stock_code": "300342",
+      "stock_name": "天银机电",
+      "weight": 2.45
+    },
+    {
+      "stock_code": "002151",
+      "stock_name": "北斗星通",
+      "weight": 2.26
+    }
+  ],
+  "fetched_at": "2026-02-01 20:16:44"
+}

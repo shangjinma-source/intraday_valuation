@@ -1,0 +1,61 @@
+{
+  "fund_code": "020486",
+  "fund_name": "华富智慧城市灵活配置混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 91.36,
+  "parsed_weight": 44.31,
+  "missing_weight": 47.05,
+  "positions": [
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 5.6
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 4.84
+    },
+    {
+      "stock_code": "688292",
+      "stock_name": "浩瀚深度",
+      "weight": 4.66
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 4.61
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 4.52
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 4.33
+    },
+    {
+      "stock_code": "603859",
+      "stock_name": "能科科技",
+      "weight": 4.05
+    },
+    {
+      "stock_code": "301396",
+      "stock_name": "宏景科技",
+      "weight": 4.02
+    },
+    {
+      "stock_code": "688031",
+      "stock_name": "星环科技",
+      "weight": 3.86
+    },
+    {
+      "stock_code": "688258",
+      "stock_name": "卓易信息",
+      "weight": 3.82
+    }
+  ],
+  "fetched_at": "2026-02-02 01:32:17"
+}

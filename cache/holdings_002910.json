@@ -1,0 +1,61 @@
+{
+  "fund_code": "002910",
+  "fund_name": "易方达供给改革混合",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 88.27,
+  "parsed_weight": 52.88,
+  "missing_weight": 35.39,
+  "positions": [
+    {
+      "stock_code": "002444",
+      "stock_name": "巨星科技",
+      "weight": 6.77
+    },
+    {
+      "stock_code": "600348",
+      "stock_name": "华阳股份",
+      "weight": 6.51
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 6.12
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 5.45
+    },
+    {
+      "stock_code": "688372",
+      "stock_name": "伟测科技",
+      "weight": 5.1
+    },
+    {
+      "stock_code": "688629",
+      "stock_name": "华丰科技",
+      "weight": 4.86
+    },
+    {
+      "stock_code": "688233",
+      "stock_name": "神工股份",
+      "weight": 4.76
+    },
+    {
+      "stock_code": "688652",
+      "stock_name": "京仪装备",
+      "weight": 4.71
+    },
+    {
+      "stock_code": "603995",
+      "stock_name": "甬金股份",
+      "weight": 4.56
+    },
+    {
+      "stock_code": "688392",
+      "stock_name": "骄成超声",
+      "weight": 4.04
+    }
+  ],
+  "fetched_at": "2026-02-01 20:00:28"
+}

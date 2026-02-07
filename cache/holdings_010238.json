@@ -1,0 +1,61 @@
+{
+  "fund_code": "010238",
+  "fund_name": "安信创新先锋混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.8,
+  "parsed_weight": 70.72,
+  "missing_weight": 24.08,
+  "positions": [
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 9.74
+    },
+    {
+      "stock_code": "002384",
+      "stock_name": "东山精密",
+      "weight": 9.74
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 9.68
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 7.31
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 6.22
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 6.02
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 5.86
+    },
+    {
+      "stock_code": "601138",
+      "stock_name": "工业富联",
+      "weight": 5.72
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 5.31
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 5.12
+    }
+  ],
+  "fetched_at": "2026-02-02 01:18:33"
+}

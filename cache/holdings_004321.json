@@ -1,0 +1,61 @@
+{
+  "fund_code": "004321",
+  "fund_name": "前海开源沪港深强国产业混合",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 92.46,
+  "parsed_weight": 59.46,
+  "missing_weight": 33.0,
+  "positions": [
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 7.57
+    },
+    {
+      "stock_code": "002149",
+      "stock_name": "西部材料",
+      "weight": 7.4
+    },
+    {
+      "stock_code": "301005",
+      "stock_name": "超捷股份",
+      "weight": 7.2
+    },
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 7.1
+    },
+    {
+      "stock_code": "688270",
+      "stock_name": "臻镭科技",
+      "weight": 6.04
+    },
+    {
+      "stock_code": "601698",
+      "stock_name": "中国卫通",
+      "weight": 5.11
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 5.02
+    },
+    {
+      "stock_code": "605598",
+      "stock_name": "上海港湾",
+      "weight": 4.91
+    },
+    {
+      "stock_code": "300699",
+      "stock_name": "光威复材",
+      "weight": 4.64
+    },
+    {
+      "stock_code": "603698",
+      "stock_name": "航天工程",
+      "weight": 4.47
+    }
+  ],
+  "fetched_at": "2026-02-01 20:11:13"
+}

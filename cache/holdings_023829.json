@@ -1,0 +1,89 @@
+{
+  "fund_code": "023829",
+  "fund_name": "万家中证半导体材料设备主题ETF发起式联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 98.65,
+  "parsed_weight": 64.11,
+  "missing_weight": 34.54,
+  "positions": [
+    {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 14.04
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 13.44
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 6.95
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 5.61
+    },
+    {
+      "stock_code": "688126",
+      "stock_name": "沪硅产业",
+      "weight": 5.18
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 4.64
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 4.01
+    },
+    {
+      "stock_code": "300346",
+      "stock_name": "南大光电",
+      "weight": 3.7
+    },
+    {
+      "stock_code": "688019",
+      "stock_name": "安集科技",
+      "weight": 3.21
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 2.99
+    },
+    {
+      "stock_code": "688795",
+      "stock_name": "摩尔线程",
+      "weight": 0.16
+    },
+    {
+      "stock_code": "688802",
+      "stock_name": "沐曦股份",
+      "weight": 0.11
+    },
+    {
+      "stock_code": "600930",
+      "stock_name": "华电新能",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "001280",
+      "stock_name": "中国铀业",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688783",
+      "stock_name": "西安奕材",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-01 01:36:03",
+  "original_fund_code": "023829",
+  "etf_target": "159327",
+  "is_etf_link": true
+}

@@ -1,0 +1,66 @@
+{
+  "fund_code": "012723",
+  "fund_name": "平安中证光伏产业指数C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.99,
+  "parsed_weight": 51.79,
+  "missing_weight": 42.2,
+  "positions": [
+    {
+      "stock_code": "600089",
+      "stock_name": "特变电工",
+      "weight": 9.26
+    },
+    {
+      "stock_code": "601012",
+      "stock_name": "隆基绿能",
+      "weight": 9.1
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 8.67
+    },
+    {
+      "stock_code": "000100",
+      "stock_name": "TCL科技",
+      "weight": 7.79
+    },
+    {
+      "stock_code": "600438",
+      "stock_name": "通威股份",
+      "weight": 4.57
+    },
+    {
+      "stock_code": "300751",
+      "stock_name": "迈为股份",
+      "weight": 2.85
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 2.58
+    },
+    {
+      "stock_code": "601877",
+      "stock_name": "正泰电器",
+      "weight": 2.47
+    },
+    {
+      "stock_code": "002129",
+      "stock_name": "TCL中环",
+      "weight": 2.29
+    },
+    {
+      "stock_code": "300724",
+      "stock_name": "捷佳伟创",
+      "weight": 2.2
+    },
+    {
+      "stock_code": "301611",
+      "stock_name": "珂玛科技",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-02 02:16:34"
+}

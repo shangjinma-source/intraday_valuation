@@ -1,0 +1,61 @@
+{
+  "fund_code": "020982",
+  "fund_name": "华安国证机器人产业指数发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 91.22,
+  "parsed_weight": 35.84,
+  "missing_weight": 55.38,
+  "positions": [
+    {
+      "stock_code": "688017",
+      "stock_name": "绿的谐波",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "002472",
+      "stock_name": "双环传动",
+      "weight": 4.87
+    },
+    {
+      "stock_code": "300024",
+      "stock_name": "机器人",
+      "weight": 4.32
+    },
+    {
+      "stock_code": "688169",
+      "stock_name": "石头科技",
+      "weight": 4.15
+    },
+    {
+      "stock_code": "603486",
+      "stock_name": "科沃斯",
+      "weight": 3.38
+    },
+    {
+      "stock_code": "002050",
+      "stock_name": "三花智控",
+      "weight": 3.04
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 2.89
+    },
+    {
+      "stock_code": "603728",
+      "stock_name": "鸣志电器",
+      "weight": 2.87
+    },
+    {
+      "stock_code": "002600",
+      "stock_name": "领益智造",
+      "weight": 2.65
+    },
+    {
+      "stock_code": "002747",
+      "stock_name": "埃斯顿",
+      "weight": 2.63
+    }
+  ],
+  "fetched_at": "2026-02-02 02:08:14"
+}

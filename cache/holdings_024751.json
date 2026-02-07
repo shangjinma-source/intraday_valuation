@@ -1,0 +1,86 @@
+{
+  "fund_code": "024751",
+  "fund_name": "兴业上证科创板人工智能指数C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.79,
+  "parsed_weight": 63.0,
+  "missing_weight": 30.79,
+  "positions": [
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 9.2
+    },
+    {
+      "stock_code": "688008",
+      "stock_name": "澜起科技",
+      "weight": 8.76
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 8.75
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 8.69
+    },
+    {
+      "stock_code": "688169",
+      "stock_name": "石头科技",
+      "weight": 5.43
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 5.07
+    },
+    {
+      "stock_code": "688385",
+      "stock_name": "复旦微电",
+      "weight": 4.78
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 4.62
+    },
+    {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 4.11
+    },
+    {
+      "stock_code": "688343",
+      "stock_name": "云天励飞",
+      "weight": 3.29
+    },
+    {
+      "stock_code": "688066",
+      "stock_name": "航天宏图",
+      "weight": 0.15
+    },
+    {
+      "stock_code": "688595",
+      "stock_name": "芯海科技",
+      "weight": 0.06
+    },
+    {
+      "stock_code": "688796",
+      "stock_name": "百奥赛图",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "688795",
+      "stock_name": "摩尔线程",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "688802",
+      "stock_name": "沐曦股份",
+      "weight": 0.02
+    }
+  ],
+  "fetched_at": "2026-02-05 00:05:22"
+}

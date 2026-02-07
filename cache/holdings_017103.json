@@ -1,0 +1,61 @@
+{
+  "fund_code": "017103",
+  "fund_name": "大摩数字经济混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.47,
+  "parsed_weight": 59.68,
+  "missing_weight": 33.79,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 8.8
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 8.54
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 7.77
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 6.77
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 6.73
+    },
+    {
+      "stock_code": "300136",
+      "stock_name": "信维通信",
+      "weight": 4.7
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 4.58
+    },
+    {
+      "stock_code": "002384",
+      "stock_name": "东山精密",
+      "weight": 4.33
+    },
+    {
+      "stock_code": "601231",
+      "stock_name": "环旭电子",
+      "weight": 3.83
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 3.63
+    }
+  ],
+  "fetched_at": "2026-02-02 01:18:53"
+}

@@ -1,0 +1,46 @@
+{
+  "fund_code": "012183",
+  "fund_name": "广发沪港深精选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 86.14,
+  "parsed_weight": 33.31,
+  "missing_weight": 52.83,
+  "positions": [
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 5.26
+    },
+    {
+      "stock_code": "688365",
+      "stock_name": "光云科技",
+      "weight": 5.22
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 5.18
+    },
+    {
+      "stock_code": "002315",
+      "stock_name": "焦点科技",
+      "weight": 4.99
+    },
+    {
+      "stock_code": "300170",
+      "stock_name": "汉得信息",
+      "weight": 4.44
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 4.15
+    },
+    {
+      "stock_code": "002558",
+      "stock_name": "巨人网络",
+      "weight": 4.07
+    }
+  ],
+  "fetched_at": "2026-02-02 01:32:33"
+}

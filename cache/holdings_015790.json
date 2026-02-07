@@ -1,0 +1,61 @@
+{
+  "fund_code": "015790",
+  "fund_name": "永赢高端装备智选混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.7,
+  "parsed_weight": 62.86,
+  "missing_weight": 31.84,
+  "positions": [
+    {
+      "stock_code": "600118",
+      "stock_name": "中国卫星",
+      "weight": 9.32
+    },
+    {
+      "stock_code": "301005",
+      "stock_name": "超捷股份",
+      "weight": 8.76
+    },
+    {
+      "stock_code": "605598",
+      "stock_name": "上海港湾",
+      "weight": 8.34
+    },
+    {
+      "stock_code": "601698",
+      "stock_name": "中国卫通",
+      "weight": 7.31
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 7.13
+    },
+    {
+      "stock_code": "300342",
+      "stock_name": "天银机电",
+      "weight": 4.75
+    },
+    {
+      "stock_code": "300136",
+      "stock_name": "信维通信",
+      "weight": 4.42
+    },
+    {
+      "stock_code": "002149",
+      "stock_name": "西部材料",
+      "weight": 4.36
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 4.33
+    },
+    {
+      "stock_code": "002565",
+      "stock_name": "顺灏股份",
+      "weight": 4.14
+    }
+  ],
+  "fetched_at": "2026-02-01 20:10:43"
+}

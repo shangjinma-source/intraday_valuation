@@ -1,0 +1,46 @@
+{
+  "fund_code": "020594",
+  "fund_name": "华夏软件龙头混合发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 86.94,
+  "parsed_weight": 51.45,
+  "missing_weight": 35.49,
+  "positions": [
+    {
+      "stock_code": "688095",
+      "stock_name": "福昕软件",
+      "weight": 9.47
+    },
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 8.62
+    },
+    {
+      "stock_code": "603171",
+      "stock_name": "税友股份",
+      "weight": 8.56
+    },
+    {
+      "stock_code": "002315",
+      "stock_name": "焦点科技",
+      "weight": 8.36
+    },
+    {
+      "stock_code": "000977",
+      "stock_name": "浪潮信息",
+      "weight": 6.28
+    },
+    {
+      "stock_code": "688258",
+      "stock_name": "卓易信息",
+      "weight": 5.89
+    },
+    {
+      "stock_code": "688369",
+      "stock_name": "致远互联",
+      "weight": 4.27
+    }
+  ],
+  "fetched_at": "2026-02-02 01:33:25"
+}

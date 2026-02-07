@@ -1,0 +1,66 @@
+{
+  "fund_code": "016814",
+  "fund_name": "国联中证煤炭指数C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.06,
+  "parsed_weight": 62.61,
+  "missing_weight": 31.45,
+  "positions": [
+    {
+      "stock_code": "601088",
+      "stock_name": "中国神华",
+      "weight": 9.56
+    },
+    {
+      "stock_code": "601225",
+      "stock_name": "陕西煤业",
+      "weight": 9.23
+    },
+    {
+      "stock_code": "601898",
+      "stock_name": "中煤能源",
+      "weight": 7.78
+    },
+    {
+      "stock_code": "600188",
+      "stock_name": "兖矿能源",
+      "weight": 7.55
+    },
+    {
+      "stock_code": "000983",
+      "stock_name": "山西焦煤",
+      "weight": 6.77
+    },
+    {
+      "stock_code": "000723",
+      "stock_name": "美锦能源",
+      "weight": 5.12
+    },
+    {
+      "stock_code": "600348",
+      "stock_name": "华阳股份",
+      "weight": 4.78
+    },
+    {
+      "stock_code": "601699",
+      "stock_name": "潞安环能",
+      "weight": 4.53
+    },
+    {
+      "stock_code": "601666",
+      "stock_name": "平煤股份",
+      "weight": 3.75
+    },
+    {
+      "stock_code": "601001",
+      "stock_name": "晋控煤业",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "301638",
+      "stock_name": "南网数字",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-05 00:00:19"
+}

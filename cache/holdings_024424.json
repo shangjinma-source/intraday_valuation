@@ -1,0 +1,61 @@
+{
+  "fund_code": "024424",
+  "fund_name": "东方阿尔法科技优选混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.97,
+  "parsed_weight": 81.12,
+  "missing_weight": 12.85,
+  "positions": [
+    {
+      "stock_code": "300567",
+      "stock_name": "精测电子",
+      "weight": 9.42
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 9.3
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 9.07
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 8.87
+    },
+    {
+      "stock_code": "688627",
+      "stock_name": "精智达",
+      "weight": 8.84
+    },
+    {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 8.15
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 7.6
+    },
+    {
+      "stock_code": "688652",
+      "stock_name": "京仪装备",
+      "weight": 7.5
+    },
+    {
+      "stock_code": "688147",
+      "stock_name": "微导纳米",
+      "weight": 7.44
+    },
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 4.93
+    }
+  ],
+  "fetched_at": "2026-02-01 01:30:02"
+}

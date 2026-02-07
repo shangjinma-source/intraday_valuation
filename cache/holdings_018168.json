@@ -1,0 +1,69 @@
+{
+  "fund_code": "018168",
+  "fund_name": "国泰有色矿业ETF联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.81,
+  "parsed_weight": 55.52,
+  "missing_weight": 44.29,
+  "positions": [
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 10.21
+    },
+    {
+      "stock_code": "603993",
+      "stock_name": "洛阳钼业",
+      "weight": 9.57
+    },
+    {
+      "stock_code": "600111",
+      "stock_name": "北方稀土",
+      "weight": 6.4
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 5.68
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 5.31
+    },
+    {
+      "stock_code": "002460",
+      "stock_name": "赣锋锂业",
+      "weight": 3.89
+    },
+    {
+      "stock_code": "600547",
+      "stock_name": "山东黄金",
+      "weight": 3.83
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 3.75
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 3.73
+    },
+    {
+      "stock_code": "002466",
+      "stock_name": "天齐锂业",
+      "weight": 3.14
+    },
+    {
+      "stock_code": "001280",
+      "stock_name": "中国铀业",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-01 00:42:28",
+  "original_fund_code": "018168",
+  "etf_target": "561330",
+  "is_etf_link": true
+}

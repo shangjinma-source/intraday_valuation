@@ -1,0 +1,60 @@
+{
+  "fund_code": "017811",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.45,
+  "parsed_weight": 84.41,
+  "missing_weight": 10.04,
+  "positions": [
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 9.23
+    },
+    {
+      "stock_code": "300567",
+      "stock_name": "精测电子",
+      "weight": 9.2
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 9.14
+    },
+    {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 9.06
+    },
+    {
+      "stock_code": "688409",
+      "stock_name": "富创精密",
+      "weight": 9.01
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 9.0
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 8.78
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 8.27
+    },
+    {
+      "stock_code": "688652",
+      "stock_name": "京仪装备",
+      "weight": 8.0
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 4.72
+    }
+  ],
+  "fetched_at": "2026-01-31 15:36:01"
+}

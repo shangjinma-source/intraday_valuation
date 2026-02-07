@@ -1,0 +1,61 @@
+{
+  "fund_code": "007509",
+  "fund_name": "华商润丰灵活配置混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 54.32,
+  "parsed_weight": 12.53,
+  "missing_weight": 41.79,
+  "positions": [
+    {
+      "stock_code": "002050",
+      "stock_name": "三花智控",
+      "weight": 1.81
+    },
+    {
+      "stock_code": "002558",
+      "stock_name": "巨人网络",
+      "weight": 1.52
+    },
+    {
+      "stock_code": "002273",
+      "stock_name": "水晶光电",
+      "weight": 1.46
+    },
+    {
+      "stock_code": "002241",
+      "stock_name": "歌尔股份",
+      "weight": 1.36
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 1.19
+    },
+    {
+      "stock_code": "300007",
+      "stock_name": "汉威科技",
+      "weight": 1.15
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 1.05
+    },
+    {
+      "stock_code": "300433",
+      "stock_name": "蓝思科技",
+      "weight": 1.02
+    },
+    {
+      "stock_code": "002517",
+      "stock_name": "恺英网络",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "300660",
+      "stock_name": "江苏雷利",
+      "weight": 0.98
+    }
+  ],
+  "fetched_at": "2026-02-06 09:59:43"
+}

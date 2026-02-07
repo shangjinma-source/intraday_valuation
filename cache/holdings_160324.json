@@ -1,0 +1,61 @@
+{
+  "fund_code": "160324",
+  "fund_name": "华夏磐晟混合(LOF)",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 93.77,
+  "parsed_weight": 72.97,
+  "missing_weight": 20.8,
+  "positions": [
+    {
+      "stock_code": "688536",
+      "stock_name": "思瑞浦",
+      "weight": 9.77
+    },
+    {
+      "stock_code": "688052",
+      "stock_name": "纳芯微",
+      "weight": 9.52
+    },
+    {
+      "stock_code": "300661",
+      "stock_name": "圣邦股份",
+      "weight": 9.5
+    },
+    {
+      "stock_code": "688213",
+      "stock_name": "思特威",
+      "weight": 7.16
+    },
+    {
+      "stock_code": "688368",
+      "stock_name": "晶丰明源",
+      "weight": 7.1
+    },
+    {
+      "stock_code": "688484",
+      "stock_name": "南芯科技",
+      "weight": 7.08
+    },
+    {
+      "stock_code": "688508",
+      "stock_name": "芯朋微",
+      "weight": 7.04
+    },
+    {
+      "stock_code": "688200",
+      "stock_name": "华峰测控",
+      "weight": 6.12
+    },
+    {
+      "stock_code": "688141",
+      "stock_name": "杰华特",
+      "weight": 4.97
+    },
+    {
+      "stock_code": "300373",
+      "stock_name": "扬杰科技",
+      "weight": 4.71
+    }
+  ],
+  "fetched_at": "2026-02-01 19:59:13"
+}

@@ -1,0 +1,61 @@
+{
+  "fund_code": "024738",
+  "fund_name": "永赢新材料智选混合发起C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.24,
+  "parsed_weight": 70.8,
+  "missing_weight": 23.44,
+  "positions": [
+    {
+      "stock_code": "688778",
+      "stock_name": "厦钨新能",
+      "weight": 9.12
+    },
+    {
+      "stock_code": "688353",
+      "stock_name": "华盛锂电",
+      "weight": 9.02
+    },
+    {
+      "stock_code": "300073",
+      "stock_name": "当升科技",
+      "weight": 8.59
+    },
+    {
+      "stock_code": "301617",
+      "stock_name": "博苑股份",
+      "weight": 8.31
+    },
+    {
+      "stock_code": "300587",
+      "stock_name": "天铁科技",
+      "weight": 7.56
+    },
+    {
+      "stock_code": "920522",
+      "stock_name": "纳科诺尔",
+      "weight": 6.41
+    },
+    {
+      "stock_code": "002709",
+      "stock_name": "天赐材料",
+      "weight": 5.8
+    },
+    {
+      "stock_code": "002460",
+      "stock_name": "赣锋锂业",
+      "weight": 5.64
+    },
+    {
+      "stock_code": "002203",
+      "stock_name": "海亮股份",
+      "weight": 5.41
+    },
+    {
+      "stock_code": "688147",
+      "stock_name": "微导纳米",
+      "weight": 4.94
+    }
+  ],
+  "fetched_at": "2026-02-02 01:43:24"
+}

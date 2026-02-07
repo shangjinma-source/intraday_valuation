@@ -1,0 +1,41 @@
+{
+  "fund_code": "007083",
+  "fund_name": "平安高端制造混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 94.0,
+  "parsed_weight": 51.83,
+  "missing_weight": 42.17,
+  "positions": [
+    {
+      "stock_code": "002459",
+      "stock_name": "晶澳科技",
+      "weight": 10.28
+    },
+    {
+      "stock_code": "688599",
+      "stock_name": "天合光能",
+      "weight": 10.01
+    },
+    {
+      "stock_code": "688223",
+      "stock_name": "晶科能源",
+      "weight": 9.9
+    },
+    {
+      "stock_code": "600438",
+      "stock_name": "通威股份",
+      "weight": 9.82
+    },
+    {
+      "stock_code": "603185",
+      "stock_name": "弘元绿能",
+      "weight": 8.94
+    },
+    {
+      "stock_code": "600690",
+      "stock_name": "海尔智家",
+      "weight": 2.88
+    }
+  ],
+  "fetched_at": "2026-02-02 02:20:25"
+}

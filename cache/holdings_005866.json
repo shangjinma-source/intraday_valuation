@@ -1,0 +1,61 @@
+{
+  "fund_code": "005866",
+  "fund_name": "浦银安盛量化多策略混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 30.33,
+  "parsed_weight": 25.44,
+  "missing_weight": 4.89,
+  "positions": [
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 2.94
+    },
+    {
+      "stock_code": "300699",
+      "stock_name": "光威复材",
+      "weight": 2.93
+    },
+    {
+      "stock_code": "002149",
+      "stock_name": "西部材料",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 2.58
+    },
+    {
+      "stock_code": "688311",
+      "stock_name": "盟升电子",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "300627",
+      "stock_name": "华测导航",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "300136",
+      "stock_name": "信维通信",
+      "weight": 2.14
+    },
+    {
+      "stock_code": "002465",
+      "stock_name": "海格通信",
+      "weight": 2.05
+    },
+    {
+      "stock_code": "605090",
+      "stock_name": "九丰能源",
+      "weight": 2.0
+    }
+  ],
+  "fetched_at": "2026-02-06 10:00:03"
+}

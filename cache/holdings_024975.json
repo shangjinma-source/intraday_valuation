@@ -1,0 +1,84 @@
+{
+  "fund_code": "024975",
+  "fund_name": "华泰柏瑞上证科创板半导体材料设备主题ETF发起式联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 98.76,
+  "parsed_weight": 73.13,
+  "missing_weight": 25.63,
+  "positions": [
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 10.08
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 9.63
+    },
+    {
+      "stock_code": "688126",
+      "stock_name": "沪硅产业",
+      "weight": 9.35
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 8.75
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 8.33
+    },
+    {
+      "stock_code": "688019",
+      "stock_name": "安集科技",
+      "weight": 6.65
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 6.19
+    },
+    {
+      "stock_code": "688234",
+      "stock_name": "天岳先进",
+      "weight": 4.93
+    },
+    {
+      "stock_code": "688200",
+      "stock_name": "华峰测控",
+      "weight": 4.67
+    },
+    {
+      "stock_code": "688082",
+      "stock_name": "盛美上海",
+      "weight": 4.39
+    },
+    {
+      "stock_code": "688802",
+      "stock_name": "沐曦股份",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "688795",
+      "stock_name": "摩尔线程",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "688790",
+      "stock_name": "昂瑞微",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "688759",
+      "stock_name": "必贝特",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-01 01:38:33",
+  "original_fund_code": "024975",
+  "etf_target": "588710",
+  "is_etf_link": true
+}

@@ -1,0 +1,64 @@
+{
+  "fund_code": "019062",
+  "fund_name": "易方达中证软件服务ETF联接发起式C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.26,
+  "parsed_weight": 60.29,
+  "missing_weight": 38.97,
+  "positions": [
+    {
+      "stock_code": "002230",
+      "stock_name": "科大讯飞",
+      "weight": 13.22
+    },
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 8.09
+    },
+    {
+      "stock_code": "300033",
+      "stock_name": "同花顺",
+      "weight": 7.88
+    },
+    {
+      "stock_code": "300803",
+      "stock_name": "指南针",
+      "weight": 5.34
+    },
+    {
+      "stock_code": "600570",
+      "stock_name": "恒生电子",
+      "weight": 5.19
+    },
+    {
+      "stock_code": "002261",
+      "stock_name": "拓维信息",
+      "weight": 4.74
+    },
+    {
+      "stock_code": "300339",
+      "stock_name": "润和软件",
+      "weight": 4.48
+    },
+    {
+      "stock_code": "601360",
+      "stock_name": "三六零",
+      "weight": 4.44
+    },
+    {
+      "stock_code": "301236",
+      "stock_name": "软通动力",
+      "weight": 3.6
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 3.31
+    }
+  ],
+  "fetched_at": "2026-02-02 01:35:20",
+  "original_fund_code": "019062",
+  "etf_target": "562930",
+  "is_etf_link": true
+}

@@ -1,0 +1,69 @@
+{
+  "fund_code": "025493",
+  "fund_name": "国泰创业板人工智能ETF发起联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.48,
+  "parsed_weight": 57.77,
+  "missing_weight": 41.71,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 15.57
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 15.45
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 6.79
+    },
+    {
+      "stock_code": "300058",
+      "stock_name": "蓝色光标",
+      "weight": 3.16
+    },
+    {
+      "stock_code": "300857",
+      "stock_name": "协创数据",
+      "weight": 2.9
+    },
+    {
+      "stock_code": "300339",
+      "stock_name": "润和软件",
+      "weight": 2.83
+    },
+    {
+      "stock_code": "300033",
+      "stock_name": "同花顺",
+      "weight": 2.83
+    },
+    {
+      "stock_code": "300223",
+      "stock_name": "北京君正",
+      "weight": 2.77
+    },
+    {
+      "stock_code": "300442",
+      "stock_name": "润泽科技",
+      "weight": 2.75
+    },
+    {
+      "stock_code": "300418",
+      "stock_name": "昆仑万维",
+      "weight": 2.71
+    },
+    {
+      "stock_code": "001280",
+      "stock_name": "中国铀业",
+      "weight": 0.01
+    }
+  ],
+  "fetched_at": "2026-02-05 00:10:50",
+  "original_fund_code": "025493",
+  "etf_target": "159388",
+  "is_etf_link": true
+}

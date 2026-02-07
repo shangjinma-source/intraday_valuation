@@ -1,0 +1,64 @@
+{
+  "fund_code": "023639",
+  "fund_name": "国泰A股电网设备ETF联接C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 99.15,
+  "parsed_weight": 55.98,
+  "missing_weight": 43.17,
+  "positions": [
+    {
+      "stock_code": "600089",
+      "stock_name": "特变电工",
+      "weight": 9.76
+    },
+    {
+      "stock_code": "600406",
+      "stock_name": "国电南瑞",
+      "weight": 9.51
+    },
+    {
+      "stock_code": "002028",
+      "stock_name": "思源电气",
+      "weight": 9.49
+    },
+    {
+      "stock_code": "600522",
+      "stock_name": "中天科技",
+      "weight": 6.02
+    },
+    {
+      "stock_code": "600487",
+      "stock_name": "亨通光电",
+      "weight": 5.56
+    },
+    {
+      "stock_code": "600885",
+      "stock_name": "宏发股份",
+      "weight": 4.06
+    },
+    {
+      "stock_code": "603119",
+      "stock_name": "浙江荣泰",
+      "weight": 3.05
+    },
+    {
+      "stock_code": "603606",
+      "stock_name": "东方电缆",
+      "weight": 2.99
+    },
+    {
+      "stock_code": "688676",
+      "stock_name": "金盘科技",
+      "weight": 2.78
+    },
+    {
+      "stock_code": "600577",
+      "stock_name": "精达股份",
+      "weight": 2.76
+    }
+  ],
+  "fetched_at": "2026-02-05 02:41:08",
+  "original_fund_code": "023639",
+  "etf_target": "561380",
+  "is_etf_link": true
+}
