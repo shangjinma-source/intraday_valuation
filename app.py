@@ -17,29 +17,14 @@ from core import (
 from providers import get_fund_name, set_etf_link_target, get_etf_link_target, clear_etf_link_target, refresh_stale_holdings
 
 # ============================================================
-# 后台定时刷新持仓缓存
+# 启动时刷新持仓缓存（后台线程，不阻塞服务就绪）
 # ============================================================
-
-_REFRESH_INTERVAL_HOURS = 6  # 每隔6小时执行一轮扫描
-
-def _holdings_refresh_loop(stop_event: threading.Event):
-    """后台线程：定期刷新即将过期的持仓缓存"""
-    while not stop_event.is_set():
-        try:
-            print(f"[Scheduler] Holdings refresh started")
-            refresh_stale_holdings()
-        except Exception as e:
-            print(f"[Scheduler] Holdings refresh error: {e}")
-        stop_event.wait(_REFRESH_INTERVAL_HOURS * 3600)
 
 @asynccontextmanager
 async def lifespan(app):
-    stop = threading.Event()
-    t = threading.Thread(target=_holdings_refresh_loop, args=(stop,), daemon=True)
+    t = threading.Thread(target=refresh_stale_holdings, daemon=True)
     t.start()
-    print(f"[Scheduler] Holdings auto-refresh enabled (interval={_REFRESH_INTERVAL_HOURS}h)")
     yield
-    stop.set()
 
 app = FastAPI(
     title="盘中估值工具",
