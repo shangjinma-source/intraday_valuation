@@ -3,8 +3,8 @@
   "fund_name": "汇添富中证芯片产业指数增强发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 92.15,
-  "parsed_weight": 75.31,
-  "missing_weight": 16.84,
+  "parsed_weight": 124.12,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002371",
@@ -37,9 +37,19 @@
       "weight": 6.46
     },
     {
+      "stock_code": "603501",
+      "stock_name": "豪威集团",
+      "weight": 6.38
+    },
+    {
       "stock_code": "688361",
       "stock_name": "中科飞测",
       "weight": 5.9
+    },
+    {
+      "stock_code": "00981",
+      "stock_name": "中芯国际",
+      "weight": 5.69
     },
     {
       "stock_code": "688072",
@@ -57,9 +67,19 @@
       "weight": 4.22
     },
     {
+      "stock_code": "002156",
+      "stock_name": "通富微电",
+      "weight": 3.44
+    },
+    {
       "stock_code": "688627",
       "stock_name": "精智达",
       "weight": 3.41
+    },
+    {
+      "stock_code": "688213",
+      "stock_name": "思特威",
+      "weight": 3.03
     },
     {
       "stock_code": "688147",
@@ -67,16 +87,136 @@
       "weight": 2.63
     },
     {
+      "stock_code": "688385",
+      "stock_name": "复旦微电",
+      "weight": 2.62
+    },
+    {
+      "stock_code": "01347",
+      "stock_name": "华虹半导体",
+      "weight": 2.47
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 2.35
+    },
+    {
+      "stock_code": "600745",
+      "stock_name": "闻泰科技",
+      "weight": 2.09
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "weight": 1.84
+    },
+    {
+      "stock_code": "300054",
+      "stock_name": "鼎龙股份",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "688002",
+      "stock_name": "睿创微纳",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "688652",
+      "stock_name": "京仪装备",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "301392",
+      "stock_name": "汇成真空",
+      "weight": 1.53
+    },
+    {
+      "stock_code": "301611",
+      "stock_name": "珂玛科技",
+      "weight": 1.53
+    },
+    {
+      "stock_code": "688200",
+      "stock_name": "华峰测控",
+      "weight": 1.49
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 1.19
+    },
+    {
+      "stock_code": "300604",
+      "stock_name": "长川科技",
+      "weight": 1.05
+    },
+    {
       "stock_code": "688037",
       "stock_name": "芯源微",
       "weight": 1.03
     },
     {
+      "stock_code": "002049",
+      "stock_name": "紫光国微",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 0.97
+    },
+    {
+      "stock_code": "688630",
+      "stock_name": "芯碁微装",
+      "weight": 0.96
+    },
+    {
+      "stock_code": "688234",
+      "stock_name": "天岳先进",
+      "weight": 0.95
+    },
+    {
+      "stock_code": "688536",
+      "stock_name": "思瑞浦",
+      "weight": 0.95
+    },
+    {
+      "stock_code": "688052",
+      "stock_name": "纳芯微",
+      "weight": 0.94
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 0.9
+    },
+    {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 0.52
+    },
+    {
       "stock_code": "688802",
       "stock_name": "沐曦股份",
       "weight": 0.08
+    },
+    {
+      "stock_code": "688755",
+      "stock_name": "汉邦科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "603014",
+      "stock_name": "威高血净",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301636",
+      "stock_name": "泽润新能",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:01",
+  "fetched_at": "2026-02-09 23:54:24",
   "data_source": "eastmoney"
 }

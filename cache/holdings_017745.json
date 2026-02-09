@@ -3,8 +3,8 @@
   "fund_name": "嘉实绿色主题股票发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.42,
-  "parsed_weight": 82.51,
-  "missing_weight": 10.91,
+  "parsed_weight": 136.34,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "603986",
@@ -32,6 +32,11 @@
       "weight": 8.49
     },
     {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 8.48
+    },
+    {
       "stock_code": "688041",
       "stock_name": "海光信息",
       "weight": 8.29
@@ -52,11 +57,106 @@
       "weight": 7.52
     },
     {
+      "stock_code": "688213",
+      "stock_name": "思特威",
+      "weight": 6.72
+    },
+    {
+      "stock_code": "688252",
+      "stock_name": "天德钰",
+      "weight": 5.28
+    },
+    {
       "stock_code": "688536",
       "stock_name": "思瑞浦",
       "weight": 4.99
+    },
+    {
+      "stock_code": "688798",
+      "stock_name": "艾为电子",
+      "weight": 4.92
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 3.68
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "688049",
+      "stock_name": "炬芯科技",
+      "weight": 3.49
+    },
+    {
+      "stock_code": "688591",
+      "stock_name": "泰凌微",
+      "weight": 3.13
+    },
+    {
+      "stock_code": "688508",
+      "stock_name": "芯朋微",
+      "weight": 2.99
+    },
+    {
+      "stock_code": "603501",
+      "stock_name": "韦尔股份",
+      "weight": 2.99
+    },
+    {
+      "stock_code": "688728",
+      "stock_name": "格科微",
+      "weight": 2.42
+    },
+    {
+      "stock_code": "301269",
+      "stock_name": "华大九天",
+      "weight": 2.14
+    },
+    {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 2.09
+    },
+    {
+      "stock_code": "688279",
+      "stock_name": "峰岹科技",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "603014",
+      "stock_name": "威高血净",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "603049",
+      "stock_name": "中策橡胶",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "603400",
+      "stock_name": "华之杰",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688411",
+      "stock_name": "海博思创",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688757",
+      "stock_name": "胜科纳米",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:04",
+  "fetched_at": "2026-02-09 23:54:44",
   "data_source": "eastmoney"
 }

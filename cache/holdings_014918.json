@@ -3,13 +3,28 @@
   "fund_name": "汇丰晋信时代先锋混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.58,
-  "parsed_weight": 50.26,
-  "missing_weight": 43.32,
+  "parsed_weight": 118.95,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002459",
       "stock_name": "晶澳科技",
       "weight": 9.78
+    },
+    {
+      "stock_code": "688293",
+      "stock_name": "奥浦迈",
+      "weight": 9.65
+    },
+    {
+      "stock_code": "00968",
+      "stock_name": "信义光能",
+      "weight": 9.4
+    },
+    {
+      "stock_code": "03800",
+      "stock_name": "协鑫科技",
+      "weight": 9.3
     },
     {
       "stock_code": "600438",
@@ -27,6 +42,11 @@
       "weight": 8.0
     },
     {
+      "stock_code": "06865",
+      "stock_name": "福莱特玻璃",
+      "weight": 7.96
+    },
+    {
       "stock_code": "600732",
       "stock_name": "爱旭股份",
       "weight": 7.93
@@ -35,8 +55,38 @@
       "stock_code": "688303",
       "stock_name": "大全能源",
       "weight": 6.46
+    },
+    {
+      "stock_code": "02423",
+      "stock_name": "贝壳-W",
+      "weight": 6.44
+    },
+    {
+      "stock_code": "000803",
+      "stock_name": "山高环能",
+      "weight": 6.2
+    },
+    {
+      "stock_code": "688062",
+      "stock_name": "迈威生物",
+      "weight": 5.91
+    },
+    {
+      "stock_code": "603822",
+      "stock_name": "嘉澳环保",
+      "weight": 5.51
+    },
+    {
+      "stock_code": "300118",
+      "stock_name": "东方日升",
+      "weight": 5.09
+    },
+    {
+      "stock_code": "02162",
+      "stock_name": "康诺亚-B",
+      "weight": 3.23
     }
   ],
-  "fetched_at": "2026-02-08 12:55:57",
+  "fetched_at": "2026-02-10 00:00:34",
   "data_source": "eastmoney"
 }

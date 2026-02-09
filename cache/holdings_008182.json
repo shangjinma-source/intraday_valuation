@@ -3,9 +3,19 @@
   "fund_name": "方正富邦信泓混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 79.96,
-  "parsed_weight": 56.81,
-  "missing_weight": 23.15,
+  "parsed_weight": 180.44,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "301196",
+      "stock_name": "唯科科技",
+      "weight": 9.0
+    },
+    {
+      "stock_code": "002050",
+      "stock_name": "三花智控",
+      "weight": 8.13
+    },
     {
       "stock_code": "301550",
       "stock_name": "斯菱智驱",
@@ -22,6 +32,11 @@
       "weight": 7.58
     },
     {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 7.55
+    },
+    {
       "stock_code": "300115",
       "stock_name": "长盈精密",
       "weight": 7.53
@@ -32,14 +47,89 @@
       "weight": 7.31
     },
     {
+      "stock_code": "003021",
+      "stock_name": "兆威机电",
+      "weight": 7.15
+    },
+    {
+      "stock_code": "603166",
+      "stock_name": "福达股份",
+      "weight": 7.07
+    },
+    {
+      "stock_code": "603179",
+      "stock_name": "新泉股份",
+      "weight": 6.48
+    },
+    {
+      "stock_code": "301000",
+      "stock_name": "肇民科技",
+      "weight": 6.32
+    },
+    {
+      "stock_code": "603728",
+      "stock_name": "鸣志电器",
+      "weight": 5.36
+    },
+    {
+      "stock_code": "603809",
+      "stock_name": "豪能股份",
+      "weight": 5.23
+    },
+    {
+      "stock_code": "688322",
+      "stock_name": "奥比中光",
+      "weight": 5.15
+    },
+    {
+      "stock_code": "600592",
+      "stock_name": "龙溪股份",
+      "weight": 5.14
+    },
+    {
       "stock_code": "601100",
       "stock_name": "恒立液压",
       "weight": 5.05
     },
     {
+      "stock_code": "300580",
+      "stock_name": "贝斯特",
+      "weight": 4.91
+    },
+    {
+      "stock_code": "603416",
+      "stock_name": "信捷电气",
+      "weight": 4.9
+    },
+    {
+      "stock_code": "300007",
+      "stock_name": "汉威科技",
+      "weight": 4.32
+    },
+    {
+      "stock_code": "300953",
+      "stock_name": "震裕科技",
+      "weight": 4.29
+    },
+    {
+      "stock_code": "688716",
+      "stock_name": "中研股份",
+      "weight": 4.12
+    },
+    {
+      "stock_code": "301413",
+      "stock_name": "安培龙",
+      "weight": 4.06
+    },
+    {
       "stock_code": "000700",
       "stock_name": "模塑科技",
       "weight": 3.92
+    },
+    {
+      "stock_code": "603009",
+      "stock_name": "北特科技",
+      "weight": 3.56
     },
     {
       "stock_code": "301529",
@@ -52,11 +142,56 @@
       "weight": 3.47
     },
     {
+      "stock_code": "300100",
+      "stock_name": "双林股份",
+      "weight": 2.99
+    },
+    {
       "stock_code": "603286",
       "stock_name": "日盈电子",
       "weight": 2.88
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 2.85
+    },
+    {
+      "stock_code": "300033",
+      "stock_name": "同花顺",
+      "weight": 2.81
+    },
+    {
+      "stock_code": "300059",
+      "stock_name": "东方财富",
+      "weight": 2.24
+    },
+    {
+      "stock_code": "688347",
+      "stock_name": "华虹公司",
+      "weight": 2.05
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "weight": 2.02
+    },
+    {
+      "stock_code": "002779",
+      "stock_name": "中坚科技",
+      "weight": 2.0
+    },
+    {
+      "stock_code": "301076",
+      "stock_name": "新瀚新材",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "300803",
+      "stock_name": "指南针",
+      "weight": 1.94
     }
   ],
-  "fetched_at": "2026-02-08 12:55:40",
+  "fetched_at": "2026-02-09 23:58:47",
   "data_source": "eastmoney"
 }

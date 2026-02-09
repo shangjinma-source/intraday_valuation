@@ -3,8 +3,8 @@
   "fund_name": "汇安价值蓝筹混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 90.09,
-  "parsed_weight": 44.13,
-  "missing_weight": 45.96,
+  "parsed_weight": 150.12,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300136",
@@ -47,6 +47,11 @@
       "weight": 4.16
     },
     {
+      "stock_code": "601688",
+      "stock_name": "华泰证券",
+      "weight": 4.03
+    },
+    {
       "stock_code": "300455",
       "stock_name": "航天智装",
       "weight": 3.83
@@ -55,8 +60,313 @@
       "stock_code": "002149",
       "stock_name": "西部材料",
       "weight": 3.24
+    },
+    {
+      "stock_code": "601995",
+      "stock_name": "中金公司",
+      "weight": 3.22
+    },
+    {
+      "stock_code": "601336",
+      "stock_name": "新华保险",
+      "weight": 3.01
+    },
+    {
+      "stock_code": "601318",
+      "stock_name": "中国平安",
+      "weight": 2.97
+    },
+    {
+      "stock_code": "601601",
+      "stock_name": "中国太保",
+      "weight": 2.89
+    },
+    {
+      "stock_code": "601288",
+      "stock_name": "农业银行",
+      "weight": 2.8
+    },
+    {
+      "stock_code": "600741",
+      "stock_name": "华域汽车",
+      "weight": 2.63
+    },
+    {
+      "stock_code": "601211",
+      "stock_name": "国泰海通",
+      "weight": 2.6
+    },
+    {
+      "stock_code": "601919",
+      "stock_name": "中远海控",
+      "weight": 2.57
+    },
+    {
+      "stock_code": "000708",
+      "stock_name": "中信特钢",
+      "weight": 2.56
+    },
+    {
+      "stock_code": "601166",
+      "stock_name": "兴业银行",
+      "weight": 2.42
+    },
+    {
+      "stock_code": "002027",
+      "stock_name": "分众传媒",
+      "weight": 2.39
+    },
+    {
+      "stock_code": "600016",
+      "stock_name": "民生银行",
+      "weight": 2.33
+    },
+    {
+      "stock_code": "601169",
+      "stock_name": "北京银行",
+      "weight": 2.32
+    },
+    {
+      "stock_code": "601988",
+      "stock_name": "中国银行",
+      "weight": 2.3
+    },
+    {
+      "stock_code": "601818",
+      "stock_name": "光大银行",
+      "weight": 2.28
+    },
+    {
+      "stock_code": "601825",
+      "stock_name": "沪农商行",
+      "weight": 2.27
+    },
+    {
+      "stock_code": "601939",
+      "stock_name": "建设银行",
+      "weight": 2.26
+    },
+    {
+      "stock_code": "601009",
+      "stock_name": "南京银行",
+      "weight": 2.24
+    },
+    {
+      "stock_code": "002142",
+      "stock_name": "宁波银行",
+      "weight": 2.23
+    },
+    {
+      "stock_code": "600887",
+      "stock_name": "伊利股份",
+      "weight": 2.18
+    },
+    {
+      "stock_code": "601328",
+      "stock_name": "交通银行",
+      "weight": 2.15
+    },
+    {
+      "stock_code": "601872",
+      "stock_name": "招商轮船",
+      "weight": 2.15
+    },
+    {
+      "stock_code": "601658",
+      "stock_name": "邮储银行",
+      "weight": 2.07
+    },
+    {
+      "stock_code": "601857",
+      "stock_name": "中国石油",
+      "weight": 1.94
+    },
+    {
+      "stock_code": "600926",
+      "stock_name": "杭州银行",
+      "weight": 1.92
+    },
+    {
+      "stock_code": "000895",
+      "stock_name": "双汇发展",
+      "weight": 1.88
+    },
+    {
+      "stock_code": "000651",
+      "stock_name": "格力电器",
+      "weight": 1.86
+    },
+    {
+      "stock_code": "601319",
+      "stock_name": "中国人保",
+      "weight": 1.82
+    },
+    {
+      "stock_code": "601225",
+      "stock_name": "陕西煤业",
+      "weight": 1.8
+    },
+    {
+      "stock_code": "600346",
+      "stock_name": "恒力石化",
+      "weight": 1.44
+    },
+    {
+      "stock_code": "600938",
+      "stock_name": "中国海油",
+      "weight": 1.4
+    },
+    {
+      "stock_code": "601398",
+      "stock_name": "工商银行",
+      "weight": 1.38
+    },
+    {
+      "stock_code": "601998",
+      "stock_name": "中信银行",
+      "weight": 1.26
+    },
+    {
+      "stock_code": "601728",
+      "stock_name": "中国电信",
+      "weight": 1.24
+    },
+    {
+      "stock_code": "600919",
+      "stock_name": "江苏银行",
+      "weight": 1.19
+    },
+    {
+      "stock_code": "600795",
+      "stock_name": "国电电力",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "600000",
+      "stock_name": "浦发银行",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "600015",
+      "stock_name": "华夏银行",
+      "weight": 1.08
+    },
+    {
+      "stock_code": "600941",
+      "stock_name": "中国移动",
+      "weight": 1.08
+    },
+    {
+      "stock_code": "600050",
+      "stock_name": "中国联通",
+      "weight": 1.06
+    },
+    {
+      "stock_code": "601668",
+      "stock_name": "中国建筑",
+      "weight": 1.06
+    },
+    {
+      "stock_code": "000001",
+      "stock_name": "平安银行",
+      "weight": 1.05
+    },
+    {
+      "stock_code": "601006",
+      "stock_name": "大秦铁路",
+      "weight": 1.04
+    },
+    {
+      "stock_code": "000338",
+      "stock_name": "潍柴动力",
+      "weight": 1.03
+    },
+    {
+      "stock_code": "600019",
+      "stock_name": "宝钢股份",
+      "weight": 1.01
+    },
+    {
+      "stock_code": "601088",
+      "stock_name": "中国神华",
+      "weight": 1.01
+    },
+    {
+      "stock_code": "601229",
+      "stock_name": "上海银行",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "600018",
+      "stock_name": "上港集团",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "600886",
+      "stock_name": "国投电力",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "601186",
+      "stock_name": "中国铁建",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "601898",
+      "stock_name": "中煤能源",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "600048",
+      "stock_name": "保利发展",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "601390",
+      "stock_name": "中国中铁",
+      "weight": 0.97
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "weight": 0.97
+    },
+    {
+      "stock_code": "601618",
+      "stock_name": "中国中冶",
+      "weight": 0.96
+    },
+    {
+      "stock_code": "601766",
+      "stock_name": "中国中车",
+      "weight": 0.96
+    },
+    {
+      "stock_code": "600188",
+      "stock_name": "兖矿能源",
+      "weight": 0.93
+    },
+    {
+      "stock_code": "600585",
+      "stock_name": "海螺水泥",
+      "weight": 0.9
+    },
+    {
+      "stock_code": "001979",
+      "stock_name": "招商蛇口",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "600028",
+      "stock_name": "中国石化",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "688036",
+      "stock_name": "传音控股",
+      "weight": 0.83
     }
   ],
-  "fetched_at": "2026-02-08 12:55:09",
+  "fetched_at": "2026-02-09 23:55:18",
   "data_source": "eastmoney"
 }

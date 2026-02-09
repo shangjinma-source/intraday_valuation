@@ -3,8 +3,8 @@
   "fund_name": "弘毅远方甄选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 90.16,
-  "parsed_weight": 54.17,
-  "missing_weight": 35.99,
+  "parsed_weight": 140.26,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002050",
@@ -15,6 +15,11 @@
       "stock_code": "301225",
       "stock_name": "恒勃股份",
       "weight": 6.39
+    },
+    {
+      "stock_code": "00179",
+      "stock_name": "德昌电机控股",
+      "weight": 6.37
     },
     {
       "stock_code": "601689",
@@ -32,6 +37,11 @@
       "weight": 5.5
     },
     {
+      "stock_code": "003021",
+      "stock_name": "兆威机电",
+      "weight": 5.37
+    },
+    {
       "stock_code": "688698",
       "stock_name": "伟创电气",
       "weight": 5.27
@@ -47,6 +57,21 @@
       "weight": 4.98
     },
     {
+      "stock_code": "688322",
+      "stock_name": "奥比中光",
+      "weight": 4.9
+    },
+    {
+      "stock_code": "300953",
+      "stock_name": "震裕科技",
+      "weight": 4.53
+    },
+    {
+      "stock_code": "300124",
+      "stock_name": "汇川技术",
+      "weight": 4.45
+    },
+    {
       "stock_code": "603179",
       "stock_name": "新泉股份",
       "weight": 4.39
@@ -55,8 +80,93 @@
       "stock_code": "300007",
       "stock_name": "汉威科技",
       "weight": 4.38
+    },
+    {
+      "stock_code": "002896",
+      "stock_name": "中大力德",
+      "weight": 4.34
+    },
+    {
+      "stock_code": "603662",
+      "stock_name": "柯力传感",
+      "weight": 4.23
+    },
+    {
+      "stock_code": "688097",
+      "stock_name": "博众精工",
+      "weight": 4.18
+    },
+    {
+      "stock_code": "688017",
+      "stock_name": "绿的谐波",
+      "weight": 4.14
+    },
+    {
+      "stock_code": "301413",
+      "stock_name": "安培龙",
+      "weight": 4.1
+    },
+    {
+      "stock_code": "688400",
+      "stock_name": "凌云光",
+      "weight": 4.01
+    },
+    {
+      "stock_code": "601100",
+      "stock_name": "恒立液压",
+      "weight": 3.88
+    },
+    {
+      "stock_code": "002779",
+      "stock_name": "中坚科技",
+      "weight": 3.73
+    },
+    {
+      "stock_code": "301000",
+      "stock_name": "肇民科技",
+      "weight": 3.67
+    },
+    {
+      "stock_code": "605133",
+      "stock_name": "嵘泰股份",
+      "weight": 3.65
+    },
+    {
+      "stock_code": "600933",
+      "stock_name": "爱柯迪",
+      "weight": 3.62
+    },
+    {
+      "stock_code": "688697",
+      "stock_name": "纽威数控",
+      "weight": 3.31
+    },
+    {
+      "stock_code": "300100",
+      "stock_name": "双林股份",
+      "weight": 3.12
+    },
+    {
+      "stock_code": "300580",
+      "stock_name": "贝斯特",
+      "weight": 3.05
+    },
+    {
+      "stock_code": "603667",
+      "stock_name": "五洲新春",
+      "weight": 2.77
+    },
+    {
+      "stock_code": "603728",
+      "stock_name": "鸣志电器",
+      "weight": 2.38
+    },
+    {
+      "stock_code": "300258",
+      "stock_name": "精锻科技",
+      "weight": 2.29
     }
   ],
-  "fetched_at": "2026-02-08 12:55:44",
+  "fetched_at": "2026-02-09 23:59:17",
   "data_source": "eastmoney"
 }

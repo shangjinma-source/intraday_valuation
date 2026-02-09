@@ -3,8 +3,8 @@
   "fund_name": "中欧资源精选混合发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.95,
-  "parsed_weight": 37.16,
-  "missing_weight": 56.79,
+  "parsed_weight": 154.51,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "601899",
@@ -17,14 +17,104 @@
       "weight": 10.1
     },
     {
+      "stock_code": "01378",
+      "stock_name": "中国宏桥",
+      "weight": 9.46
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 7.84
+    },
+    {
+      "stock_code": "01258",
+      "stock_name": "中国有色矿业",
+      "weight": 6.85
+    },
+    {
+      "stock_code": "000426",
+      "stock_name": "兴业银锡",
+      "weight": 6.77
+    },
+    {
+      "stock_code": "02600",
+      "stock_name": "中国铝业",
+      "weight": 6.51
+    },
+    {
+      "stock_code": "01787",
+      "stock_name": "山东黄金",
+      "weight": 6.46
+    },
+    {
+      "stock_code": "000831",
+      "stock_name": "中国稀土",
+      "weight": 6.15
+    },
+    {
+      "stock_code": "000630",
+      "stock_name": "铜陵有色",
+      "weight": 5.95
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 5.79
+    },
+    {
+      "stock_code": "01818",
+      "stock_name": "招金矿业",
+      "weight": 5.34
+    },
+    {
       "stock_code": "600549",
       "stock_name": "厦门钨业",
       "weight": 4.46
     },
     {
+      "stock_code": "00358",
+      "stock_name": "江西铜业股份",
+      "weight": 4.31
+    },
+    {
+      "stock_code": "002379",
+      "stock_name": "宏创控股",
+      "weight": 4.25
+    },
+    {
       "stock_code": "000807",
       "stock_name": "云铝股份",
       "weight": 4.1
+    },
+    {
+      "stock_code": "01772",
+      "stock_name": "赣锋锂业",
+      "weight": 3.96
+    },
+    {
+      "stock_code": "03993",
+      "stock_name": "洛阳钼业",
+      "weight": 3.86
+    },
+    {
+      "stock_code": "00857",
+      "stock_name": "中国石油股份",
+      "weight": 3.65
+    },
+    {
+      "stock_code": "01088",
+      "stock_name": "中国神华",
+      "weight": 3.57
+    },
+    {
+      "stock_code": "02099",
+      "stock_name": "中国黄金国际",
+      "weight": 3.55
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 3.54
     },
     {
       "stock_code": "000408",
@@ -37,16 +127,91 @@
       "weight": 3.52
     },
     {
+      "stock_code": "00883",
+      "stock_name": "中国海洋石油",
+      "weight": 2.93
+    },
+    {
+      "stock_code": "600111",
+      "stock_name": "北方稀土",
+      "weight": 2.3
+    },
+    {
+      "stock_code": "601088",
+      "stock_name": "中国神华",
+      "weight": 2.04
+    },
+    {
+      "stock_code": "600176",
+      "stock_name": "中国巨石",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "601857",
+      "stock_name": "中国石油",
+      "weight": 1.97
+    },
+    {
+      "stock_code": "000975",
+      "stock_name": "山金国际",
+      "weight": 1.94
+    },
+    {
+      "stock_code": "000932",
+      "stock_name": "华菱钢铁",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "600547",
+      "stock_name": "山东黄金",
+      "weight": 1.2
+    },
+    {
       "stock_code": "600362",
       "stock_name": "江西铜业",
       "weight": 1.16
     },
     {
+      "stock_code": "000657",
+      "stock_name": "中钨高新",
+      "weight": 1.04
+    },
+    {
+      "stock_code": "600259",
+      "stock_name": "广晟有色",
+      "weight": 1.01
+    },
+    {
+      "stock_code": "600988",
+      "stock_name": "赤峰黄金",
+      "weight": 0.58
+    },
+    {
+      "stock_code": "002155",
+      "stock_name": "湖南黄金",
+      "weight": 0.45
+    },
+    {
+      "stock_code": "002110",
+      "stock_name": "三钢闽光",
+      "weight": 0.37
+    },
+    {
+      "stock_code": "300748",
+      "stock_name": "金力永磁",
+      "weight": 0.11
+    },
+    {
       "stock_code": "601600",
       "stock_name": "中国铝业",
       "weight": 0.07
+    },
+    {
+      "stock_code": "002345",
+      "stock_name": "潮宏基",
+      "weight": 0.02
     }
   ],
-  "fetched_at": "2026-02-08 12:54:51",
+  "fetched_at": "2026-02-09 23:53:20",
   "data_source": "eastmoney"
 }

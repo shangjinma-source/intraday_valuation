@@ -3,9 +3,39 @@
   "fund_name": "前海开源沪港深强国产业混合",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 92.46,
-  "parsed_weight": 59.46,
-  "missing_weight": 33.0,
+  "parsed_weight": 213.42,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "601890",
+      "stock_name": "亚星锚链",
+      "weight": 9.95
+    },
+    {
+      "stock_code": "300810",
+      "stock_name": "中科海讯",
+      "weight": 8.94
+    },
+    {
+      "stock_code": "00317",
+      "stock_name": "中船防务",
+      "weight": 8.68
+    },
+    {
+      "stock_code": "600764",
+      "stock_name": "中国海防",
+      "weight": 8.46
+    },
+    {
+      "stock_code": "688143",
+      "stock_name": "长盈通",
+      "weight": 7.92
+    },
+    {
+      "stock_code": "300065",
+      "stock_name": "海兰信",
+      "weight": 7.68
+    },
     {
       "stock_code": "600879",
       "stock_name": "航天电子",
@@ -27,9 +57,69 @@
       "weight": 7.1
     },
     {
+      "stock_code": "300191",
+      "stock_name": "潜能恒信",
+      "weight": 6.86
+    },
+    {
+      "stock_code": "002353",
+      "stock_name": "杰瑞股份",
+      "weight": 6.76
+    },
+    {
+      "stock_code": "688377",
+      "stock_name": "迪威尔",
+      "weight": 6.75
+    },
+    {
+      "stock_code": "688122",
+      "stock_name": "西部超导",
+      "weight": 6.73
+    },
+    {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 6.41
+    },
+    {
+      "stock_code": "300627",
+      "stock_name": "华测导航",
+      "weight": 6.05
+    },
+    {
       "stock_code": "688270",
       "stock_name": "臻镭科技",
       "weight": 6.04
+    },
+    {
+      "stock_code": "300084",
+      "stock_name": "海默科技",
+      "weight": 5.99
+    },
+    {
+      "stock_code": "600416",
+      "stock_name": "湘电股份",
+      "weight": 5.87
+    },
+    {
+      "stock_code": "603699",
+      "stock_name": "纽威股份",
+      "weight": 5.54
+    },
+    {
+      "stock_code": "002801",
+      "stock_name": "微光股份",
+      "weight": 5.49
+    },
+    {
+      "stock_code": "600320",
+      "stock_name": "振华重工",
+      "weight": 5.17
+    },
+    {
+      "stock_code": "600522",
+      "stock_name": "中天科技",
+      "weight": 5.14
     },
     {
       "stock_code": "601698",
@@ -47,16 +137,51 @@
       "weight": 4.91
     },
     {
+      "stock_code": "301155",
+      "stock_name": "海力风电",
+      "weight": 4.78
+    },
+    {
+      "stock_code": "688507",
+      "stock_name": "索辰科技",
+      "weight": 4.78
+    },
+    {
+      "stock_code": "600487",
+      "stock_name": "亨通光电",
+      "weight": 4.69
+    },
+    {
       "stock_code": "300699",
       "stock_name": "光威复材",
       "weight": 4.64
     },
     {
+      "stock_code": "600482",
+      "stock_name": "中国动力",
+      "weight": 4.6
+    },
+    {
       "stock_code": "603698",
       "stock_name": "航天工程",
       "weight": 4.47
+    },
+    {
+      "stock_code": "300553",
+      "stock_name": "集智股份",
+      "weight": 3.97
+    },
+    {
+      "stock_code": "600456",
+      "stock_name": "宝钛股份",
+      "weight": 3.94
+    },
+    {
+      "stock_code": "300470",
+      "stock_name": "中密控股",
+      "weight": 2.81
     }
   ],
-  "fetched_at": "2026-02-08 12:55:09",
+  "fetched_at": "2026-02-09 23:55:16",
   "data_source": "eastmoney"
 }

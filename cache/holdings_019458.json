@@ -3,13 +3,18 @@
   "fund_name": "平安先进制造主题股票发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 91.09,
-  "parsed_weight": 41.56,
-  "missing_weight": 49.53,
+  "parsed_weight": 116.79,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "601100",
       "stock_name": "恒立液压",
       "weight": 8.3
+    },
+    {
+      "stock_code": "00425",
+      "stock_name": "敏实集团",
+      "weight": 7.28
     },
     {
       "stock_code": "688279",
@@ -37,6 +42,16 @@
       "weight": 3.76
     },
     {
+      "stock_code": "603809",
+      "stock_name": "豪能股份",
+      "weight": 3.73
+    },
+    {
+      "stock_code": "300852",
+      "stock_name": "四会富仕",
+      "weight": 3.59
+    },
+    {
       "stock_code": "605128",
       "stock_name": "上海沿浦",
       "weight": 3.57
@@ -50,8 +65,213 @@
       "stock_code": "300115",
       "stock_name": "长盈精密",
       "weight": 3.28
+    },
+    {
+      "stock_code": "01304",
+      "stock_name": "FORTIOR",
+      "weight": 3.27
+    },
+    {
+      "stock_code": "688433",
+      "stock_name": "华曙高科",
+      "weight": 3.22
+    },
+    {
+      "stock_code": "002527",
+      "stock_name": "新时达",
+      "weight": 3.17
+    },
+    {
+      "stock_code": "003021",
+      "stock_name": "兆威机电",
+      "weight": 3.05
+    },
+    {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 3.0
+    },
+    {
+      "stock_code": "605068",
+      "stock_name": "明新旭腾",
+      "weight": 2.88
+    },
+    {
+      "stock_code": "600835",
+      "stock_name": "上海机电",
+      "weight": 2.88
+    },
+    {
+      "stock_code": "688333",
+      "stock_name": "铂力特",
+      "weight": 2.7
+    },
+    {
+      "stock_code": "300433",
+      "stock_name": "蓝思科技",
+      "weight": 2.65
+    },
+    {
+      "stock_code": "603416",
+      "stock_name": "信捷电气",
+      "weight": 2.46
+    },
+    {
+      "stock_code": "002048",
+      "stock_name": "宁波华翔",
+      "weight": 2.39
+    },
+    {
+      "stock_code": "301398",
+      "stock_name": "星源卓镁",
+      "weight": 2.22
+    },
+    {
+      "stock_code": "600761",
+      "stock_name": "安徽合力",
+      "weight": 2.18
+    },
+    {
+      "stock_code": "688071",
+      "stock_name": "华依科技",
+      "weight": 2.1
+    },
+    {
+      "stock_code": "688577",
+      "stock_name": "浙海德曼",
+      "weight": 1.96
+    },
+    {
+      "stock_code": "603119",
+      "stock_name": "浙江荣泰",
+      "weight": 1.85
+    },
+    {
+      "stock_code": "02498",
+      "stock_name": "速腾聚创",
+      "weight": 1.75
+    },
+    {
+      "stock_code": "603004",
+      "stock_name": "鼎龙科技",
+      "weight": 1.74
+    },
+    {
+      "stock_code": "002765",
+      "stock_name": "蓝黛科技",
+      "weight": 1.66
+    },
+    {
+      "stock_code": "688697",
+      "stock_name": "纽威数控",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "688583",
+      "stock_name": "思看科技",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "688312",
+      "stock_name": "燕麦科技",
+      "weight": 1.41
+    },
+    {
+      "stock_code": "600592",
+      "stock_name": "龙溪股份",
+      "weight": 1.31
+    },
+    {
+      "stock_code": "301196",
+      "stock_name": "唯科科技",
+      "weight": 1.2
+    },
+    {
+      "stock_code": "603305",
+      "stock_name": "旭升集团",
+      "weight": 1.1
+    },
+    {
+      "stock_code": "300733",
+      "stock_name": "西菱动力",
+      "weight": 0.79
+    },
+    {
+      "stock_code": "301216",
+      "stock_name": "万凯新材",
+      "weight": 0.63
+    },
+    {
+      "stock_code": "001380",
+      "stock_name": "华纬科技",
+      "weight": 0.63
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 0.57
+    },
+    {
+      "stock_code": "301229",
+      "stock_name": "纽泰格",
+      "weight": 0.51
+    },
+    {
+      "stock_code": "688386",
+      "stock_name": "泛亚微透",
+      "weight": 0.51
+    },
+    {
+      "stock_code": "301345",
+      "stock_name": "涛涛车业",
+      "weight": 0.37
+    },
+    {
+      "stock_code": "301323",
+      "stock_name": "新莱福",
+      "weight": 0.34
+    },
+    {
+      "stock_code": "301261",
+      "stock_name": "恒工精密",
+      "weight": 0.22
+    },
+    {
+      "stock_code": "002896",
+      "stock_name": "中大力德",
+      "weight": 0.22
+    },
+    {
+      "stock_code": "301160",
+      "stock_name": "翔楼新材",
+      "weight": 0.18
+    },
+    {
+      "stock_code": "002050",
+      "stock_name": "三花智控",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "603901",
+      "stock_name": "永创智能",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "301368",
+      "stock_name": "丰立智能",
+      "weight": 0.08
+    },
+    {
+      "stock_code": "605088",
+      "stock_name": "冠盛股份",
+      "weight": 0.06
+    },
+    {
+      "stock_code": "300953",
+      "stock_name": "震裕科技",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:46",
+  "fetched_at": "2026-02-09 23:59:26",
   "data_source": "eastmoney"
 }

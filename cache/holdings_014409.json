@@ -3,18 +3,48 @@
   "fund_name": "创金合信兴选产业趋势混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.59,
-  "parsed_weight": 59.58,
-  "missing_weight": 34.01,
+  "parsed_weight": 165.96,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "00981",
+      "stock_name": "中芯国际",
+      "weight": 9.71
+    },
+    {
+      "stock_code": "301413",
+      "stock_name": "安培龙",
+      "weight": 8.33
+    },
+    {
+      "stock_code": "00175",
+      "stock_name": "吉利汽车",
+      "weight": 7.88
+    },
     {
       "stock_code": "601689",
       "stock_name": "拓普集团",
       "weight": 7.82
     },
     {
+      "stock_code": "600480",
+      "stock_name": "凌云股份",
+      "weight": 7.82
+    },
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 7.59
+    },
+    {
       "stock_code": "603667",
       "stock_name": "五洲新春",
       "weight": 7.51
+    },
+    {
+      "stock_code": "00762",
+      "stock_name": "中国联通",
+      "weight": 7.44
     },
     {
       "stock_code": "603119",
@@ -32,6 +62,21 @@
       "weight": 7.12
     },
     {
+      "stock_code": "02050",
+      "stock_name": "三花智控",
+      "weight": 6.94
+    },
+    {
+      "stock_code": "600418",
+      "stock_name": "江淮汽车",
+      "weight": 6.13
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 5.9
+    },
+    {
       "stock_code": "603179",
       "stock_name": "新泉股份",
       "weight": 5.58
@@ -40,6 +85,11 @@
       "stock_code": "688698",
       "stock_name": "伟创电气",
       "weight": 5.41
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 5.03
     },
     {
       "stock_code": "301550",
@@ -52,11 +102,106 @@
       "weight": 4.91
     },
     {
+      "stock_code": "00753",
+      "stock_name": "中国国航",
+      "weight": 4.83
+    },
+    {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 4.31
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 4.3
+    },
+    {
+      "stock_code": "02015",
+      "stock_name": "理想汽车-W",
+      "weight": 4.12
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 3.99
+    },
+    {
+      "stock_code": "300458",
+      "stock_name": "全志科技",
+      "weight": 3.37
+    },
+    {
       "stock_code": "002050",
       "stock_name": "三花智控",
       "weight": 1.92
+    },
+    {
+      "stock_code": "301617",
+      "stock_name": "博苑股份",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "06862",
+      "stock_name": "海底捞",
+      "weight": 1.36
+    },
+    {
+      "stock_code": "300007",
+      "stock_name": "汉威科技",
+      "weight": 1.09
+    },
+    {
+      "stock_code": "688536",
+      "stock_name": "思瑞浦",
+      "weight": 0.93
+    },
+    {
+      "stock_code": "09660",
+      "stock_name": "地平线机器人-W",
+      "weight": 0.83
+    },
+    {
+      "stock_code": "301275",
+      "stock_name": "汉朔科技",
+      "weight": 0.58
+    },
+    {
+      "stock_code": "688629",
+      "stock_name": "华丰科技",
+      "weight": 0.52
+    },
+    {
+      "stock_code": "600426",
+      "stock_name": "华鲁恒升",
+      "weight": 0.5
+    },
+    {
+      "stock_code": "003021",
+      "stock_name": "兆威机电",
+      "weight": 0.43
+    },
+    {
+      "stock_code": "603214",
+      "stock_name": "爱婴室",
+      "weight": 0.35
+    },
+    {
+      "stock_code": "300364",
+      "stock_name": "中文在线",
+      "weight": 0.18
+    },
+    {
+      "stock_code": "02232",
+      "stock_name": "晶苑国际",
+      "weight": 0.17
+    },
+    {
+      "stock_code": "002648",
+      "stock_name": "卫星化学",
+      "weight": 0.1
     }
   ],
-  "fetched_at": "2026-02-08 12:55:42",
+  "fetched_at": "2026-02-09 23:59:01",
   "data_source": "eastmoney"
 }

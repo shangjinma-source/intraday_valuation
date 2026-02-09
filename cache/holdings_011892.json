@@ -3,8 +3,8 @@
   "fund_name": "易方达先锋成长混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.69,
-  "parsed_weight": 56.91,
-  "missing_weight": 36.78,
+  "parsed_weight": 108.09,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300308",
@@ -22,6 +22,11 @@
       "weight": 8.63
     },
     {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 7.32
+    },
+    {
       "stock_code": "300394",
       "stock_name": "天孚通信",
       "weight": 6.83
@@ -32,9 +37,44 @@
       "weight": 6.11
     },
     {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 5.56
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 5.47
+    },
+    {
+      "stock_code": "688205",
+      "stock_name": "德科立",
+      "weight": 5.15
+    },
+    {
+      "stock_code": "06969",
+      "stock_name": "思摩尔国际",
+      "weight": 5.08
+    },
+    {
+      "stock_code": "603306",
+      "stock_name": "华懋科技",
+      "weight": 5.0
+    },
+    {
+      "stock_code": "688008",
+      "stock_name": "澜起科技",
+      "weight": 4.98
+    },
+    {
       "stock_code": "300548",
       "stock_name": "长芯博创",
       "weight": 4.92
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "weight": 4.9
     },
     {
       "stock_code": "688498",
@@ -47,11 +87,56 @@
       "weight": 3.91
     },
     {
+      "stock_code": "06869",
+      "stock_name": "长飞光纤光缆",
+      "weight": 3.63
+    },
+    {
       "stock_code": "688183",
       "stock_name": "生益电子",
       "weight": 3.47
+    },
+    {
+      "stock_code": "01357",
+      "stock_name": "美图公司",
+      "weight": 2.48
+    },
+    {
+      "stock_code": "09868",
+      "stock_name": "小鹏汽车-W",
+      "weight": 0.97
+    },
+    {
+      "stock_code": "300832",
+      "stock_name": "新产业",
+      "weight": 0.21
+    },
+    {
+      "stock_code": "603737",
+      "stock_name": "三棵树",
+      "weight": 0.2
+    },
+    {
+      "stock_code": "300926",
+      "stock_name": "博俊科技",
+      "weight": 0.2
+    },
+    {
+      "stock_code": "03690",
+      "stock_name": "美团-W",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688411",
+      "stock_name": "海博思创",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:17",
+  "fetched_at": "2026-02-09 23:56:09",
   "data_source": "eastmoney"
 }

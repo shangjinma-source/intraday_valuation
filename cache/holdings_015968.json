@@ -3,9 +3,14 @@
   "fund_name": "永赢半导体产业智选混合发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 80.2,
-  "parsed_weight": 62.06,
-  "missing_weight": 18.14,
+  "parsed_weight": 131.91,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "00981",
+      "stock_name": "中芯国际",
+      "weight": 9.92
+    },
     {
       "stock_code": "688502",
       "stock_name": "茂莱光学",
@@ -22,9 +27,34 @@
       "weight": 8.82
     },
     {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 8.63
+    },
+    {
+      "stock_code": "688010",
+      "stock_name": "福光股份",
+      "weight": 8.0
+    },
+    {
       "stock_code": "002222",
       "stock_name": "福晶科技",
       "weight": 7.7
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 7.38
+    },
+    {
+      "stock_code": "301421",
+      "stock_name": "波长光电",
+      "weight": 7.1
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 6.37
     },
     {
       "stock_code": "301308",
@@ -42,16 +72,41 @@
       "weight": 5.79
     },
     {
+      "stock_code": "001212",
+      "stock_name": "中旗新材",
+      "weight": 5.38
+    },
+    {
       "stock_code": "688172",
       "stock_name": "燕东微",
       "weight": 4.95
     },
     {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 4.74
+    },
+    {
+      "stock_code": "688409",
+      "stock_name": "富创精密",
+      "weight": 4.4
+    },
+    {
       "stock_code": "603986",
       "stock_name": "兆易创新",
       "weight": 4.39
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 4.38
+    },
+    {
+      "stock_code": "688072",
+      "stock_name": "拓荆科技",
+      "weight": 3.55
     }
   ],
-  "fetched_at": "2026-02-08 12:54:55",
+  "fetched_at": "2026-02-09 23:53:38",
   "data_source": "eastmoney"
 }

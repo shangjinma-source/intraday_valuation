@@ -3,8 +3,8 @@
   "fund_name": "富国中证电池主题ETF发起式联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 99.17,
-  "parsed_weight": 51.49,
-  "missing_weight": 47.68,
+  "parsed_weight": 101.2,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300750",
@@ -57,6 +57,206 @@
       "weight": 2.59
     },
     {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 2.24
+    },
+    {
+      "stock_code": "002126",
+      "stock_name": "银轮股份",
+      "weight": 2.17
+    },
+    {
+      "stock_code": "603659",
+      "stock_name": "璞泰来",
+      "weight": 2.15
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 2.04
+    },
+    {
+      "stock_code": "300037",
+      "stock_name": "新宙邦",
+      "weight": 1.98
+    },
+    {
+      "stock_code": "300073",
+      "stock_name": "当升科技",
+      "weight": 1.91
+    },
+    {
+      "stock_code": "300001",
+      "stock_name": "特锐德",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "600699",
+      "stock_name": "均胜电子",
+      "weight": 1.84
+    },
+    {
+      "stock_code": "300568",
+      "stock_name": "星源材质",
+      "weight": 1.82
+    },
+    {
+      "stock_code": "002812",
+      "stock_name": "恩捷股份",
+      "weight": 1.82
+    },
+    {
+      "stock_code": "000009",
+      "stock_name": "中国宝安",
+      "weight": 1.72
+    },
+    {
+      "stock_code": "002335",
+      "stock_name": "科华数据",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "300919",
+      "stock_name": "中伟股份",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "301358",
+      "stock_name": "湖南裕能",
+      "weight": 1.51
+    },
+    {
+      "stock_code": "300763",
+      "stock_name": "锦浪科技",
+      "weight": 1.47
+    },
+    {
+      "stock_code": "688116",
+      "stock_name": "天奈科技",
+      "weight": 1.45
+    },
+    {
+      "stock_code": "688472",
+      "stock_name": "阿特斯",
+      "weight": 1.45
+    },
+    {
+      "stock_code": "300432",
+      "stock_name": "富临精工",
+      "weight": 1.44
+    },
+    {
+      "stock_code": "688005",
+      "stock_name": "容百科技",
+      "weight": 1.2
+    },
+    {
+      "stock_code": "300390",
+      "stock_name": "天华新能",
+      "weight": 1.19
+    },
+    {
+      "stock_code": "688567",
+      "stock_name": "孚能科技",
+      "weight": 1.14
+    },
+    {
+      "stock_code": "688772",
+      "stock_name": "珠海冠宇",
+      "weight": 1.04
+    },
+    {
+      "stock_code": "300438",
+      "stock_name": "鹏辉能源",
+      "weight": 1.04
+    },
+    {
+      "stock_code": "600995",
+      "stock_name": "南网储能",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "688778",
+      "stock_name": "厦钨新能",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "300457",
+      "stock_name": "赢合科技",
+      "weight": 0.96
+    },
+    {
+      "stock_code": "920185",
+      "stock_name": "贝特瑞",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "001301",
+      "stock_name": "尚太科技",
+      "weight": 0.82
+    },
+    {
+      "stock_code": "688063",
+      "stock_name": "派能科技",
+      "weight": 0.82
+    },
+    {
+      "stock_code": "688390",
+      "stock_name": "固德威",
+      "weight": 0.78
+    },
+    {
+      "stock_code": "300827",
+      "stock_name": "上能电气",
+      "weight": 0.7
+    },
+    {
+      "stock_code": "601311",
+      "stock_name": "骆驼股份",
+      "weight": 0.68
+    },
+    {
+      "stock_code": "688779",
+      "stock_name": "五矿新能",
+      "weight": 0.68
+    },
+    {
+      "stock_code": "002518",
+      "stock_name": "科士达",
+      "weight": 0.56
+    },
+    {
+      "stock_code": "688248",
+      "stock_name": "南网科技",
+      "weight": 0.56
+    },
+    {
+      "stock_code": "688032",
+      "stock_name": "禾迈股份",
+      "weight": 0.56
+    },
+    {
+      "stock_code": "301487",
+      "stock_name": "盟固利",
+      "weight": 0.54
+    },
+    {
+      "stock_code": "688006",
+      "stock_name": "杭可科技",
+      "weight": 0.5
+    },
+    {
+      "stock_code": "301238",
+      "stock_name": "瑞泰新材",
+      "weight": 0.45
+    },
+    {
+      "stock_code": "688819",
+      "stock_name": "天能股份",
+      "weight": 0.39
+    },
+    {
       "stock_code": "688795",
       "stock_name": "摩尔线程",
       "weight": 0.17
@@ -80,9 +280,39 @@
       "stock_code": "688765",
       "stock_name": "禾元生物",
       "weight": 0.01
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688411",
+      "stock_name": "海博思创",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688449",
+      "stock_name": "联芸科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688708",
+      "stock_name": "佳驰科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688726",
+      "stock_name": "拉普拉斯",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688750",
+      "stock_name": "金天钛业",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:35",
+  "fetched_at": "2026-02-09 23:58:17",
   "data_source": "eastmoney",
   "original_fund_code": "017223",
   "etf_target": "561160",

@@ -155,18 +155,30 @@ def _fetch_eastmoney_holdings(fund_code: str, headers: dict) -> Tuple[Optional[L
             quarter_end = {1: "03-31", 2: "06-30", 3: "09-30", 4: "12-31"}
             report_date = f"{year}-{quarter_end.get(quarter, '12-31')}"
 
-        # 解析第一个表格（最新一期持仓）
-        first_table = re.search(
-            r'<table[^>]*class="w782 comm tzxq"[^>]*>(.*?)</table>',
-            content, re.DOTALL
-        )
-        if not first_table:
-            first_table = re.search(r'<table[^>]*>(.*?)</table>', content, re.DOTALL)
+        # 解析最新一期持仓的所有表格
+        # 有些年报可能将持仓拆分到多个表格中，需要全部解析
+        # 但只取第一个季度区块的数据，避免混入其他季度
 
-        if not first_table:
+        # 按季度标题分割，只取第一个季度的内容
+        quarter_positions = list(re.finditer(r'<h4[^>]*>\d{4}年\d季度', content))
+        if len(quarter_positions) >= 2:
+            first_block = content[quarter_positions[0].start():quarter_positions[1].start()]
+        elif len(quarter_positions) == 1:
+            first_block = content[quarter_positions[0].start():]
+        else:
+            first_block = content
+
+        all_tables = re.findall(
+            r'<table[^>]*class="w782 comm tzxq"[^>]*>(.*?)</table>',
+            first_block, re.DOTALL
+        )
+        if not all_tables:
+            all_tables = re.findall(r'<table[^>]*>(.*?)</table>', first_block, re.DOTALL)
+
+        if not all_tables:
             return None, report_date, 0.0
 
-        table_content = first_table.group(1)
+        table_content = "\n".join(all_tables)
         holdings = []
         parsed_weight = 0.0
         seen_codes = set()
@@ -174,31 +186,54 @@ def _fetch_eastmoney_holdings(fund_code: str, headers: dict) -> Tuple[Optional[L
         rows = re.findall(r'<tr[^>]*>(.*?)</tr>', table_content, re.DOTALL)
         for row in rows:
             cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
-            if len(cells) < 8:
+            if len(cells) < 5:
                 continue
 
-            code_match = re.search(r'>(\d{6})<', cells[1])
-            if not code_match:
-                code_match = re.search(r'(\d{6})', cells[1])
-            if not code_match:
+            # 提取股票代码：在前3个cell中搜索5-6位数字代码
+            stock_code = None
+            code_cell_idx = -1
+            for ci in range(min(3, len(cells))):
+                code_match = re.search(r'>(\d{5,6})<', cells[ci])
+                if not code_match:
+                    code_match = re.search(r'(\d{5,6})', cells[ci])
+                if code_match:
+                    stock_code = code_match.group(1)
+                    code_cell_idx = ci
+                    break
+            if not stock_code:
                 continue
-            stock_code = code_match.group(1)
 
             if stock_code in seen_codes:
                 continue
             seen_codes.add(stock_code)
 
-            name_match = re.search(r'>([^<]+)<', cells[2])
-            stock_name = name_match.group(1).strip() if name_match else stock_code
+            # 提取股票名称：代码所在cell的下一个cell
+            stock_name = stock_code
+            name_idx = code_cell_idx + 1
+            if name_idx < len(cells):
+                name_match = re.search(r'>([^<]+)<', cells[name_idx])
+                if name_match:
+                    stock_name = name_match.group(1).strip()
 
-            weight_text = re.sub(r'<[^>]+>', '', cells[6]).strip()
-            weight_text = weight_text.replace('%', '').replace('％', '')
-            try:
-                weight = float(weight_text)
-            except:
-                continue
+            # 提取权重：搜索所有cell，找到包含 "X.XX%" 格式的百分比值
+            weight = None
+            for ci in range(len(cells)):
+                cell_text = re.sub(r'<[^>]+>', '', cells[ci]).strip()
+                # 必须包含%或％符号才视为百分比
+                if '%' not in cell_text and '％' not in cell_text:
+                    continue
+                pct_text = cell_text.replace('％', '').replace('%', '').strip()
+                pct_match = re.match(r'^(\d+\.?\d*)$', pct_text)
+                if pct_match:
+                    try:
+                        val = float(pct_match.group(1))
+                        if 0 < val <= 100:
+                            weight = val
+                            break
+                    except:
+                        pass
 
-            if weight <= 0:
+            if weight is None or weight <= 0:
                 continue
 
             holdings.append({
@@ -346,7 +381,14 @@ def get_holdings(fund_code: str, force_refresh: bool = False) -> dict:
 # 行情 Provider
 # ============================================================
 
+def _is_hk_stock(stock_code: str) -> bool:
+    """判断是否为港股代码（5位数字，通常以0开头）"""
+    return len(stock_code) == 5
+
+
 def _convert_to_sina_symbol(stock_code: str) -> str:
+    if _is_hk_stock(stock_code):
+        return f"hk{stock_code}"
     if stock_code.startswith(("6", "5", "9")):
         return f"sh{stock_code}"
     return f"sz{stock_code}"
@@ -356,6 +398,25 @@ def _fetch_quotes_batch_sina(tickers: List[str]) -> Dict[str, dict]:
     if not tickers:
         return {}
 
+    # 分离A股和港股
+    a_tickers = [t for t in tickers if not _is_hk_stock(t)]
+    hk_tickers = [t for t in tickers if _is_hk_stock(t)]
+
+    all_results = {}
+
+    # A股行情
+    if a_tickers:
+        all_results.update(_fetch_a_share_quotes(a_tickers))
+
+    # 港股行情
+    if hk_tickers:
+        all_results.update(_fetch_hk_quotes(hk_tickers))
+
+    return all_results
+
+
+def _fetch_a_share_quotes(tickers: List[str]) -> Dict[str, dict]:
+    """获取A股行情"""
     all_results = {}
     batch_size = 50
 
@@ -400,6 +461,58 @@ def _fetch_quotes_batch_sina(tickers: List[str]) -> Dict[str, dict]:
                     continue
         except Exception as e:
             print(f"[Quotes] 请求失败: {e}")
+
+    return all_results
+
+
+def _fetch_hk_quotes(tickers: List[str]) -> Dict[str, dict]:
+    """获取港股行情（通过新浪港股API）"""
+    all_results = {}
+    batch_size = 20
+
+    for i in range(0, len(tickers), batch_size):
+        batch = tickers[i:i+batch_size]
+        symbols = [f"hk{t}" for t in batch]
+        url = f"https://hq.sinajs.cn/list={','.join(symbols)}"
+        headers = {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://finance.sina.com.cn"
+        }
+
+        try:
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
+                content = resp.read().decode("gbk")
+
+            now = datetime.now()
+            for line in content.strip().split("\n"):
+                # 港股格式: var hq_str_hk03896="..."; 数据用逗号分隔
+                match = re.match(r'var hq_str_(hk\d{5})="([^"]*)"', line)
+                if not match:
+                    continue
+                symbol, data_str = match.groups()
+                if not data_str:
+                    continue
+                data = data_str.split(",")
+                # 港股新浪格式: [0]中文名, [1]英文名, [2]open, [3]昨收, [4]最高, [5]最低, [6]最新价, ...
+                if len(data) < 7:
+                    continue
+
+                stock_code = symbol[2:]  # 去掉 "hk" 前缀
+                try:
+                    current = float(data[6]) if data[6] else 0
+                    yesterday = float(data[3]) if data[3] else 0
+                    pct = round((current - yesterday) / yesterday * 100, 2) if yesterday > 0 and current > 0 else 0.0
+                    all_results[stock_code] = {
+                        "stock_code": stock_code,
+                        "name": data[1] if data[1] else data[0],
+                        "pct_change": pct,
+                        "asof_time": now.strftime("%Y-%m-%d %H:%M:%S")
+                    }
+                except:
+                    continue
+        except Exception as e:
+            print(f"[Quotes] 港股请求失败: {e}")
 
     return all_results
 

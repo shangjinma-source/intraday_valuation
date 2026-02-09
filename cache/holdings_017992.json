@@ -3,13 +3,28 @@
   "fund_name": "华泰柏瑞致远混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 85.31,
-  "parsed_weight": 34.38,
-  "missing_weight": 50.93,
+  "parsed_weight": 120.28,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "01818",
+      "stock_name": "招金矿业",
+      "weight": 9.38
+    },
+    {
+      "stock_code": "01787",
+      "stock_name": "山东黄金",
+      "weight": 9.27
+    },
     {
       "stock_code": "000506",
       "stock_name": "招金黄金",
       "weight": 8.98
+    },
+    {
+      "stock_code": "02259",
+      "stock_name": "紫金黄金国际",
+      "weight": 7.32
     },
     {
       "stock_code": "002237",
@@ -17,9 +32,19 @@
       "weight": 6.48
     },
     {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 6.22
+    },
+    {
       "stock_code": "601519",
       "stock_name": "大智慧",
       "weight": 6.21
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 4.96
     },
     {
       "stock_code": "688256",
@@ -27,16 +52,136 @@
       "weight": 4.91
     },
     {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 4.74
+    },
+    {
+      "stock_code": "00388",
+      "stock_name": "香港交易所",
+      "weight": 4.55
+    },
+    {
       "stock_code": "001337",
       "stock_name": "四川黄金",
       "weight": 4.44
     },
     {
+      "stock_code": "603099",
+      "stock_name": "长白山",
+      "weight": 4.3
+    },
+    {
+      "stock_code": "301299",
+      "stock_name": "卓创资讯",
+      "weight": 4.23
+    },
+    {
       "stock_code": "000831",
       "stock_name": "中国稀土",
       "weight": 3.36
+    },
+    {
+      "stock_code": "000975",
+      "stock_name": "山金国际",
+      "weight": 3.35
+    },
+    {
+      "stock_code": "601288",
+      "stock_name": "农业银行",
+      "weight": 3.32
+    },
+    {
+      "stock_code": "000582",
+      "stock_name": "北部湾港",
+      "weight": 3.12
+    },
+    {
+      "stock_code": "603988",
+      "stock_name": "中电电机",
+      "weight": 3.04
+    },
+    {
+      "stock_code": "688318",
+      "stock_name": "财富趋势",
+      "weight": 2.44
+    },
+    {
+      "stock_code": "688095",
+      "stock_name": "福昕软件",
+      "weight": 2.29
+    },
+    {
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "00700",
+      "stock_name": "腾讯控股",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "000603",
+      "stock_name": "盛达资源",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "301378",
+      "stock_name": "通达海",
+      "weight": 1.46
+    },
+    {
+      "stock_code": "600988",
+      "stock_name": "赤峰黄金",
+      "weight": 1.41
+    },
+    {
+      "stock_code": "300188",
+      "stock_name": "国投智能",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "688110",
+      "stock_name": "东芯股份",
+      "weight": 0.87
+    },
+    {
+      "stock_code": "600570",
+      "stock_name": "恒生电子",
+      "weight": 0.71
+    },
+    {
+      "stock_code": "600536",
+      "stock_name": "中国软件",
+      "weight": 0.66
+    },
+    {
+      "stock_code": "002362",
+      "stock_name": "汉王科技",
+      "weight": 0.63
+    },
+    {
+      "stock_code": "301013",
+      "stock_name": "利和兴",
+      "weight": 0.6
+    },
+    {
+      "stock_code": "300559",
+      "stock_name": "佳发教育",
+      "weight": 0.42
+    },
+    {
+      "stock_code": "601628",
+      "stock_name": "中国人寿",
+      "weight": 0.29
+    },
+    {
+      "stock_code": "01208",
+      "stock_name": "五矿资源",
+      "weight": 0.25
     }
   ],
-  "fetched_at": "2026-02-08 12:54:31",
+  "fetched_at": "2026-02-09 23:52:57",
   "data_source": "eastmoney"
 }

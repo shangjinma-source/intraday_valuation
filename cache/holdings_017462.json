@@ -3,8 +3,8 @@
   "fund_name": "长城久祥混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.24,
-  "parsed_weight": 69.16,
-  "missing_weight": 25.08,
+  "parsed_weight": 203.38,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300308",
@@ -22,6 +22,11 @@
       "weight": 8.19
     },
     {
+      "stock_code": "002517",
+      "stock_name": "恺英网络",
+      "weight": 7.51
+    },
+    {
       "stock_code": "300548",
       "stock_name": "长芯博创",
       "weight": 7.18
@@ -37,6 +42,51 @@
       "weight": 6.98
     },
     {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 6.96
+    },
+    {
+      "stock_code": "601138",
+      "stock_name": "工业富联",
+      "weight": 6.85
+    },
+    {
+      "stock_code": "002558",
+      "stock_name": "巨人网络",
+      "weight": 6.83
+    },
+    {
+      "stock_code": "601595",
+      "stock_name": "上海电影",
+      "weight": 6.59
+    },
+    {
+      "stock_code": "300681",
+      "stock_name": "英搏尔",
+      "weight": 6.22
+    },
+    {
+      "stock_code": "688591",
+      "stock_name": "泰凌微",
+      "weight": 6.2
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 6.0
+    },
+    {
+      "stock_code": "603950",
+      "stock_name": "长源东谷",
+      "weight": 5.94
+    },
+    {
+      "stock_code": "600576",
+      "stock_name": "祥源文旅",
+      "weight": 5.86
+    },
+    {
       "stock_code": "002384",
       "stock_name": "东山精密",
       "weight": 5.8
@@ -47,16 +97,126 @@
       "weight": 5.4
     },
     {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 5.34
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 5.31
+    },
+    {
       "stock_code": "600105",
       "stock_name": "永鼎股份",
       "weight": 5.17
     },
     {
+      "stock_code": "002315",
+      "stock_name": "焦点科技",
+      "weight": 5.14
+    },
+    {
       "stock_code": "300456",
       "stock_name": "赛微电子",
       "weight": 5.1
+    },
+    {
+      "stock_code": "300364",
+      "stock_name": "中文在线",
+      "weight": 5.07
+    },
+    {
+      "stock_code": "002555",
+      "stock_name": "三七互娱",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "000988",
+      "stock_name": "华工科技",
+      "weight": 4.99
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 4.64
+    },
+    {
+      "stock_code": "002602",
+      "stock_name": "ST华通",
+      "weight": 4.57
+    },
+    {
+      "stock_code": "600633",
+      "stock_name": "浙数文化",
+      "weight": 4.18
+    },
+    {
+      "stock_code": "603258",
+      "stock_name": "电魂网络",
+      "weight": 3.97
+    },
+    {
+      "stock_code": "300494",
+      "stock_name": "盛天网络",
+      "weight": 3.6
+    },
+    {
+      "stock_code": "300251",
+      "stock_name": "光线传媒",
+      "weight": 2.89
+    },
+    {
+      "stock_code": "688590",
+      "stock_name": "新致软件",
+      "weight": 2.3
+    },
+    {
+      "stock_code": "603444",
+      "stock_name": "吉比特",
+      "weight": 2.26
+    },
+    {
+      "stock_code": "002130",
+      "stock_name": "沃尔核材",
+      "weight": 2.03
+    },
+    {
+      "stock_code": "600570",
+      "stock_name": "恒生电子",
+      "weight": 1.86
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 1.38
+    },
+    {
+      "stock_code": "688629",
+      "stock_name": "华丰科技",
+      "weight": 1.02
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "weight": 1.02
+    },
+    {
+      "stock_code": "688205",
+      "stock_name": "德科立",
+      "weight": 0.94
+    },
+    {
+      "stock_code": "002624",
+      "stock_name": "完美世界",
+      "weight": 0.93
+    },
+    {
+      "stock_code": "300002",
+      "stock_name": "神州泰岳",
+      "weight": 0.78
     }
   ],
-  "fetched_at": "2026-02-08 12:55:15",
+  "fetched_at": "2026-02-09 23:56:00",
   "data_source": "eastmoney"
 }

@@ -3,8 +3,8 @@
   "fund_name": "国泰国证有色金属行业指数(LOF)C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.33,
-  "parsed_weight": 48.71,
-  "missing_weight": 45.62,
+  "parsed_weight": 96.94,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "601899",
@@ -42,6 +42,11 @@
       "weight": 3.01
     },
     {
+      "stock_code": "600988",
+      "stock_name": "赤峰黄金",
+      "weight": 2.83
+    },
+    {
       "stock_code": "600547",
       "stock_name": "山东黄金",
       "weight": 2.81
@@ -57,11 +62,206 @@
       "weight": 2.5
     },
     {
+      "stock_code": "000975",
+      "stock_name": "山金国际",
+      "weight": 2.49
+    },
+    {
+      "stock_code": "000426",
+      "stock_name": "兴业银锡",
+      "weight": 2.3
+    },
+    {
+      "stock_code": "601168",
+      "stock_name": "西部矿业",
+      "weight": 2.19
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 1.98
+    },
+    {
+      "stock_code": "000831",
+      "stock_name": "中国稀土",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "600219",
+      "stock_name": "南山铝业",
+      "weight": 1.84
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "000630",
+      "stock_name": "铜陵有色",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "weight": 1.63
+    },
+    {
+      "stock_code": "002738",
+      "stock_name": "中矿资源",
+      "weight": 1.56
+    },
+    {
+      "stock_code": "002128",
+      "stock_name": "电投能源",
+      "weight": 1.5
+    },
+    {
+      "stock_code": "600549",
+      "stock_name": "厦门钨业",
+      "weight": 1.41
+    },
+    {
+      "stock_code": "600392",
+      "stock_name": "盛和资源",
+      "weight": 1.36
+    },
+    {
+      "stock_code": "000878",
+      "stock_name": "云南铜业",
+      "weight": 1.35
+    },
+    {
+      "stock_code": "600673",
+      "stock_name": "东阳光",
+      "weight": 1.32
+    },
+    {
+      "stock_code": "600497",
+      "stock_name": "驰宏锌锗",
+      "weight": 1.29
+    },
+    {
+      "stock_code": "000960",
+      "stock_name": "锡业股份",
+      "weight": 1.13
+    },
+    {
+      "stock_code": "002155",
+      "stock_name": "湖南黄金",
+      "weight": 1.12
+    },
+    {
+      "stock_code": "300748",
+      "stock_name": "金力永磁",
+      "weight": 1.11
+    },
+    {
+      "stock_code": "601677",
+      "stock_name": "明泰铝业",
+      "weight": 1.03
+    },
+    {
+      "stock_code": "002497",
+      "stock_name": "雅化集团",
+      "weight": 0.9
+    },
+    {
+      "stock_code": "000060",
+      "stock_name": "中金岭南",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "600206",
+      "stock_name": "有研新材",
+      "weight": 0.87
+    },
+    {
+      "stock_code": "000970",
+      "stock_name": "中科三环",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "002203",
+      "stock_name": "海亮股份",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "000629",
+      "stock_name": "钒钛股份",
+      "weight": 0.85
+    },
+    {
+      "stock_code": "002176",
+      "stock_name": "江特电机",
+      "weight": 0.85
+    },
+    {
+      "stock_code": "600595",
+      "stock_name": "中孚实业",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "002428",
+      "stock_name": "云南锗业",
+      "weight": 0.83
+    },
+    {
+      "stock_code": "601958",
+      "stock_name": "金钼股份",
+      "weight": 0.78
+    },
+    {
+      "stock_code": "000737",
+      "stock_name": "北方铜业",
+      "weight": 0.7
+    },
+    {
+      "stock_code": "601212",
+      "stock_name": "白银有色",
+      "weight": 0.67
+    },
+    {
+      "stock_code": "000657",
+      "stock_name": "中钨高新",
+      "weight": 0.65
+    },
+    {
+      "stock_code": "600456",
+      "stock_name": "宝钛股份",
+      "weight": 0.63
+    },
+    {
+      "stock_code": "300811",
+      "stock_name": "铂科新材",
+      "weight": 0.54
+    },
+    {
+      "stock_code": "301219",
+      "stock_name": "腾远钴业",
+      "weight": 0.48
+    },
+    {
+      "stock_code": "600361",
+      "stock_name": "创新新材",
+      "weight": 0.47
+    },
+    {
+      "stock_code": "601702",
+      "stock_name": "华峰铝业",
+      "weight": 0.35
+    },
+    {
+      "stock_code": "000688",
+      "stock_name": "国城矿业",
+      "weight": 0.3
+    },
+    {
       "stock_code": "301656",
       "stock_name": "联合动力",
       "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:54:48",
+  "fetched_at": "2026-02-09 23:53:13",
   "data_source": "eastmoney"
 }

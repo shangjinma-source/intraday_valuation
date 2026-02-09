@@ -3,8 +3,8 @@
   "fund_name": "华夏磐晟混合(LOF)",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.77,
-  "parsed_weight": 72.97,
-  "missing_weight": 20.8,
+  "parsed_weight": 146.4,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688536",
@@ -42,9 +42,24 @@
       "weight": 7.04
     },
     {
+      "stock_code": "002602",
+      "stock_name": "ST华通",
+      "weight": 6.43
+    },
+    {
       "stock_code": "688200",
       "stock_name": "华峰测控",
       "weight": 6.12
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 5.9
+    },
+    {
+      "stock_code": "000700",
+      "stock_name": "模塑科技",
+      "weight": 5.4
     },
     {
       "stock_code": "688141",
@@ -52,11 +67,126 @@
       "weight": 4.97
     },
     {
+      "stock_code": "688776",
+      "stock_name": "国光电气",
+      "weight": 4.87
+    },
+    {
+      "stock_code": "603011",
+      "stock_name": "合锻智能",
+      "weight": 4.76
+    },
+    {
       "stock_code": "300373",
       "stock_name": "扬杰科技",
       "weight": 4.71
+    },
+    {
+      "stock_code": "600353",
+      "stock_name": "旭光电子",
+      "weight": 4.48
+    },
+    {
+      "stock_code": "600941",
+      "stock_name": "中国移动",
+      "weight": 3.96
+    },
+    {
+      "stock_code": "300680",
+      "stock_name": "隆盛科技",
+      "weight": 3.69
+    },
+    {
+      "stock_code": "300433",
+      "stock_name": "蓝思科技",
+      "weight": 3.52
+    },
+    {
+      "stock_code": "000581",
+      "stock_name": "威孚高科",
+      "weight": 3.45
+    },
+    {
+      "stock_code": "603305",
+      "stock_name": "旭升集团",
+      "weight": 3.25
+    },
+    {
+      "stock_code": "920978",
+      "stock_name": "开特股份",
+      "weight": 2.86
+    },
+    {
+      "stock_code": "600363",
+      "stock_name": "联创光电",
+      "weight": 2.78
+    },
+    {
+      "stock_code": "603296",
+      "stock_name": "华勤技术",
+      "weight": 2.66
+    },
+    {
+      "stock_code": "600933",
+      "stock_name": "爱柯迪",
+      "weight": 2.47
+    },
+    {
+      "stock_code": "688719",
+      "stock_name": "爱科赛博",
+      "weight": 2.45
+    },
+    {
+      "stock_code": "601127",
+      "stock_name": "赛力斯",
+      "weight": 2.0
+    },
+    {
+      "stock_code": "000969",
+      "stock_name": "安泰科技",
+      "weight": 1.82
+    },
+    {
+      "stock_code": "002600",
+      "stock_name": "领益智造",
+      "weight": 1.47
+    },
+    {
+      "stock_code": "603596",
+      "stock_name": "伯特利",
+      "weight": 1.43
+    },
+    {
+      "stock_code": "603179",
+      "stock_name": "新泉股份",
+      "weight": 1.3
+    },
+    {
+      "stock_code": "601900",
+      "stock_name": "南方传媒",
+      "weight": 0.8
+    },
+    {
+      "stock_code": "002241",
+      "stock_name": "歌尔股份",
+      "weight": 0.59
+    },
+    {
+      "stock_code": "001309",
+      "stock_name": "德明利",
+      "weight": 0.56
+    },
+    {
+      "stock_code": "002938",
+      "stock_name": "鹏鼎控股",
+      "weight": 0.48
+    },
+    {
+      "stock_code": "002315",
+      "stock_name": "焦点科技",
+      "weight": 0.05
     }
   ],
-  "fetched_at": "2026-02-08 12:55:06",
+  "fetched_at": "2026-02-09 23:54:55",
   "data_source": "eastmoney"
 }

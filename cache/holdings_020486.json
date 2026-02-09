@@ -3,8 +3,8 @@
   "fund_name": "华富智慧城市灵活配置混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 91.36,
-  "parsed_weight": 44.31,
-  "missing_weight": 47.05,
+  "parsed_weight": 163.24,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688041",
@@ -12,9 +12,19 @@
       "weight": 5.6
     },
     {
+      "stock_code": "300378",
+      "stock_name": "鼎捷数智",
+      "weight": 5.39
+    },
+    {
       "stock_code": "688256",
       "stock_name": "寒武纪",
       "weight": 4.84
+    },
+    {
+      "stock_code": "300662",
+      "stock_name": "科锐国际",
+      "weight": 4.67
     },
     {
       "stock_code": "688292",
@@ -37,6 +47,21 @@
       "weight": 4.33
     },
     {
+      "stock_code": "600861",
+      "stock_name": "北京人力",
+      "weight": 4.26
+    },
+    {
+      "stock_code": "688590",
+      "stock_name": "新致软件",
+      "weight": 4.16
+    },
+    {
+      "stock_code": "300170",
+      "stock_name": "汉得信息",
+      "weight": 4.1
+    },
+    {
       "stock_code": "603859",
       "stock_name": "能科科技",
       "weight": 4.05
@@ -52,11 +77,206 @@
       "weight": 3.86
     },
     {
+      "stock_code": "300413",
+      "stock_name": "芒果超媒",
+      "weight": 3.83
+    },
+    {
+      "stock_code": "002739",
+      "stock_name": "万达电影",
+      "weight": 3.83
+    },
+    {
       "stock_code": "688258",
       "stock_name": "卓易信息",
       "weight": 3.82
+    },
+    {
+      "stock_code": "300229",
+      "stock_name": "拓尔思",
+      "weight": 3.71
+    },
+    {
+      "stock_code": "600588",
+      "stock_name": "用友网络",
+      "weight": 3.65
+    },
+    {
+      "stock_code": "002044",
+      "stock_name": "美年健康",
+      "weight": 3.47
+    },
+    {
+      "stock_code": "688365",
+      "stock_name": "光云科技",
+      "weight": 3.45
+    },
+    {
+      "stock_code": "688787",
+      "stock_name": "海天瑞声",
+      "weight": 3.44
+    },
+    {
+      "stock_code": "603882",
+      "stock_name": "金域医学",
+      "weight": 3.44
+    },
+    {
+      "stock_code": "300010",
+      "stock_name": "豆神教育",
+      "weight": 3.36
+    },
+    {
+      "stock_code": "000710",
+      "stock_name": "贝瑞基因",
+      "weight": 3.29
+    },
+    {
+      "stock_code": "300687",
+      "stock_name": "赛意信息",
+      "weight": 3.26
+    },
+    {
+      "stock_code": "603039",
+      "stock_name": "泛微网络",
+      "weight": 3.16
+    },
+    {
+      "stock_code": "688246",
+      "stock_name": "嘉和美康",
+      "weight": 3.09
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 3.07
+    },
+    {
+      "stock_code": "300525",
+      "stock_name": "博思软件",
+      "weight": 2.95
+    },
+    {
+      "stock_code": "300418",
+      "stock_name": "昆仑万维",
+      "weight": 2.72
+    },
+    {
+      "stock_code": "601360",
+      "stock_name": "三六零",
+      "weight": 2.64
+    },
+    {
+      "stock_code": "688159",
+      "stock_name": "有方科技",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "300738",
+      "stock_name": "奥飞数据",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "300773",
+      "stock_name": "拉卡拉",
+      "weight": 2.44
+    },
+    {
+      "stock_code": "001309",
+      "stock_name": "德明利",
+      "weight": 2.4
+    },
+    {
+      "stock_code": "603108",
+      "stock_name": "润达医疗",
+      "weight": 2.36
+    },
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 2.33
+    },
+    {
+      "stock_code": "688648",
+      "stock_name": "中邮科技",
+      "weight": 2.29
+    },
+    {
+      "stock_code": "688375",
+      "stock_name": "国博电子",
+      "weight": 2.19
+    },
+    {
+      "stock_code": "002410",
+      "stock_name": "广联达",
+      "weight": 2.17
+    },
+    {
+      "stock_code": "300130",
+      "stock_name": "新国都",
+      "weight": 2.16
+    },
+    {
+      "stock_code": "603005",
+      "stock_name": "晶方科技",
+      "weight": 2.07
+    },
+    {
+      "stock_code": "600990",
+      "stock_name": "四创电子",
+      "weight": 2.04
+    },
+    {
+      "stock_code": "688248",
+      "stock_name": "南网科技",
+      "weight": 2.04
+    },
+    {
+      "stock_code": "688232",
+      "stock_name": "新点软件",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "688369",
+      "stock_name": "致远互联",
+      "weight": 1.82
+    },
+    {
+      "stock_code": "301550",
+      "stock_name": "斯菱股份",
+      "weight": 1.81
+    },
+    {
+      "stock_code": "300121",
+      "stock_name": "阳谷华泰",
+      "weight": 1.22
+    },
+    {
+      "stock_code": "300364",
+      "stock_name": "中文在线",
+      "weight": 0.97
+    },
+    {
+      "stock_code": "300253",
+      "stock_name": "卫宁健康",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "300872",
+      "stock_name": "天阳科技",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "000032",
+      "stock_name": "深桑达A",
+      "weight": 0.82
+    },
+    {
+      "stock_code": "688383",
+      "stock_name": "新益昌",
+      "weight": 0.06
     }
   ],
-  "fetched_at": "2026-02-08 12:55:27",
+  "fetched_at": "2026-02-09 23:57:23",
   "data_source": "eastmoney"
 }

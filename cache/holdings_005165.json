@@ -3,13 +3,23 @@
   "fund_name": "富荣福锦混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 71.72,
-  "parsed_weight": 62.3,
-  "missing_weight": 9.42,
+  "parsed_weight": 197.92,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "603119",
       "stock_name": "浙江荣泰",
       "weight": 7.99
+    },
+    {
+      "stock_code": "300809",
+      "stock_name": "华辰装备",
+      "weight": 7.87
+    },
+    {
+      "stock_code": "000837",
+      "stock_name": "秦川机床",
+      "weight": 7.25
     },
     {
       "stock_code": "002050",
@@ -22,6 +32,11 @@
       "weight": 6.95
     },
     {
+      "stock_code": "603667",
+      "stock_name": "五洲新春",
+      "weight": 6.08
+    },
+    {
       "stock_code": "301550",
       "stock_name": "斯菱智驱",
       "weight": 6.01
@@ -30,6 +45,21 @@
       "stock_code": "300984",
       "stock_name": "金沃股份",
       "weight": 5.98
+    },
+    {
+      "stock_code": "301413",
+      "stock_name": "安培龙",
+      "weight": 5.97
+    },
+    {
+      "stock_code": "300007",
+      "stock_name": "汉威科技",
+      "weight": 5.97
+    },
+    {
+      "stock_code": "605488",
+      "stock_name": "福莱新材",
+      "weight": 5.95
     },
     {
       "stock_code": "688698",
@@ -42,9 +72,29 @@
       "weight": 5.94
     },
     {
+      "stock_code": "300680",
+      "stock_name": "隆盛科技",
+      "weight": 5.86
+    },
+    {
+      "stock_code": "300733",
+      "stock_name": "西菱动力",
+      "weight": 5.72
+    },
+    {
+      "stock_code": "301196",
+      "stock_name": "唯科科技",
+      "weight": 5.65
+    },
+    {
       "stock_code": "603009",
       "stock_name": "北特科技",
       "weight": 5.59
+    },
+    {
+      "stock_code": "300918",
+      "stock_name": "南山智尚",
+      "weight": 5.53
     },
     {
       "stock_code": "300953",
@@ -52,11 +102,121 @@
       "weight": 5.51
     },
     {
+      "stock_code": "688722",
+      "stock_name": "同益中",
+      "weight": 5.47
+    },
+    {
       "stock_code": "688017",
       "stock_name": "绿的谐波",
       "weight": 5.3
+    },
+    {
+      "stock_code": "603758",
+      "stock_name": "秦安股份",
+      "weight": 5.18
+    },
+    {
+      "stock_code": "300100",
+      "stock_name": "双林股份",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "002903",
+      "stock_name": "宇环数控",
+      "weight": 4.88
+    },
+    {
+      "stock_code": "688028",
+      "stock_name": "沃尔德",
+      "weight": 4.85
+    },
+    {
+      "stock_code": "605133",
+      "stock_name": "嵘泰股份",
+      "weight": 4.81
+    },
+    {
+      "stock_code": "600592",
+      "stock_name": "龙溪股份",
+      "weight": 4.78
+    },
+    {
+      "stock_code": "603130",
+      "stock_name": "云中马",
+      "weight": 4.62
+    },
+    {
+      "stock_code": "688322",
+      "stock_name": "奥比中光",
+      "weight": 4.26
+    },
+    {
+      "stock_code": "301368",
+      "stock_name": "丰立智能",
+      "weight": 3.62
+    },
+    {
+      "stock_code": "603507",
+      "stock_name": "振江股份",
+      "weight": 3.39
+    },
+    {
+      "stock_code": "301000",
+      "stock_name": "肇民科技",
+      "weight": 3.34
+    },
+    {
+      "stock_code": "301187",
+      "stock_name": "欧圣电气",
+      "weight": 3.25
+    },
+    {
+      "stock_code": "603089",
+      "stock_name": "正裕工业",
+      "weight": 2.73
+    },
+    {
+      "stock_code": "300354",
+      "stock_name": "东华测试",
+      "weight": 2.52
+    },
+    {
+      "stock_code": "603901",
+      "stock_name": "永创智能",
+      "weight": 2.43
+    },
+    {
+      "stock_code": "603319",
+      "stock_name": "美湖股份",
+      "weight": 2.39
+    },
+    {
+      "stock_code": "002779",
+      "stock_name": "中坚科技",
+      "weight": 1.93
+    },
+    {
+      "stock_code": "600480",
+      "stock_name": "凌云股份",
+      "weight": 1.33
+    },
+    {
+      "stock_code": "301330",
+      "stock_name": "熵基科技",
+      "weight": 1.07
+    },
+    {
+      "stock_code": "688580",
+      "stock_name": "伟思医疗",
+      "weight": 1.05
+    },
+    {
+      "stock_code": "300430",
+      "stock_name": "诚益通",
+      "weight": 0.83
     }
   ],
-  "fetched_at": "2026-02-08 12:55:40",
+  "fetched_at": "2026-02-09 23:58:49",
   "data_source": "eastmoney"
 }

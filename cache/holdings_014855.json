@@ -3,8 +3,8 @@
   "fund_name": "嘉实中证半导体指数增强发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.86,
-  "parsed_weight": 69.49,
-  "missing_weight": 24.37,
+  "parsed_weight": 97.48,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688012",
@@ -47,6 +47,31 @@
       "weight": 4.46
     },
     {
+      "stock_code": "688082",
+      "stock_name": "盛美上海",
+      "weight": 3.41
+    },
+    {
+      "stock_code": "688361",
+      "stock_name": "中科飞测",
+      "weight": 3.34
+    },
+    {
+      "stock_code": "002409",
+      "stock_name": "雅克科技",
+      "weight": 3.29
+    },
+    {
+      "stock_code": "300666",
+      "stock_name": "江丰电子",
+      "weight": 3.2
+    },
+    {
+      "stock_code": "300346",
+      "stock_name": "南大光电",
+      "weight": 3.12
+    },
+    {
       "stock_code": "688200",
       "stock_name": "华峰测控",
       "weight": 3.03
@@ -57,9 +82,49 @@
       "weight": 3.01
     },
     {
+      "stock_code": "688126",
+      "stock_name": "沪硅产业",
+      "weight": 2.0
+    },
+    {
+      "stock_code": "300054",
+      "stock_name": "鼎龙股份",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "688146",
+      "stock_name": "中船特气",
+      "weight": 1.09
+    },
+    {
+      "stock_code": "605358",
+      "stock_name": "立昂微",
+      "weight": 0.91
+    },
+    {
+      "stock_code": "603650",
+      "stock_name": "彤程新材",
+      "weight": 0.89
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 0.85
+    },
+    {
+      "stock_code": "300236",
+      "stock_name": "上海新阳",
+      "weight": 0.8
+    },
+    {
       "stock_code": "603986",
       "stock_name": "兆易创新",
       "weight": 0.78
+    },
+    {
+      "stock_code": "301269",
+      "stock_name": "华大九天",
+      "weight": 0.66
     },
     {
       "stock_code": "688008",
@@ -77,11 +142,56 @@
       "weight": 0.5
     },
     {
+      "stock_code": "688596",
+      "stock_name": "正帆科技",
+      "weight": 0.5
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 0.49
+    },
+    {
       "stock_code": "000066",
       "stock_name": "中国长城",
       "weight": 0.47
+    },
+    {
+      "stock_code": "002415",
+      "stock_name": "海康威视",
+      "weight": 0.42
+    },
+    {
+      "stock_code": "603501",
+      "stock_name": "豪威集团",
+      "weight": 0.39
+    },
+    {
+      "stock_code": "600460",
+      "stock_name": "士兰微",
+      "weight": 0.39
+    },
+    {
+      "stock_code": "600703",
+      "stock_name": "三安光电",
+      "weight": 0.35
+    },
+    {
+      "stock_code": "002436",
+      "stock_name": "兴森科技",
+      "weight": 0.31
+    },
+    {
+      "stock_code": "688213",
+      "stock_name": "思特威",
+      "weight": 0.28
+    },
+    {
+      "stock_code": "600206",
+      "stock_name": "有研新材",
+      "weight": 0.12
     }
   ],
-  "fetched_at": "2026-02-08 12:54:54",
+  "fetched_at": "2026-02-09 23:53:34",
   "data_source": "eastmoney"
 }

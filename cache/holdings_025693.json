@@ -3,8 +3,8 @@
   "fund_name": "南方中证通用航空主题ETF发起联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 98.86,
-  "parsed_weight": 42.31,
-  "missing_weight": 56.55,
+  "parsed_weight": 43.61,
+  "missing_weight": 55.25,
   "positions": [
     {
       "stock_code": "600879",
@@ -57,6 +57,21 @@
       "weight": 2.67
     },
     {
+      "stock_code": "600038",
+      "stock_name": "中直股份",
+      "weight": 0.47
+    },
+    {
+      "stock_code": "600562",
+      "stock_name": "国睿科技",
+      "weight": 0.43
+    },
+    {
+      "stock_code": "002625",
+      "stock_name": "光启技术",
+      "weight": 0.4
+    },
+    {
       "stock_code": "301563",
       "stock_name": "云汉芯城",
       "weight": 0.01
@@ -72,7 +87,7 @@
       "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:12",
+  "fetched_at": "2026-02-09 23:55:34",
   "data_source": "eastmoney",
   "original_fund_code": "025693",
   "etf_target": "159283",

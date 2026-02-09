@@ -3,18 +3,83 @@
   "fund_name": "平安鑫安混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 83.74,
-  "parsed_weight": 59.22,
-  "missing_weight": 24.52,
+  "parsed_weight": 202.74,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 9.4
+    },
     {
       "stock_code": "603308",
       "stock_name": "应流股份",
       "weight": 9.33
     },
     {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 8.8
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 8.69
+    },
+    {
+      "stock_code": "300153",
+      "stock_name": "科泰电源",
+      "weight": 8.42
+    },
+    {
       "stock_code": "000534",
       "stock_name": "万泽股份",
       "weight": 7.94
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 7.45
+    },
+    {
+      "stock_code": "603236",
+      "stock_name": "移远通信",
+      "weight": 7.27
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 7.21
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 7.19
+    },
+    {
+      "stock_code": "688049",
+      "stock_name": "炬芯科技",
+      "weight": 7.09
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 6.61
+    },
+    {
+      "stock_code": "688392",
+      "stock_name": "骄成超声",
+      "weight": 6.58
+    },
+    {
+      "stock_code": "688333",
+      "stock_name": "铂力特",
+      "weight": 6.52
+    },
+    {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 6.19
     },
     {
       "stock_code": "600875",
@@ -27,9 +92,19 @@
       "weight": 5.9
     },
     {
+      "stock_code": "688433",
+      "stock_name": "华曙高科",
+      "weight": 5.76
+    },
+    {
       "stock_code": "002922",
       "stock_name": "伊戈尔",
       "weight": 5.3
+    },
+    {
+      "stock_code": "688213",
+      "stock_name": "思特威",
+      "weight": 5.08
     },
     {
       "stock_code": "002353",
@@ -40,6 +115,11 @@
       "stock_code": "603067",
       "stock_name": "振华股份",
       "weight": 5.0
+    },
+    {
+      "stock_code": "688332",
+      "stock_name": "中科蓝讯",
+      "weight": 4.99
     },
     {
       "stock_code": "002478",
@@ -55,8 +135,48 @@
       "stock_code": "688676",
       "stock_name": "金盘科技",
       "weight": 4.79
+    },
+    {
+      "stock_code": "603337",
+      "stock_name": "杰克股份",
+      "weight": 4.76
+    },
+    {
+      "stock_code": "300638",
+      "stock_name": "广和通",
+      "weight": 4.74
+    },
+    {
+      "stock_code": "002351",
+      "stock_name": "漫步者",
+      "weight": 4.55
+    },
+    {
+      "stock_code": "300353",
+      "stock_name": "东土科技",
+      "weight": 4.44
+    },
+    {
+      "stock_code": "688510",
+      "stock_name": "航亚科技",
+      "weight": 3.66
+    },
+    {
+      "stock_code": "603416",
+      "stock_name": "信捷电气",
+      "weight": 3.35
+    },
+    {
+      "stock_code": "001283",
+      "stock_name": "豪鹏科技",
+      "weight": 2.92
+    },
+    {
+      "stock_code": "688531",
+      "stock_name": "日联科技",
+      "weight": 1.85
     }
   ],
-  "fetched_at": "2026-02-08 12:56:06",
+  "fetched_at": "2026-02-10 00:01:39",
   "data_source": "eastmoney"
 }

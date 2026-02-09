@@ -3,9 +3,29 @@
   "fund_name": "长城产业优选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 92.91,
-  "parsed_weight": 38.25,
-  "missing_weight": 54.66,
+  "parsed_weight": 175.38,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "603596",
+      "stock_name": "伯特利",
+      "weight": 9.27
+    },
+    {
+      "stock_code": "002906",
+      "stock_name": "华阳集团",
+      "weight": 9.12
+    },
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 7.77
+    },
+    {
+      "stock_code": "00268",
+      "stock_name": "金蝶国际",
+      "weight": 7.33
+    },
     {
       "stock_code": "688088",
       "stock_name": "虹软科技",
@@ -17,9 +37,29 @@
       "weight": 7.1
     },
     {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 7.06
+    },
+    {
+      "stock_code": "00700",
+      "stock_name": "腾讯控股",
+      "weight": 6.98
+    },
+    {
       "stock_code": "300454",
       "stock_name": "深信服",
       "weight": 6.8
+    },
+    {
+      "stock_code": "300627",
+      "stock_name": "华测导航",
+      "weight": 6.79
+    },
+    {
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "weight": 6.32
     },
     {
       "stock_code": "688692",
@@ -35,8 +75,168 @@
       "stock_code": "688615",
       "stock_name": "合合信息",
       "weight": 5.34
+    },
+    {
+      "stock_code": "06682",
+      "stock_name": "范式智能",
+      "weight": 5.32
+    },
+    {
+      "stock_code": "03738",
+      "stock_name": "阜博集团",
+      "weight": 5.22
+    },
+    {
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "weight": 4.98
+    },
+    {
+      "stock_code": "603067",
+      "stock_name": "振华股份",
+      "weight": 4.68
+    },
+    {
+      "stock_code": "300679",
+      "stock_name": "电连技术",
+      "weight": 4.57
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 4.09
+    },
+    {
+      "stock_code": "002683",
+      "stock_name": "广东宏大",
+      "weight": 4.08
+    },
+    {
+      "stock_code": "02015",
+      "stock_name": "理想汽车-W",
+      "weight": 4.07
+    },
+    {
+      "stock_code": "002472",
+      "stock_name": "双环传动",
+      "weight": 3.82
+    },
+    {
+      "stock_code": "09868",
+      "stock_name": "小鹏汽车-W",
+      "weight": 3.29
+    },
+    {
+      "stock_code": "002353",
+      "stock_name": "杰瑞股份",
+      "weight": 3.25
+    },
+    {
+      "stock_code": "300203",
+      "stock_name": "聚光科技",
+      "weight": 2.77
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 2.76
+    },
+    {
+      "stock_code": "603197",
+      "stock_name": "保隆科技",
+      "weight": 2.67
+    },
+    {
+      "stock_code": "688213",
+      "stock_name": "思特威",
+      "weight": 2.52
+    },
+    {
+      "stock_code": "00285",
+      "stock_name": "比亚迪电子",
+      "weight": 2.5
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "603308",
+      "stock_name": "应流股份",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "002602",
+      "stock_name": "ST华通",
+      "weight": 1.54
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 1.32
+    },
+    {
+      "stock_code": "600585",
+      "stock_name": "海螺水泥",
+      "weight": 1.29
+    },
+    {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 1.2
+    },
+    {
+      "stock_code": "00388",
+      "stock_name": "香港交易所",
+      "weight": 1.06
+    },
+    {
+      "stock_code": "002555",
+      "stock_name": "三七互娱",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "002126",
+      "stock_name": "银轮股份",
+      "weight": 0.89
+    },
+    {
+      "stock_code": "600415",
+      "stock_name": "小商品城",
+      "weight": 0.69
+    },
+    {
+      "stock_code": "002947",
+      "stock_name": "恒铭达",
+      "weight": 0.68
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 0.66
+    },
+    {
+      "stock_code": "002484",
+      "stock_name": "江海股份",
+      "weight": 0.65
+    },
+    {
+      "stock_code": "01316",
+      "stock_name": "耐世特",
+      "weight": 0.64
+    },
+    {
+      "stock_code": "603228",
+      "stock_name": "景旺电子",
+      "weight": 0.41
+    },
+    {
+      "stock_code": "002011",
+      "stock_name": "盾安环境",
+      "weight": 0.41
     }
   ],
-  "fetched_at": "2026-02-08 12:55:32",
+  "fetched_at": "2026-02-09 23:57:56",
   "data_source": "eastmoney"
 }

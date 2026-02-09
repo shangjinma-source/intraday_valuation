@@ -3,12 +3,17 @@
   "fund_name": "东吴移动互联混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.57,
-  "parsed_weight": 80.89,
-  "missing_weight": 12.68,
+  "parsed_weight": 128.57,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002475",
       "stock_name": "立讯精密",
+      "weight": 9.5
+    },
+    {
+      "stock_code": "603005",
+      "stock_name": "晶方科技",
       "weight": 9.5
     },
     {
@@ -47,16 +52,56 @@
       "weight": 6.5
     },
     {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 6.47
+    },
+    {
+      "stock_code": "002241",
+      "stock_name": "歌尔股份",
+      "weight": 6.33
+    },
+    {
       "stock_code": "300433",
       "stock_name": "蓝思科技",
       "weight": 6.31
     },
     {
+      "stock_code": "601127",
+      "stock_name": "赛力斯",
+      "weight": 6.11
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 5.93
+    },
+    {
       "stock_code": "601138",
       "stock_name": "工业富联",
       "weight": 5.89
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 5.08
+    },
+    {
+      "stock_code": "002906",
+      "stock_name": "华阳集团",
+      "weight": 4.97
+    },
+    {
+      "stock_code": "603596",
+      "stock_name": "伯特利",
+      "weight": 3.05
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 0.24
     }
   ],
-  "fetched_at": "2026-02-08 12:55:23",
+  "fetched_at": "2026-02-09 23:56:52",
   "data_source": "eastmoney"
 }

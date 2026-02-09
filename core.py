@@ -151,9 +151,16 @@ def calculate_valuation(fund_code: str) -> dict:
     covered_weight = 0.0
     asof_time = None
 
+    # 当 parsed_weight > stock_total_weight 时，按比例缩放权重到 stock_total_weight
+    stock_total = holdings.get("stock_total_weight", 0)
+    parsed_weight = holdings.get("parsed_weight", 0)
+    weight_scale = 1.0
+    if parsed_weight > stock_total > 0:
+        weight_scale = stock_total / parsed_weight
+
     for pos in holdings["positions"]:
         code = pos["stock_code"]
-        weight = pos["weight"]
+        weight = pos["weight"] * weight_scale
 
         if code in quotes:
             pct_change = quotes[code]["pct_change"]
@@ -162,8 +169,10 @@ def calculate_valuation(fund_code: str) -> dict:
             if asof_time is None:
                 asof_time = quotes[code]["asof_time"]
 
+    if weight_scale < 1.0:
+        result["notes"].append(f"持仓权重和{parsed_weight:.1f}%>股票仓位{stock_total:.1f}%,已按比例缩放")
+
     # 残差权重 = 股票总仓位 - 已覆盖权重
-    stock_total = holdings.get("stock_total_weight", 0)
     residual_weight = stock_total - covered_weight
 
     # 对于残差部分，用已覆盖持仓的平均涨跌幅来估算
@@ -181,13 +190,13 @@ def calculate_valuation(fund_code: str) -> dict:
 
     # 4. 计算置信度
     if stock_total > 0:
-        coverage_score = covered_weight / stock_total
+        coverage_score = min(covered_weight / stock_total, 1.0)
     else:
         coverage_score = 0.0
 
     staleness_score = _calc_staleness_score(result["holdings_asof_date"])
     confidence = 0.7 * coverage_score + 0.3 * staleness_score
-    result["confidence"] = round(confidence, 3)
+    result["confidence"] = round(min(confidence, 1.0), 3)
 
     # 5. 添加说明
     if missing:

@@ -3,8 +3,8 @@
   "fund_name": "永赢高端装备智选混合发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.7,
-  "parsed_weight": 62.86,
-  "missing_weight": 31.84,
+  "parsed_weight": 139.29,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "600118",
@@ -32,9 +32,29 @@
       "weight": 7.13
     },
     {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 5.31
+    },
+    {
+      "stock_code": "688418",
+      "stock_name": "震有科技",
+      "weight": 4.79
+    },
+    {
       "stock_code": "300342",
       "stock_name": "天银机电",
       "weight": 4.75
+    },
+    {
+      "stock_code": "002465",
+      "stock_name": "海格通信",
+      "weight": 4.54
+    },
+    {
+      "stock_code": "300627",
+      "stock_name": "华测导航",
+      "weight": 4.49
     },
     {
       "stock_code": "300136",
@@ -55,8 +75,163 @@
       "stock_code": "002565",
       "stock_name": "顺灏股份",
       "weight": 4.14
+    },
+    {
+      "stock_code": "688270",
+      "stock_name": "臻镭科技",
+      "weight": 3.93
+    },
+    {
+      "stock_code": "688311",
+      "stock_name": "盟升电子",
+      "weight": 3.46
+    },
+    {
+      "stock_code": "300455",
+      "stock_name": "航天智装",
+      "weight": 3.41
+    },
+    {
+      "stock_code": "002049",
+      "stock_name": "紫光国微",
+      "weight": 3.37
+    },
+    {
+      "stock_code": "688333",
+      "stock_name": "铂力特",
+      "weight": 3.24
+    },
+    {
+      "stock_code": "600345",
+      "stock_name": "长江通信",
+      "weight": 3.1
+    },
+    {
+      "stock_code": "603131",
+      "stock_name": "上海沪工",
+      "weight": 3.09
+    },
+    {
+      "stock_code": "603236",
+      "stock_name": "移远通信",
+      "weight": 3.05
+    },
+    {
+      "stock_code": "300102",
+      "stock_name": "乾照光电",
+      "weight": 2.94
+    },
+    {
+      "stock_code": "002025",
+      "stock_name": "航天电器",
+      "weight": 2.9
+    },
+    {
+      "stock_code": "688375",
+      "stock_name": "国博电子",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "688582",
+      "stock_name": "芯动联科",
+      "weight": 2.3
+    },
+    {
+      "stock_code": "600435",
+      "stock_name": "北方导航",
+      "weight": 2.0
+    },
+    {
+      "stock_code": "300101",
+      "stock_name": "振芯科技",
+      "weight": 1.96
+    },
+    {
+      "stock_code": "688385",
+      "stock_name": "复旦微电",
+      "weight": 1.66
+    },
+    {
+      "stock_code": "300593",
+      "stock_name": "新雷能",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "603678",
+      "stock_name": "火炬电子",
+      "weight": 1.49
+    },
+    {
+      "stock_code": "300045",
+      "stock_name": "华力创通",
+      "weight": 1.37
+    },
+    {
+      "stock_code": "605118",
+      "stock_name": "力鼎光电",
+      "weight": 1.23
+    },
+    {
+      "stock_code": "688539",
+      "stock_name": "高华科技",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "002935",
+      "stock_name": "天奥电子",
+      "weight": 1.05
+    },
+    {
+      "stock_code": "603267",
+      "stock_name": "鸿远电子",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "000733",
+      "stock_name": "振华科技",
+      "weight": 0.97
+    },
+    {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 0.95
+    },
+    {
+      "stock_code": "000801",
+      "stock_name": "四川九洲",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "301517",
+      "stock_name": "陕西华达",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "603712",
+      "stock_name": "七一二",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "600480",
+      "stock_name": "凌云股份",
+      "weight": 0.83
+    },
+    {
+      "stock_code": "002338",
+      "stock_name": "奥普光电",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "001390",
+      "stock_name": "古麒绒材",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:08",
+  "fetched_at": "2026-02-09 23:55:07",
   "data_source": "eastmoney"
 }

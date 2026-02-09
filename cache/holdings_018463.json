@@ -3,8 +3,8 @@
   "fund_name": "德邦稳盈增长灵活配置混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.0,
-  "parsed_weight": 68.29,
-  "missing_weight": 25.71,
+  "parsed_weight": 172.83,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688615",
@@ -27,6 +27,31 @@
       "weight": 7.39
     },
     {
+      "stock_code": "603859",
+      "stock_name": "能科科技",
+      "weight": 7.36
+    },
+    {
+      "stock_code": "688031",
+      "stock_name": "星环科技",
+      "weight": 7.0
+    },
+    {
+      "stock_code": "688590",
+      "stock_name": "新致软件",
+      "weight": 6.93
+    },
+    {
+      "stock_code": "300525",
+      "stock_name": "博思软件",
+      "weight": 6.66
+    },
+    {
+      "stock_code": "002315",
+      "stock_name": "焦点科技",
+      "weight": 6.58
+    },
+    {
       "stock_code": "300364",
       "stock_name": "中文在线",
       "weight": 6.27
@@ -37,9 +62,29 @@
       "weight": 6.13
     },
     {
+      "stock_code": "300378",
+      "stock_name": "鼎捷数智",
+      "weight": 5.69
+    },
+    {
+      "stock_code": "688787",
+      "stock_name": "海天瑞声",
+      "weight": 5.47
+    },
+    {
+      "stock_code": "002517",
+      "stock_name": "恺英网络",
+      "weight": 5.39
+    },
+    {
       "stock_code": "688500",
       "stock_name": "慧辰股份",
       "weight": 5.31
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 5.2
     },
     {
       "stock_code": "301171",
@@ -52,11 +97,66 @@
       "weight": 5.09
     },
     {
+      "stock_code": "300638",
+      "stock_name": "广和通",
+      "weight": 5.07
+    },
+    {
+      "stock_code": "688507",
+      "stock_name": "索辰科技",
+      "weight": 5.04
+    },
+    {
       "stock_code": "688365",
       "stock_name": "光云科技",
       "weight": 5.03
+    },
+    {
+      "stock_code": "603918",
+      "stock_name": "金桥信息",
+      "weight": 5.02
+    },
+    {
+      "stock_code": "002292",
+      "stock_name": "奥飞娱乐",
+      "weight": 5.02
+    },
+    {
+      "stock_code": "600718",
+      "stock_name": "东软集团",
+      "weight": 4.95
+    },
+    {
+      "stock_code": "300634",
+      "stock_name": "彩讯股份",
+      "weight": 4.49
+    },
+    {
+      "stock_code": "300253",
+      "stock_name": "卫宁健康",
+      "weight": 4.49
+    },
+    {
+      "stock_code": "300687",
+      "stock_name": "赛意信息",
+      "weight": 4.48
+    },
+    {
+      "stock_code": "300010",
+      "stock_name": "豆神教育",
+      "weight": 4.02
+    },
+    {
+      "stock_code": "002044",
+      "stock_name": "美年健康",
+      "weight": 3.73
+    },
+    {
+      "stock_code": "300846",
+      "stock_name": "首都在线",
+      "weight": 1.95
     }
   ],
-  "fetched_at": "2026-02-08 12:55:27",
+  "fetched_at": "2026-02-09 23:57:19",
   "data_source": "eastmoney"
 }
