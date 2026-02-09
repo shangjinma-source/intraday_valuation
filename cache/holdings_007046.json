@@ -3,8 +3,8 @@
   "fund_name": "方正富邦创新动力混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.42,
-  "parsed_weight": 63.63,
-  "missing_weight": 30.79,
+  "parsed_weight": 133.67,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688568",
@@ -12,9 +12,34 @@
       "weight": 9.24
     },
     {
+      "stock_code": "688631",
+      "stock_name": "莱斯信息",
+      "weight": 8.78
+    },
+    {
+      "stock_code": "001696",
+      "stock_name": "宗申动力",
+      "weight": 8.62
+    },
+    {
+      "stock_code": "000099",
+      "stock_name": "中信海直",
+      "weight": 8.21
+    },
+    {
+      "stock_code": "002085",
+      "stock_name": "万丰奥威",
+      "weight": 8.1
+    },
+    {
       "stock_code": "600118",
       "stock_name": "中国卫星",
       "weight": 7.99
+    },
+    {
+      "stock_code": "301091",
+      "stock_name": "深城交",
+      "weight": 7.83
     },
     {
       "stock_code": "600580",
@@ -27,14 +52,34 @@
       "weight": 6.72
     },
     {
+      "stock_code": "600562",
+      "stock_name": "国睿科技",
+      "weight": 6.71
+    },
+    {
       "stock_code": "000801",
       "stock_name": "四川九洲",
       "weight": 6.64
     },
     {
+      "stock_code": "688522",
+      "stock_name": "纳睿雷达",
+      "weight": 5.59
+    },
+    {
       "stock_code": "688333",
       "stock_name": "铂力特",
       "weight": 5.46
+    },
+    {
+      "stock_code": "300681",
+      "stock_name": "英搏尔",
+      "weight": 5.36
+    },
+    {
+      "stock_code": "600316",
+      "stock_name": "洪都航空",
+      "weight": 5.33
     },
     {
       "stock_code": "300762",
@@ -55,8 +100,23 @@
       "stock_code": "600435",
       "stock_name": "北方导航",
       "weight": 4.53
+    },
+    {
+      "stock_code": "002967",
+      "stock_name": "广电计量",
+      "weight": 4.09
+    },
+    {
+      "stock_code": "300284",
+      "stock_name": "苏交科",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "600990",
+      "stock_name": "四创电子",
+      "weight": 0.54
     }
   ],
-  "fetched_at": "2026-02-08 12:55:08",
+  "fetched_at": "2026-02-09 23:55:09",
   "data_source": "eastmoney"
 }

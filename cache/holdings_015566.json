@@ -3,8 +3,8 @@
   "fund_name": "万家精选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.28,
-  "parsed_weight": 73.1,
-  "missing_weight": 21.18,
+  "parsed_weight": 119.12,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "600546",
@@ -22,6 +22,11 @@
       "weight": 9.36
     },
     {
+      "stock_code": "601898",
+      "stock_name": "中煤能源",
+      "weight": 7.92
+    },
+    {
       "stock_code": "601225",
       "stock_name": "陕西煤业",
       "weight": 7.78
@@ -37,9 +42,24 @@
       "weight": 7.0
     },
     {
+      "stock_code": "600256",
+      "stock_name": "广汇能源",
+      "weight": 6.85
+    },
+    {
       "stock_code": "000983",
       "stock_name": "山西焦煤",
       "weight": 6.32
+    },
+    {
+      "stock_code": "601919",
+      "stock_name": "中远海控",
+      "weight": 6.16
+    },
+    {
+      "stock_code": "600348",
+      "stock_name": "华阳股份",
+      "weight": 5.88
     },
     {
       "stock_code": "601088",
@@ -55,8 +75,68 @@
       "stock_code": "688503",
       "stock_name": "聚和材料",
       "weight": 4.72
+    },
+    {
+      "stock_code": "600575",
+      "stock_name": "淮河能源",
+      "weight": 4.38
+    },
+    {
+      "stock_code": "002379",
+      "stock_name": "宏创控股",
+      "weight": 4.38
+    },
+    {
+      "stock_code": "600782",
+      "stock_name": "新钢股份",
+      "weight": 2.67
+    },
+    {
+      "stock_code": "601666",
+      "stock_name": "平煤股份",
+      "weight": 1.23
+    },
+    {
+      "stock_code": "601865",
+      "stock_name": "福莱特",
+      "weight": 1.19
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 1.09
+    },
+    {
+      "stock_code": "002648",
+      "stock_name": "卫星化学",
+      "weight": 0.88
+    },
+    {
+      "stock_code": "301030",
+      "stock_name": "仕净科技",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "600160",
+      "stock_name": "巨化股份",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "600971",
+      "stock_name": "恒源煤电",
+      "weight": 0.65
+    },
+    {
+      "stock_code": "600582",
+      "stock_name": "天地科技",
+      "weight": 0.53
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 0.51
     }
   ],
-  "fetched_at": "2026-02-08 12:55:59",
+  "fetched_at": "2026-02-10 00:00:48",
   "data_source": "eastmoney"
 }

@@ -3,9 +3,19 @@
   "fund_name": "汇添富新睿精选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 90.36,
-  "parsed_weight": 62.25,
-  "missing_weight": 28.11,
+  "parsed_weight": 160.35,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 11.25
+    },
+    {
+      "stock_code": "000425",
+      "stock_name": "徐工机械",
+      "weight": 10.09
+    },
     {
       "stock_code": "002028",
       "stock_name": "思源电气",
@@ -15,6 +25,11 @@
       "stock_code": "002851",
       "stock_name": "麦格米特",
       "weight": 7.71
+    },
+    {
+      "stock_code": "601898",
+      "stock_name": "中煤能源",
+      "weight": 7.06
     },
     {
       "stock_code": "002518",
@@ -37,9 +52,44 @@
       "weight": 6.53
     },
     {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 5.76
+    },
+    {
       "stock_code": "300274",
       "stock_name": "阳光电源",
       "weight": 5.68
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "weight": 5.55
+    },
+    {
+      "stock_code": "000521",
+      "stock_name": "长虹美菱",
+      "weight": 5.2
+    },
+    {
+      "stock_code": "000651",
+      "stock_name": "格力电器",
+      "weight": 5.09
+    },
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 4.95
+    },
+    {
+      "stock_code": "000550",
+      "stock_name": "江铃汽车",
+      "weight": 4.71
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 4.54
     },
     {
       "stock_code": "000811",
@@ -47,16 +97,81 @@
       "weight": 4.46
     },
     {
+      "stock_code": "601717",
+      "stock_name": "中创智领",
+      "weight": 4.38
+    },
+    {
       "stock_code": "300593",
       "stock_name": "新雷能",
       "weight": 3.94
     },
     {
+      "stock_code": "603369",
+      "stock_name": "今世缘",
+      "weight": 3.93
+    },
+    {
       "stock_code": "600875",
       "stock_name": "东方电气",
       "weight": 3.84
+    },
+    {
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "weight": 3.79
+    },
+    {
+      "stock_code": "600938",
+      "stock_name": "中国海油",
+      "weight": 3.64
+    },
+    {
+      "stock_code": "601633",
+      "stock_name": "长城汽车",
+      "weight": 3.46
+    },
+    {
+      "stock_code": "603202",
+      "stock_name": "天有为",
+      "weight": 3.34
+    },
+    {
+      "stock_code": "000680",
+      "stock_name": "山推股份",
+      "weight": 3.0
+    },
+    {
+      "stock_code": "601918",
+      "stock_name": "新集能源",
+      "weight": 2.34
+    },
+    {
+      "stock_code": "601001",
+      "stock_name": "晋控煤业",
+      "weight": 2.18
+    },
+    {
+      "stock_code": "000528",
+      "stock_name": "柳工",
+      "weight": 2.03
+    },
+    {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 1.03
+    },
+    {
+      "stock_code": "002353",
+      "stock_name": "杰瑞股份",
+      "weight": 0.54
+    },
+    {
+      "stock_code": "603091",
+      "stock_name": "众鑫股份",
+      "weight": 0.24
     }
   ],
-  "fetched_at": "2026-02-08 12:56:06",
+  "fetched_at": "2026-02-10 00:01:41",
   "data_source": "eastmoney"
 }

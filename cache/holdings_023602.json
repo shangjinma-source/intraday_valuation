@@ -3,8 +3,8 @@
   "fund_name": "泰信优势领航混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 90.29,
-  "parsed_weight": 66.54,
-  "missing_weight": 23.75,
+  "parsed_weight": 151.54,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688258",
@@ -27,6 +27,11 @@
       "weight": 7.24
     },
     {
+      "stock_code": "300703",
+      "stock_name": "创源股份",
+      "weight": 6.73
+    },
+    {
       "stock_code": "300378",
       "stock_name": "鼎捷数智",
       "weight": 6.34
@@ -47,6 +52,11 @@
       "weight": 5.94
     },
     {
+      "stock_code": "000997",
+      "stock_name": "新大陆",
+      "weight": 5.9
+    },
+    {
       "stock_code": "300454",
       "stock_name": "深信服",
       "weight": 5.89
@@ -55,8 +65,153 @@
       "stock_code": "688256",
       "stock_name": "寒武纪",
       "weight": 4.78
+    },
+    {
+      "stock_code": "300785",
+      "stock_name": "值得买",
+      "weight": 4.61
+    },
+    {
+      "stock_code": "688531",
+      "stock_name": "日联科技",
+      "weight": 4.5
+    },
+    {
+      "stock_code": "688158",
+      "stock_name": "优刻得",
+      "weight": 4.45
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 4.31
+    },
+    {
+      "stock_code": "688507",
+      "stock_name": "索辰科技",
+      "weight": 4.3
+    },
+    {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 4.01
+    },
+    {
+      "stock_code": "300328",
+      "stock_name": "宜安科技",
+      "weight": 3.97
+    },
+    {
+      "stock_code": "688692",
+      "stock_name": "达梦数据",
+      "weight": 3.68
+    },
+    {
+      "stock_code": "002034",
+      "stock_name": "旺能环境",
+      "weight": 3.61
+    },
+    {
+      "stock_code": "002929",
+      "stock_name": "润建股份",
+      "weight": 3.15
+    },
+    {
+      "stock_code": "300687",
+      "stock_name": "赛意信息",
+      "weight": 3.06
+    },
+    {
+      "stock_code": "300634",
+      "stock_name": "彩讯股份",
+      "weight": 2.98
+    },
+    {
+      "stock_code": "300857",
+      "stock_name": "协创数据",
+      "weight": 2.7
+    },
+    {
+      "stock_code": "600590",
+      "stock_name": "泰豪科技",
+      "weight": 2.69
+    },
+    {
+      "stock_code": "601138",
+      "stock_name": "工业富联",
+      "weight": 2.38
+    },
+    {
+      "stock_code": "002130",
+      "stock_name": "沃尔核材",
+      "weight": 2.31
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 2.2
+    },
+    {
+      "stock_code": "688513",
+      "stock_name": "苑东生物",
+      "weight": 1.81
+    },
+    {
+      "stock_code": "300204",
+      "stock_name": "舒泰神",
+      "weight": 1.72
+    },
+    {
+      "stock_code": "300442",
+      "stock_name": "润泽科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 1.5
+    },
+    {
+      "stock_code": "300224",
+      "stock_name": "正海磁材",
+      "weight": 1.44
+    },
+    {
+      "stock_code": "688590",
+      "stock_name": "新致软件",
+      "weight": 1.13
+    },
+    {
+      "stock_code": "301316",
+      "stock_name": "慧博云通",
+      "weight": 1.07
+    },
+    {
+      "stock_code": "300170",
+      "stock_name": "汉得信息",
+      "weight": 1.02
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 0.89
+    },
+    {
+      "stock_code": "002384",
+      "stock_name": "东山精密",
+      "weight": 0.67
+    },
+    {
+      "stock_code": "300748",
+      "stock_name": "金力永磁",
+      "weight": 0.39
+    },
+    {
+      "stock_code": "300911",
+      "stock_name": "亿田智能",
+      "weight": 0.21
     }
   ],
-  "fetched_at": "2026-02-08 12:55:26",
+  "fetched_at": "2026-02-09 23:57:17",
   "data_source": "eastmoney"
 }

@@ -3,13 +3,63 @@
   "fund_name": "东方阿尔法产业先锋混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.53,
-  "parsed_weight": 51.11,
-  "missing_weight": 43.42,
+  "parsed_weight": 153.64,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 9.78
+    },
+    {
+      "stock_code": "002223",
+      "stock_name": "鱼跃医疗",
+      "weight": 9.64
+    },
+    {
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "weight": 9.14
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "weight": 9.09
+    },
+    {
+      "stock_code": "002043",
+      "stock_name": "兔宝宝",
+      "weight": 9.05
+    },
+    {
+      "stock_code": "603605",
+      "stock_name": "珀莱雅",
+      "weight": 8.94
+    },
+    {
+      "stock_code": "600309",
+      "stock_name": "万华化学",
+      "weight": 8.91
+    },
+    {
+      "stock_code": "600690",
+      "stock_name": "海尔智家",
+      "weight": 8.85
+    },
+    {
+      "stock_code": "002833",
+      "stock_name": "弘亚数控",
+      "weight": 7.5
+    },
     {
       "stock_code": "603663",
       "stock_name": "三祥新材",
       "weight": 6.46
+    },
+    {
+      "stock_code": "600563",
+      "stock_name": "法拉电子",
+      "weight": 6.23
     },
     {
       "stock_code": "603200",
@@ -20,6 +70,11 @@
       "stock_code": "688778",
       "stock_name": "厦钨新能",
       "weight": 6.0
+    },
+    {
+      "stock_code": "688499",
+      "stock_name": "利元亨",
+      "weight": 5.99
     },
     {
       "stock_code": "688559",
@@ -47,16 +102,41 @@
       "weight": 4.53
     },
     {
+      "stock_code": "300457",
+      "stock_name": "赢合科技",
+      "weight": 4.42
+    },
+    {
       "stock_code": "301662",
       "stock_name": "宏工科技",
       "weight": 4.29
     },
     {
+      "stock_code": "000999",
+      "stock_name": "华润三九",
+      "weight": 4.22
+    },
+    {
       "stock_code": "301360",
       "stock_name": "荣旗科技",
       "weight": 3.94
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 0.43
+    },
+    {
+      "stock_code": "300144",
+      "stock_name": "宋城演艺",
+      "weight": 0.33
+    },
+    {
+      "stock_code": "603210",
+      "stock_name": "泰鸿万立",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:33",
+  "fetched_at": "2026-02-09 23:58:00",
   "data_source": "eastmoney"
 }

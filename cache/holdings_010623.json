@@ -3,8 +3,8 @@
   "fund_name": "恒越成长精选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.55,
-  "parsed_weight": 42.97,
-  "missing_weight": 50.58,
+  "parsed_weight": 150.17,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300502",
@@ -22,6 +22,31 @@
       "weight": 4.82
     },
     {
+      "stock_code": "002484",
+      "stock_name": "江海股份",
+      "weight": 4.62
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 4.61
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 4.6
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "weight": 4.49
+    },
+    {
+      "stock_code": "300913",
+      "stock_name": "兆龙互连",
+      "weight": 4.48
+    },
+    {
       "stock_code": "001309",
       "stock_name": "德明利",
       "weight": 4.44
@@ -32,9 +57,34 @@
       "weight": 4.19
     },
     {
+      "stock_code": "300548",
+      "stock_name": "长芯博创",
+      "weight": 4.16
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 4.11
+    },
+    {
       "stock_code": "688123",
       "stock_name": "聚辰股份",
       "weight": 3.99
+    },
+    {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 3.74
+    },
+    {
+      "stock_code": "301202",
+      "stock_name": "朗威股份",
+      "weight": 3.74
+    },
+    {
+      "stock_code": "301556",
+      "stock_name": "托普云农",
+      "weight": 3.61
     },
     {
       "stock_code": "688630",
@@ -42,9 +92,29 @@
       "weight": 3.6
     },
     {
+      "stock_code": "301183",
+      "stock_name": "东田微",
+      "weight": 3.57
+    },
+    {
       "stock_code": "688766",
       "stock_name": "普冉股份",
       "weight": 3.53
+    },
+    {
+      "stock_code": "688800",
+      "stock_name": "瑞可达",
+      "weight": 3.51
+    },
+    {
+      "stock_code": "300870",
+      "stock_name": "欧陆通",
+      "weight": 3.46
+    },
+    {
+      "stock_code": "688205",
+      "stock_name": "德科立",
+      "weight": 3.44
     },
     {
       "stock_code": "688141",
@@ -55,8 +125,163 @@
       "stock_code": "688318",
       "stock_name": "财富趋势",
       "weight": 3.23
+    },
+    {
+      "stock_code": "688313",
+      "stock_name": "仕佳光子",
+      "weight": 3.14
+    },
+    {
+      "stock_code": "002556",
+      "stock_name": "辉隆股份",
+      "weight": 3.05
+    },
+    {
+      "stock_code": "002156",
+      "stock_name": "通富微电",
+      "weight": 2.77
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "weight": 2.74
+    },
+    {
+      "stock_code": "600459",
+      "stock_name": "贵研铂业",
+      "weight": 2.65
+    },
+    {
+      "stock_code": "002364",
+      "stock_name": "中恒电气",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 2.57
+    },
+    {
+      "stock_code": "920982",
+      "stock_name": "锦波生物",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "300895",
+      "stock_name": "铜牛信息",
+      "weight": 2.41
+    },
+    {
+      "stock_code": "300139",
+      "stock_name": "晓程科技",
+      "weight": 2.22
+    },
+    {
+      "stock_code": "601162",
+      "stock_name": "天风证券",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "688259",
+      "stock_name": "创耀科技",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "300153",
+      "stock_name": "科泰电源",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "weight": 1.86
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 1.78
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "weight": 1.72
+    },
+    {
+      "stock_code": "002250",
+      "stock_name": "联化科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "688591",
+      "stock_name": "泰凌微",
+      "weight": 1.49
+    },
+    {
+      "stock_code": "06088",
+      "stock_name": "FIT HON TENG",
+      "weight": 1.45
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 1.38
+    },
+    {
+      "stock_code": "300622",
+      "stock_name": "博士眼镜",
+      "weight": 1.35
+    },
+    {
+      "stock_code": "688557",
+      "stock_name": "兰剑智能",
+      "weight": 1.3
+    },
+    {
+      "stock_code": "00179",
+      "stock_name": "德昌电机控股",
+      "weight": 1.23
+    },
+    {
+      "stock_code": "300941",
+      "stock_name": "创识科技",
+      "weight": 1.22
+    },
+    {
+      "stock_code": "001389",
+      "stock_name": "广合科技",
+      "weight": 1.02
+    },
+    {
+      "stock_code": "300785",
+      "stock_name": "值得买",
+      "weight": 0.58
+    },
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 0.5
+    },
+    {
+      "stock_code": "688003",
+      "stock_name": "天准科技",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688623",
+      "stock_name": "双元科技",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688479",
+      "stock_name": "友车科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "001378",
+      "stock_name": "德冠新材",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:05",
+  "fetched_at": "2026-02-09 23:54:47",
   "data_source": "eastmoney"
 }

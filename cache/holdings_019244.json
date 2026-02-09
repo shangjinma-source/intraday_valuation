@@ -3,8 +3,8 @@
   "fund_name": "汇丰晋信龙腾混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.64,
-  "parsed_weight": 85.07,
-  "missing_weight": 9.57,
+  "parsed_weight": 133.07,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002459",
@@ -22,9 +22,19 @@
       "weight": 9.4
     },
     {
+      "stock_code": "601615",
+      "stock_name": "明阳智能",
+      "weight": 9.39
+    },
+    {
       "stock_code": "601865",
       "stock_name": "福莱特",
       "weight": 9.38
+    },
+    {
+      "stock_code": "688293",
+      "stock_name": "奥浦迈",
+      "weight": 9.35
     },
     {
       "stock_code": "688303",
@@ -47,16 +57,41 @@
       "weight": 8.19
     },
     {
+      "stock_code": "603806",
+      "stock_name": "福斯特",
+      "weight": 7.53
+    },
+    {
       "stock_code": "002129",
       "stock_name": "TCL中环",
       "weight": 6.63
     },
     {
+      "stock_code": "688062",
+      "stock_name": "迈威生物",
+      "weight": 6.54
+    },
+    {
+      "stock_code": "603822",
+      "stock_name": "嘉澳环保",
+      "weight": 6.41
+    },
+    {
       "stock_code": "688223",
       "stock_name": "晶科能源",
       "weight": 6.38
+    },
+    {
+      "stock_code": "300118",
+      "stock_name": "东方日升",
+      "weight": 6.08
+    },
+    {
+      "stock_code": "688503",
+      "stock_name": "聚和材料",
+      "weight": 2.7
     }
   ],
-  "fetched_at": "2026-02-08 12:55:39",
+  "fetched_at": "2026-02-09 23:58:42",
   "data_source": "eastmoney"
 }

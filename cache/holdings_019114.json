@@ -3,9 +3,19 @@
   "fund_name": "东财慧心优选C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 92.23,
-  "parsed_weight": 55.12,
-  "missing_weight": 37.11,
+  "parsed_weight": 147.87,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "01347",
+      "stock_name": "华虹半导体",
+      "weight": 8.67
+    },
+    {
+      "stock_code": "00981",
+      "stock_name": "中芯国际",
+      "weight": 8.57
+    },
     {
       "stock_code": "300661",
       "stock_name": "圣邦股份",
@@ -45,8 +55,93 @@
       "stock_code": "603501",
       "stock_name": "豪威集团",
       "weight": 6.32
+    },
+    {
+      "stock_code": "688591",
+      "stock_name": "泰凌微",
+      "weight": 6.04
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 6.02
+    },
+    {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 5.72
+    },
+    {
+      "stock_code": "002906",
+      "stock_name": "华阳集团",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "300223",
+      "stock_name": "北京君正",
+      "weight": 4.93
+    },
+    {
+      "stock_code": "00285",
+      "stock_name": "比亚迪电子",
+      "weight": 4.72
+    },
+    {
+      "stock_code": "688326",
+      "stock_name": "经纬恒润",
+      "weight": 4.72
+    },
+    {
+      "stock_code": "688343",
+      "stock_name": "云天励飞",
+      "weight": 4.55
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 4.54
+    },
+    {
+      "stock_code": "02498",
+      "stock_name": "速腾聚创",
+      "weight": 4.47
+    },
+    {
+      "stock_code": "688368",
+      "stock_name": "晶丰明源",
+      "weight": 4.36
+    },
+    {
+      "stock_code": "688719",
+      "stock_name": "爱科赛博",
+      "weight": 4.35
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 4.33
+    },
+    {
+      "stock_code": "688220",
+      "stock_name": "翱捷科技",
+      "weight": 4.29
+    },
+    {
+      "stock_code": "300458",
+      "stock_name": "全志科技",
+      "weight": 4.24
+    },
+    {
+      "stock_code": "688620",
+      "stock_name": "安凯微",
+      "weight": 2.06
+    },
+    {
+      "stock_code": "688332",
+      "stock_name": "中科蓝讯",
+      "weight": 1.13
     }
   ],
-  "fetched_at": "2026-02-08 12:55:07",
+  "fetched_at": "2026-02-09 23:55:05",
   "data_source": "eastmoney"
 }

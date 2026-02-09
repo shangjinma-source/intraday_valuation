@@ -3,8 +3,8 @@
   "fund_name": "银河创新成长混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.86,
-  "parsed_weight": 77.12,
-  "missing_weight": 16.74,
+  "parsed_weight": 128.09,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688981",
@@ -27,6 +27,11 @@
       "weight": 9.4
     },
     {
+      "stock_code": "301269",
+      "stock_name": "华大九天",
+      "weight": 9.12
+    },
+    {
       "stock_code": "688347",
       "stock_name": "华虹公司",
       "weight": 8.41
@@ -42,6 +47,26 @@
       "weight": 8.06
     },
     {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 8.05
+    },
+    {
+      "stock_code": "688536",
+      "stock_name": "思瑞浦",
+      "weight": 6.43
+    },
+    {
+      "stock_code": "603019",
+      "stock_name": "中科曙光",
+      "weight": 6.21
+    },
+    {
+      "stock_code": "603893",
+      "stock_name": "瑞芯微",
+      "weight": 5.92
+    },
+    {
       "stock_code": "688008",
       "stock_name": "澜起科技",
       "weight": 5.42
@@ -55,8 +80,48 @@
       "stock_code": "688691",
       "stock_name": "灿芯股份",
       "weight": 3.8
+    },
+    {
+      "stock_code": "300661",
+      "stock_name": "圣邦股份",
+      "weight": 3.71
+    },
+    {
+      "stock_code": "688107",
+      "stock_name": "安路科技",
+      "weight": 2.98
+    },
+    {
+      "stock_code": "688052",
+      "stock_name": "纳芯微",
+      "weight": 2.92
+    },
+    {
+      "stock_code": "688141",
+      "stock_name": "杰华特",
+      "weight": 2.25
+    },
+    {
+      "stock_code": "688234",
+      "stock_name": "天岳先进",
+      "weight": 2.1
+    },
+    {
+      "stock_code": "688385",
+      "stock_name": "复旦微电",
+      "weight": 1.15
+    },
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "688798",
+      "stock_name": "艾为电子",
+      "weight": 0.04
     }
   ],
-  "fetched_at": "2026-02-08 12:54:55",
+  "fetched_at": "2026-02-09 23:53:43",
   "data_source": "eastmoney"
 }

@@ -3,8 +3,8 @@
   "fund_name": "华夏上证科创板半导体材料设备主题ETF发起式联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 98.83,
-  "parsed_weight": 72.98,
-  "missing_weight": 25.85,
+  "parsed_weight": 99.36,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688072",
@@ -55,9 +55,114 @@
       "stock_code": "688082",
       "stock_name": "盛美上海",
       "weight": 4.39
+    },
+    {
+      "stock_code": "688409",
+      "stock_name": "富创精密",
+      "weight": 3.35
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 2.97
+    },
+    {
+      "stock_code": "688106",
+      "stock_name": "金宏气体",
+      "weight": 2.06
+    },
+    {
+      "stock_code": "688652",
+      "stock_name": "京仪装备",
+      "weight": 1.91
+    },
+    {
+      "stock_code": "688146",
+      "stock_name": "中船特气",
+      "weight": 1.83
+    },
+    {
+      "stock_code": "688535",
+      "stock_name": "华海诚科",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "688549",
+      "stock_name": "中巨芯",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "688584",
+      "stock_name": "上海合晶",
+      "weight": 1.42
+    },
+    {
+      "stock_code": "688233",
+      "stock_name": "神工股份",
+      "weight": 1.4
+    },
+    {
+      "stock_code": "688432",
+      "stock_name": "有研硅",
+      "weight": 1.39
+    },
+    {
+      "stock_code": "688661",
+      "stock_name": "和林微纳",
+      "weight": 1.2
+    },
+    {
+      "stock_code": "688720",
+      "stock_name": "艾森股份",
+      "weight": 0.9
+    },
+    {
+      "stock_code": "688001",
+      "stock_name": "华兴源创",
+      "weight": 0.89
+    },
+    {
+      "stock_code": "688478",
+      "stock_name": "晶升股份",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "688383",
+      "stock_name": "新益昌",
+      "weight": 0.82
+    },
+    {
+      "stock_code": "688605",
+      "stock_name": "先锋精科",
+      "weight": 0.81
+    },
+    {
+      "stock_code": "688721",
+      "stock_name": "龙图光罩",
+      "weight": 0.39
+    },
+    {
+      "stock_code": "688355",
+      "stock_name": "明志科技",
+      "weight": 0.35
+    },
+    {
+      "stock_code": "688530",
+      "stock_name": "欧莱新材",
+      "weight": 0.31
+    },
+    {
+      "stock_code": "688419",
+      "stock_name": "耐科装备",
+      "weight": 0.29
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:54:58",
+  "fetched_at": "2026-02-09 23:54:03",
   "data_source": "eastmoney",
   "original_fund_code": "024418",
   "etf_target": "588170",

@@ -3,13 +3,78 @@
   "fund_name": "银华沪深股通精选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 68.84,
-  "parsed_weight": 40.67,
-  "missing_weight": 28.17,
+  "parsed_weight": 163.72,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "002865",
+      "stock_name": "钧达股份",
+      "weight": 8.14
+    },
+    {
+      "stock_code": "601012",
+      "stock_name": "隆基绿能",
+      "weight": 7.74
+    },
+    {
+      "stock_code": "600988",
+      "stock_name": "赤峰黄金",
+      "weight": 7.03
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 6.68
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 6.56
+    },
+    {
+      "stock_code": "002129",
+      "stock_name": "TCL中环",
+      "weight": 6.53
+    },
+    {
+      "stock_code": "688503",
+      "stock_name": "聚和材料",
+      "weight": 6.15
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 6.11
+    },
+    {
+      "stock_code": "600547",
+      "stock_name": "山东黄金",
+      "weight": 6.04
+    },
+    {
+      "stock_code": "000975",
+      "stock_name": "山金国际",
+      "weight": 5.9
+    },
     {
       "stock_code": "600030",
       "stock_name": "中信证券",
       "weight": 5.64
+    },
+    {
+      "stock_code": "688303",
+      "stock_name": "大全能源",
+      "weight": 5.37
+    },
+    {
+      "stock_code": "600438",
+      "stock_name": "通威股份",
+      "weight": 5.26
+    },
+    {
+      "stock_code": "600732",
+      "stock_name": "爱旭股份",
+      "weight": 5.12
     },
     {
       "stock_code": "601198",
@@ -27,9 +92,39 @@
       "weight": 4.41
     },
     {
+      "stock_code": "300842",
+      "stock_name": "帝科股份",
+      "weight": 4.21
+    },
+    {
       "stock_code": "601377",
       "stock_name": "兴业证券",
       "weight": 4.07
+    },
+    {
+      "stock_code": "601865",
+      "stock_name": "福莱特",
+      "weight": 4.07
+    },
+    {
+      "stock_code": "000983",
+      "stock_name": "山西焦煤",
+      "weight": 4.02
+    },
+    {
+      "stock_code": "600489",
+      "stock_name": "中金黄金",
+      "weight": 3.99
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 3.95
+    },
+    {
+      "stock_code": "002459",
+      "stock_name": "晶澳科技",
+      "weight": 3.93
     },
     {
       "stock_code": "002155",
@@ -52,11 +147,56 @@
       "weight": 3.54
     },
     {
+      "stock_code": "000960",
+      "stock_name": "锡业股份",
+      "weight": 3.33
+    },
+    {
+      "stock_code": "601985",
+      "stock_name": "中国核电",
+      "weight": 2.94
+    },
+    {
+      "stock_code": "603806",
+      "stock_name": "福斯特",
+      "weight": 2.5
+    },
+    {
+      "stock_code": "600926",
+      "stock_name": "杭州银行",
+      "weight": 2.47
+    },
+    {
       "stock_code": "300413",
       "stock_name": "芒果超媒",
       "weight": 2.33
+    },
+    {
+      "stock_code": "300957",
+      "stock_name": "贝泰妮",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "688599",
+      "stock_name": "天合光能",
+      "weight": 1.13
+    },
+    {
+      "stock_code": "688680",
+      "stock_name": "海优新材",
+      "weight": 1.1
+    },
+    {
+      "stock_code": "603477",
+      "stock_name": "巨星农牧",
+      "weight": 1.09
+    },
+    {
+      "stock_code": "603087",
+      "stock_name": "甘李药业",
+      "weight": 0.08
     }
   ],
-  "fetched_at": "2026-02-08 12:54:52",
+  "fetched_at": "2026-02-09 23:53:22",
   "data_source": "eastmoney"
 }

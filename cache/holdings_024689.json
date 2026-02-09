@@ -3,8 +3,8 @@
   "fund_name": "富国国证通用航空产业ETF发起式联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 98.67,
-  "parsed_weight": 33.34,
-  "missing_weight": 65.33,
+  "parsed_weight": 103.79,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002085",
@@ -37,6 +37,11 @@
       "weight": 3.36
     },
     {
+      "stock_code": "688772",
+      "stock_name": "珠海冠宇",
+      "weight": 2.99
+    },
+    {
       "stock_code": "600879",
       "stock_name": "航天电子",
       "weight": 2.74
@@ -52,9 +57,209 @@
       "weight": 2.61
     },
     {
+      "stock_code": "603308",
+      "stock_name": "应流股份",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "688248",
+      "stock_name": "南网科技",
+      "weight": 2.56
+    },
+    {
       "stock_code": "002151",
       "stock_name": "北斗星通",
       "weight": 2.43
+    },
+    {
+      "stock_code": "688002",
+      "stock_name": "睿创微纳",
+      "weight": 2.43
+    },
+    {
+      "stock_code": "300101",
+      "stock_name": "振芯科技",
+      "weight": 2.09
+    },
+    {
+      "stock_code": "600562",
+      "stock_name": "国睿科技",
+      "weight": 2.08
+    },
+    {
+      "stock_code": "300627",
+      "stock_name": "华测导航",
+      "weight": 2.07
+    },
+    {
+      "stock_code": "600862",
+      "stock_name": "中航高科",
+      "weight": 2.07
+    },
+    {
+      "stock_code": "600893",
+      "stock_name": "航发动力",
+      "weight": 2.0
+    },
+    {
+      "stock_code": "002465",
+      "stock_name": "海格通信",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "000738",
+      "stock_name": "航发控制",
+      "weight": 1.98
+    },
+    {
+      "stock_code": "688568",
+      "stock_name": "中科星图",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "600372",
+      "stock_name": "中航机载",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "688122",
+      "stock_name": "西部超导",
+      "weight": 1.94
+    },
+    {
+      "stock_code": "001696",
+      "stock_name": "宗申动力",
+      "weight": 1.91
+    },
+    {
+      "stock_code": "300699",
+      "stock_name": "光威复材",
+      "weight": 1.89
+    },
+    {
+      "stock_code": "300075",
+      "stock_name": "数字政通",
+      "weight": 1.89
+    },
+    {
+      "stock_code": "688563",
+      "stock_name": "航材股份",
+      "weight": 1.88
+    },
+    {
+      "stock_code": "000099",
+      "stock_name": "中信海直",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "300177",
+      "stock_name": "中海达",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "600363",
+      "stock_name": "联创光电",
+      "weight": 1.85
+    },
+    {
+      "stock_code": "300284",
+      "stock_name": "苏交科",
+      "weight": 1.84
+    },
+    {
+      "stock_code": "000801",
+      "stock_name": "四川九洲",
+      "weight": 1.84
+    },
+    {
+      "stock_code": "688522",
+      "stock_name": "纳睿雷达",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "688582",
+      "stock_name": "芯动联科",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "002023",
+      "stock_name": "海特高新",
+      "weight": 1.78
+    },
+    {
+      "stock_code": "603018",
+      "stock_name": "华设集团",
+      "weight": 1.63
+    },
+    {
+      "stock_code": "300397",
+      "stock_name": "天和防务",
+      "weight": 1.55
+    },
+    {
+      "stock_code": "301091",
+      "stock_name": "深城交",
+      "weight": 1.54
+    },
+    {
+      "stock_code": "300581",
+      "stock_name": "晨曦航空",
+      "weight": 1.52
+    },
+    {
+      "stock_code": "300900",
+      "stock_name": "广联航空",
+      "weight": 1.37
+    },
+    {
+      "stock_code": "300681",
+      "stock_name": "英搏尔",
+      "weight": 1.23
+    },
+    {
+      "stock_code": "002967",
+      "stock_name": "广电计量",
+      "weight": 1.21
+    },
+    {
+      "stock_code": "688631",
+      "stock_name": "莱斯信息",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "300542",
+      "stock_name": "新晨科技",
+      "weight": 1.13
+    },
+    {
+      "stock_code": "600212",
+      "stock_name": "绿能慧充",
+      "weight": 1.08
+    },
+    {
+      "stock_code": "688066",
+      "stock_name": "航天宏图",
+      "weight": 1.05
+    },
+    {
+      "stock_code": "002651",
+      "stock_name": "利君股份",
+      "weight": 1.05
+    },
+    {
+      "stock_code": "300696",
+      "stock_name": "爱乐达",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "002111",
+      "stock_name": "威海广泰",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "301678",
+      "stock_name": "新恒汇",
+      "weight": 0.02
     },
     {
       "stock_code": "688729",
@@ -62,7 +267,7 @@
       "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:13",
+  "fetched_at": "2026-02-09 23:55:44",
   "data_source": "eastmoney",
   "original_fund_code": "024689",
   "etf_target": "159392",

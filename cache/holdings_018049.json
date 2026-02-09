@@ -3,8 +3,8 @@
   "fund_name": "申万菱信数字产业股票型发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 91.86,
-  "parsed_weight": 69.36,
-  "missing_weight": 22.5,
+  "parsed_weight": 179.86,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688258",
@@ -27,6 +27,11 @@
       "weight": 7.14
     },
     {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 6.59
+    },
+    {
       "stock_code": "300378",
       "stock_name": "鼎捷数智",
       "weight": 6.55
@@ -42,6 +47,11 @@
       "weight": 6.29
     },
     {
+      "stock_code": "688220",
+      "stock_name": "翱捷科技",
+      "weight": 6.27
+    },
+    {
       "stock_code": "603039",
       "stock_name": "泛微网络",
       "weight": 6.22
@@ -55,8 +65,118 @@
       "stock_code": "688111",
       "stock_name": "金山办公",
       "weight": 5.86
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 5.46
+    },
+    {
+      "stock_code": "601138",
+      "stock_name": "工业富联",
+      "weight": 5.38
+    },
+    {
+      "stock_code": "600602",
+      "stock_name": "云赛智联",
+      "weight": 5.13
+    },
+    {
+      "stock_code": "300496",
+      "stock_name": "中科创达",
+      "weight": 5.06
+    },
+    {
+      "stock_code": "002929",
+      "stock_name": "润建股份",
+      "weight": 4.92
+    },
+    {
+      "stock_code": "603881",
+      "stock_name": "数据港",
+      "weight": 4.91
+    },
+    {
+      "stock_code": "300634",
+      "stock_name": "彩讯股份",
+      "weight": 4.87
+    },
+    {
+      "stock_code": "600588",
+      "stock_name": "用友网络",
+      "weight": 4.85
+    },
+    {
+      "stock_code": "688088",
+      "stock_name": "虹软科技",
+      "weight": 4.85
+    },
+    {
+      "stock_code": "688058",
+      "stock_name": "宝兰德",
+      "weight": 4.84
+    },
+    {
+      "stock_code": "603050",
+      "stock_name": "科林电气",
+      "weight": 4.67
+    },
+    {
+      "stock_code": "688095",
+      "stock_name": "福昕软件",
+      "weight": 4.41
+    },
+    {
+      "stock_code": "600570",
+      "stock_name": "恒生电子",
+      "weight": 4.21
+    },
+    {
+      "stock_code": "688039",
+      "stock_name": "当虹科技",
+      "weight": 4.13
+    },
+    {
+      "stock_code": "300229",
+      "stock_name": "拓尔思",
+      "weight": 4.09
+    },
+    {
+      "stock_code": "688152",
+      "stock_name": "麒麟信安",
+      "weight": 4.05
+    },
+    {
+      "stock_code": "688327",
+      "stock_name": "云从科技",
+      "weight": 3.95
+    },
+    {
+      "stock_code": "600589",
+      "stock_name": "大位科技",
+      "weight": 3.95
+    },
+    {
+      "stock_code": "688692",
+      "stock_name": "达梦数据",
+      "weight": 3.87
+    },
+    {
+      "stock_code": "300130",
+      "stock_name": "新国都",
+      "weight": 3.66
+    },
+    {
+      "stock_code": "300348",
+      "stock_name": "长亮科技",
+      "weight": 3.33
+    },
+    {
+      "stock_code": "002027",
+      "stock_name": "分众传媒",
+      "weight": 3.05
     }
   ],
-  "fetched_at": "2026-02-08 12:55:28",
+  "fetched_at": "2026-02-09 23:57:28",
   "data_source": "eastmoney"
 }

@@ -3,8 +3,8 @@
   "fund_name": "中信保诚中证800有色指数(LOF)C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.24,
-  "parsed_weight": 51.81,
-  "missing_weight": 42.43,
+  "parsed_weight": 94.91,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "601899",
@@ -52,9 +52,144 @@
       "weight": 3.06
     },
     {
+      "stock_code": "600988",
+      "stock_name": "赤峰黄金",
+      "weight": 2.73
+    },
+    {
+      "stock_code": "000975",
+      "stock_name": "山金国际",
+      "weight": 2.59
+    },
+    {
       "stock_code": "002466",
       "stock_name": "天齐锂业",
       "weight": 2.58
+    },
+    {
+      "stock_code": "601168",
+      "stock_name": "西部矿业",
+      "weight": 2.27
+    },
+    {
+      "stock_code": "000831",
+      "stock_name": "中国稀土",
+      "weight": 2.2
+    },
+    {
+      "stock_code": "600219",
+      "stock_name": "南山铝业",
+      "weight": 2.19
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 2.15
+    },
+    {
+      "stock_code": "000630",
+      "stock_name": "铜陵有色",
+      "weight": 2.1
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "688122",
+      "stock_name": "西部超导",
+      "weight": 1.93
+    },
+    {
+      "stock_code": "002738",
+      "stock_name": "中矿资源",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "600549",
+      "stock_name": "厦门钨业",
+      "weight": 1.63
+    },
+    {
+      "stock_code": "000426",
+      "stock_name": "兴业银锡",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "002155",
+      "stock_name": "湖南黄金",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "600392",
+      "stock_name": "盛和资源",
+      "weight": 1.51
+    },
+    {
+      "stock_code": "000878",
+      "stock_name": "云南铜业",
+      "weight": 1.46
+    },
+    {
+      "stock_code": "600673",
+      "stock_name": "东阳光",
+      "weight": 1.43
+    },
+    {
+      "stock_code": "300748",
+      "stock_name": "金力永磁",
+      "weight": 1.34
+    },
+    {
+      "stock_code": "600497",
+      "stock_name": "驰宏锌锗",
+      "weight": 1.32
+    },
+    {
+      "stock_code": "000960",
+      "stock_name": "锡业股份",
+      "weight": 1.24
+    },
+    {
+      "stock_code": "002203",
+      "stock_name": "海亮股份",
+      "weight": 1.01
+    },
+    {
+      "stock_code": "000060",
+      "stock_name": "中金岭南",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "000629",
+      "stock_name": "钒钛股份",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "601958",
+      "stock_name": "金钼股份",
+      "weight": 0.87
+    },
+    {
+      "stock_code": "002756",
+      "stock_name": "永兴材料",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "601212",
+      "stock_name": "白银有色",
+      "weight": 0.76
+    },
+    {
+      "stock_code": "600361",
+      "stock_name": "创新新材",
+      "weight": 0.54
     },
     {
       "stock_code": "688795",
@@ -80,8 +215,23 @@
       "stock_code": "688765",
       "stock_name": "禾元生物",
       "weight": 0.01
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688729",
+      "stock_name": "屹唐股份",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688449",
+      "stock_name": "联芸科技",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:54:52",
+  "fetched_at": "2026-02-09 23:53:24",
   "data_source": "eastmoney"
 }

@@ -3,9 +3,14 @@
   "fund_name": "银河文体娱乐混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 89.3,
-  "parsed_weight": 57.79,
-  "missing_weight": 31.51,
+  "parsed_weight": 144.53,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "300533",
+      "stock_name": "冰川网络",
+      "weight": 9.11
+    },
     {
       "stock_code": "301110",
       "stock_name": "青木科技",
@@ -17,14 +22,39 @@
       "weight": 7.61
     },
     {
+      "stock_code": "300010",
+      "stock_name": "豆神教育",
+      "weight": 7.46
+    },
+    {
       "stock_code": "000892",
       "stock_name": "欢瑞世纪",
       "weight": 6.23
     },
     {
+      "stock_code": "002899",
+      "stock_name": "英派斯",
+      "weight": 5.94
+    },
+    {
+      "stock_code": "301052",
+      "stock_name": "果麦文化",
+      "weight": 5.63
+    },
+    {
       "stock_code": "002858",
       "stock_name": "力盛体育",
       "weight": 5.41
+    },
+    {
+      "stock_code": "301011",
+      "stock_name": "华立科技",
+      "weight": 5.34
+    },
+    {
+      "stock_code": "601595",
+      "stock_name": "上海电影",
+      "weight": 5.31
     },
     {
       "stock_code": "300364",
@@ -42,6 +72,26 @@
       "weight": 5.21
     },
     {
+      "stock_code": "600633",
+      "stock_name": "浙数文化",
+      "weight": 5.15
+    },
+    {
+      "stock_code": "300002",
+      "stock_name": "神州泰岳",
+      "weight": 5.08
+    },
+    {
+      "stock_code": "301078",
+      "stock_name": "孩子王",
+      "weight": 4.97
+    },
+    {
+      "stock_code": "002624",
+      "stock_name": "完美世界",
+      "weight": 4.96
+    },
+    {
       "stock_code": "002517",
       "stock_name": "恺英网络",
       "weight": 4.93
@@ -55,8 +105,133 @@
       "stock_code": "301231",
       "stock_name": "荣信文化",
       "weight": 4.8
+    },
+    {
+      "stock_code": "601900",
+      "stock_name": "南方传媒",
+      "weight": 4.79
+    },
+    {
+      "stock_code": "002555",
+      "stock_name": "三七互娱",
+      "weight": 4.77
+    },
+    {
+      "stock_code": "002027",
+      "stock_name": "分众传媒",
+      "weight": 4.33
+    },
+    {
+      "stock_code": "000888",
+      "stock_name": "峨眉山A",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "603199",
+      "stock_name": "九华旅游",
+      "weight": 3.41
+    },
+    {
+      "stock_code": "002605",
+      "stock_name": "姚记科技",
+      "weight": 3.1
+    },
+    {
+      "stock_code": "688443",
+      "stock_name": "智翔金泰",
+      "weight": 1.91
+    },
+    {
+      "stock_code": "300113",
+      "stock_name": "顺网科技",
+      "weight": 1.36
+    },
+    {
+      "stock_code": "603214",
+      "stock_name": "爱婴室",
+      "weight": 0.36
+    },
+    {
+      "stock_code": "002919",
+      "stock_name": "名臣健康",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "688411",
+      "stock_name": "海博思创",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "301458",
+      "stock_name": "钧崴电子",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688545",
+      "stock_name": "兴福电子",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688583",
+      "stock_name": "思看科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688757",
+      "stock_name": "胜科纳米",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301535",
+      "stock_name": "浙江华远",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "001388",
+      "stock_name": "信通电子",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301479",
+      "stock_name": "弘景光电",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301601",
+      "stock_name": "惠通科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "001391",
+      "stock_name": "国货航",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301665",
+      "stock_name": "泰禾股份",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "001356",
+      "stock_name": "富岭股份",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301275",
+      "stock_name": "汉朔科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301585",
+      "stock_name": "蓝宇股份",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301173",
+      "stock_name": "毓恬冠佳",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:25",
+  "fetched_at": "2026-02-09 23:57:05",
   "data_source": "eastmoney"
 }

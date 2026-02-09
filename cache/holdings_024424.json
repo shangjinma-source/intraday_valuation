@@ -3,9 +3,14 @@
   "fund_name": "东方阿尔法科技优选混合发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.97,
-  "parsed_weight": 81.12,
-  "missing_weight": 12.85,
+  "parsed_weight": 212.93,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "688082",
+      "stock_name": "盛美上海",
+      "weight": 9.48
+    },
     {
       "stock_code": "300567",
       "stock_name": "精测电子",
@@ -15,6 +20,11 @@
       "stock_code": "688072",
       "stock_name": "拓荆科技",
       "weight": 9.3
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 9.12
     },
     {
       "stock_code": "688361",
@@ -37,6 +47,11 @@
       "weight": 8.15
     },
     {
+      "stock_code": "688596",
+      "stock_name": "正帆科技",
+      "weight": 8.03
+    },
+    {
       "stock_code": "300604",
       "stock_name": "长川科技",
       "weight": 7.6
@@ -52,11 +67,286 @@
       "weight": 7.44
     },
     {
+      "stock_code": "688200",
+      "stock_name": "华峰测控",
+      "weight": 6.68
+    },
+    {
+      "stock_code": "688120",
+      "stock_name": "华海清科",
+      "weight": 6.27
+    },
+    {
       "stock_code": "688502",
       "stock_name": "茂莱光学",
       "weight": 4.93
+    },
+    {
+      "stock_code": "920978",
+      "stock_name": "开特股份",
+      "weight": 3.48
+    },
+    {
+      "stock_code": "920982",
+      "stock_name": "锦波生物",
+      "weight": 3.26
+    },
+    {
+      "stock_code": "920476",
+      "stock_name": "海能技术",
+      "weight": 3.02
+    },
+    {
+      "stock_code": "920839",
+      "stock_name": "万通液压",
+      "weight": 3.0
+    },
+    {
+      "stock_code": "920599",
+      "stock_name": "同力股份",
+      "weight": 2.91
+    },
+    {
+      "stock_code": "920914",
+      "stock_name": "远航精密",
+      "weight": 1.83
+    },
+    {
+      "stock_code": "920274",
+      "stock_name": "宏裕包材",
+      "weight": 1.77
+    },
+    {
+      "stock_code": "920357",
+      "stock_name": "雅葆轩",
+      "weight": 1.69
+    },
+    {
+      "stock_code": "920239",
+      "stock_name": "长虹能源",
+      "weight": 1.69
+    },
+    {
+      "stock_code": "920717",
+      "stock_name": "瑞星股份",
+      "weight": 1.68
+    },
+    {
+      "stock_code": "920267",
+      "stock_name": "鑫汇科",
+      "weight": 1.66
+    },
+    {
+      "stock_code": "920527",
+      "stock_name": "夜光明",
+      "weight": 1.63
+    },
+    {
+      "stock_code": "920195",
+      "stock_name": "三祥科技",
+      "weight": 1.63
+    },
+    {
+      "stock_code": "920974",
+      "stock_name": "凯大催化",
+      "weight": 1.63
+    },
+    {
+      "stock_code": "920146",
+      "stock_name": "华阳变速",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920212",
+      "stock_name": "智新电子",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920030",
+      "stock_name": "德众汽车",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920260",
+      "stock_name": "中寰股份",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920768",
+      "stock_name": "拾比佰",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920608",
+      "stock_name": "丰安股份",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920726",
+      "stock_name": "朱老六",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920701",
+      "stock_name": "豪声电子",
+      "weight": 1.62
+    },
+    {
+      "stock_code": "920694",
+      "stock_name": "中裕科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "920651",
+      "stock_name": "天罡股份",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "920057",
+      "stock_name": "百甲科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "920857",
+      "stock_name": "泓禧科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "920675",
+      "stock_name": "秉扬科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "920950",
+      "stock_name": "迅安科技",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "920014",
+      "stock_name": "特瑞斯",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "920523",
+      "stock_name": "德瑞锂电",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "920699",
+      "stock_name": "海达尔",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "920110",
+      "stock_name": "雷特科技",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "920026",
+      "stock_name": "卓兆点胶",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "920504",
+      "stock_name": "博迅生物",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "920942",
+      "stock_name": "恒立钻具",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "920271",
+      "stock_name": "邦德股份",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "920837",
+      "stock_name": "华原股份",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "920833",
+      "stock_name": "美心翼申",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "920339",
+      "stock_name": "恒太照明",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "920058",
+      "stock_name": "华洋赛车",
+      "weight": 1.59
+    },
+    {
+      "stock_code": "920856",
+      "stock_name": "浩淼科技",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "920578",
+      "stock_name": "巨能股份",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "920000",
+      "stock_name": "安徽凤凰",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "920832",
+      "stock_name": "齐鲁华信",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "920455",
+      "stock_name": "汇隆活塞",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "920809",
+      "stock_name": "安达科技",
+      "weight": 1.57
+    },
+    {
+      "stock_code": "920261",
+      "stock_name": "一诺威",
+      "weight": 1.57
+    },
+    {
+      "stock_code": "920641",
+      "stock_name": "格利尔",
+      "weight": 1.57
+    },
+    {
+      "stock_code": "920118",
+      "stock_name": "太湖远大",
+      "weight": 1.56
+    },
+    {
+      "stock_code": "920718",
+      "stock_name": "合肥高科",
+      "weight": 1.54
+    },
+    {
+      "stock_code": "920679",
+      "stock_name": "前进科技",
+      "weight": 1.53
+    },
+    {
+      "stock_code": "920855",
+      "stock_name": "浙江大农",
+      "weight": 1.51
+    },
+    {
+      "stock_code": "920871",
+      "stock_name": "派特尔",
+      "weight": 0.84
     }
   ],
-  "fetched_at": "2026-02-08 12:54:56",
+  "fetched_at": "2026-02-09 23:53:47",
   "data_source": "eastmoney"
 }

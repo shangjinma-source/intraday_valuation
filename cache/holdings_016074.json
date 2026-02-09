@@ -3,9 +3,24 @@
   "fund_name": "创金合信软件产业股票发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 92.91,
-  "parsed_weight": 29.51,
-  "missing_weight": 63.4,
+  "parsed_weight": 105.66,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 8.23
+    },
+    {
+      "stock_code": "00700",
+      "stock_name": "腾讯控股",
+      "weight": 6.16
+    },
+    {
+      "stock_code": "688590",
+      "stock_name": "新致软件",
+      "weight": 5.4
+    },
     {
       "stock_code": "603039",
       "stock_name": "泛微网络",
@@ -27,16 +42,126 @@
       "weight": 4.95
     },
     {
+      "stock_code": "688692",
+      "stock_name": "达梦数据",
+      "weight": 4.94
+    },
+    {
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "weight": 4.74
+    },
+    {
+      "stock_code": "00772",
+      "stock_name": "阅文集团",
+      "weight": 4.71
+    },
+    {
       "stock_code": "688111",
       "stock_name": "金山办公",
       "weight": 4.59
     },
     {
+      "stock_code": "300229",
+      "stock_name": "拓尔思",
+      "weight": 4.58
+    },
+    {
+      "stock_code": "00268",
+      "stock_name": "金蝶国际",
+      "weight": 4.47
+    },
+    {
       "stock_code": "688318",
       "stock_name": "财富趋势",
       "weight": 4.46
+    },
+    {
+      "stock_code": "688369",
+      "stock_name": "致远互联",
+      "weight": 4.27
+    },
+    {
+      "stock_code": "688088",
+      "stock_name": "虹软科技",
+      "weight": 4.24
+    },
+    {
+      "stock_code": "688232",
+      "stock_name": "新点软件",
+      "weight": 3.49
+    },
+    {
+      "stock_code": "300033",
+      "stock_name": "同花顺",
+      "weight": 3.33
+    },
+    {
+      "stock_code": "300496",
+      "stock_name": "中科创达",
+      "weight": 2.94
+    },
+    {
+      "stock_code": "02382",
+      "stock_name": "舜宇光学科技",
+      "weight": 2.84
+    },
+    {
+      "stock_code": "02556",
+      "stock_name": "迈富时",
+      "weight": 2.08
+    },
+    {
+      "stock_code": "600986",
+      "stock_name": "浙文互联",
+      "weight": 1.57
+    },
+    {
+      "stock_code": "00388",
+      "stock_name": "香港交易所",
+      "weight": 1.47
+    },
+    {
+      "stock_code": "300525",
+      "stock_name": "博思软件",
+      "weight": 1.4
+    },
+    {
+      "stock_code": "603444",
+      "stock_name": "吉比特",
+      "weight": 1.36
+    },
+    {
+      "stock_code": "300418",
+      "stock_name": "昆仑万维",
+      "weight": 1.08
+    },
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 1.01
+    },
+    {
+      "stock_code": "603383",
+      "stock_name": "顶点软件",
+      "weight": 0.82
+    },
+    {
+      "stock_code": "300002",
+      "stock_name": "神州泰岳",
+      "weight": 0.76
+    },
+    {
+      "stock_code": "002558",
+      "stock_name": "巨人网络",
+      "weight": 0.15
+    },
+    {
+      "stock_code": "600570",
+      "stock_name": "恒生电子",
+      "weight": 0.11
     }
   ],
-  "fetched_at": "2026-02-08 12:57:50",
+  "fetched_at": "2026-02-09 23:57:30",
   "data_source": "eastmoney"
 }

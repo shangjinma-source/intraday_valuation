@@ -3,9 +3,24 @@
   "fund_name": "招商中证煤炭等权指数(LOF)C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.66,
-  "parsed_weight": 32.84,
-  "missing_weight": 61.82,
+  "parsed_weight": 107.04,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "600397",
+      "stock_name": "安源煤业",
+      "weight": 7.06
+    },
+    {
+      "stock_code": "601699",
+      "stock_name": "潞安环能",
+      "weight": 3.89
+    },
+    {
+      "stock_code": "600997",
+      "stock_name": "开滦股份",
+      "weight": 3.47
+    },
     {
       "stock_code": "600348",
       "stock_name": "华阳股份",
@@ -15,6 +30,21 @@
       "stock_code": "601666",
       "stock_name": "平煤股份",
       "weight": 3.35
+    },
+    {
+      "stock_code": "601001",
+      "stock_name": "晋控煤业",
+      "weight": 3.35
+    },
+    {
+      "stock_code": "601011",
+      "stock_name": "宝泰隆",
+      "weight": 3.33
+    },
+    {
+      "stock_code": "600792",
+      "stock_name": "云煤能源",
+      "weight": 3.3
     },
     {
       "stock_code": "601088",
@@ -27,8 +57,23 @@
       "weight": 3.29
     },
     {
+      "stock_code": "601898",
+      "stock_name": "中煤能源",
+      "weight": 3.29
+    },
+    {
+      "stock_code": "601015",
+      "stock_name": "陕西黑猫",
+      "weight": 3.26
+    },
+    {
       "stock_code": "601101",
       "stock_name": "昊华能源",
+      "weight": 3.25
+    },
+    {
+      "stock_code": "000723",
+      "stock_name": "美锦能源",
       "weight": 3.25
     },
     {
@@ -47,14 +92,79 @@
       "weight": 3.23
     },
     {
+      "stock_code": "600740",
+      "stock_name": "山西焦化",
+      "weight": 3.23
+    },
+    {
+      "stock_code": "600508",
+      "stock_name": "上海能源",
+      "weight": 3.22
+    },
+    {
       "stock_code": "000983",
       "stock_name": "山西焦煤",
+      "weight": 3.21
+    },
+    {
+      "stock_code": "000552",
+      "stock_name": "甘肃能化",
       "weight": 3.21
     },
     {
       "stock_code": "600925",
       "stock_name": "苏能股份",
       "weight": 3.19
+    },
+    {
+      "stock_code": "600121",
+      "stock_name": "郑州煤电",
+      "weight": 3.16
+    },
+    {
+      "stock_code": "600123",
+      "stock_name": "兰花科创",
+      "weight": 3.14
+    },
+    {
+      "stock_code": "600971",
+      "stock_name": "恒源煤电",
+      "weight": 3.14
+    },
+    {
+      "stock_code": "600758",
+      "stock_name": "辽宁能源",
+      "weight": 3.08
+    },
+    {
+      "stock_code": "600726",
+      "stock_name": "华电能源",
+      "weight": 3.06
+    },
+    {
+      "stock_code": "601225",
+      "stock_name": "陕西煤业",
+      "weight": 3.02
+    },
+    {
+      "stock_code": "600985",
+      "stock_name": "淮北矿业",
+      "weight": 2.98
+    },
+    {
+      "stock_code": "600403",
+      "stock_name": "大有能源",
+      "weight": 2.98
+    },
+    {
+      "stock_code": "000937",
+      "stock_name": "冀中能源",
+      "weight": 2.91
+    },
+    {
+      "stock_code": "603113",
+      "stock_name": "金能科技",
+      "weight": 2.86
     },
     {
       "stock_code": "600930",
@@ -70,8 +180,13 @@
       "stock_code": "001280",
       "stock_name": "中国铀业",
       "weight": 0.01
+    },
+    {
+      "stock_code": "301626",
+      "stock_name": "苏州天脉",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:58",
+  "fetched_at": "2026-02-10 00:00:46",
   "data_source": "eastmoney"
 }

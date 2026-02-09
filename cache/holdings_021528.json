@@ -3,9 +3,19 @@
   "fund_name": "财通成长优选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 92.36,
-  "parsed_weight": 90.09,
-  "missing_weight": 2.27,
+  "parsed_weight": 232.1,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 9.89
+    },
+    {
+      "stock_code": "688313",
+      "stock_name": "仕佳光子",
+      "weight": 9.89
+    },
     {
       "stock_code": "300502",
       "stock_name": "新易盛",
@@ -52,11 +62,121 @@
       "weight": 8.61
     },
     {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 8.22
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "weight": 8.2
+    },
+    {
+      "stock_code": "300738",
+      "stock_name": "奥飞数据",
+      "weight": 8.17
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 8.14
+    },
+    {
+      "stock_code": "002080",
+      "stock_name": "中材科技",
+      "weight": 7.77
+    },
+    {
+      "stock_code": "002127",
+      "stock_name": "南极电商",
+      "weight": 7.28
+    },
+    {
+      "stock_code": "300383",
+      "stock_name": "光环新网",
+      "weight": 7.21
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 7.16
+    },
+    {
       "stock_code": "601138",
       "stock_name": "工业富联",
       "weight": 6.72
+    },
+    {
+      "stock_code": "002929",
+      "stock_name": "润建股份",
+      "weight": 6.01
+    },
+    {
+      "stock_code": "002335",
+      "stock_name": "科华数据",
+      "weight": 5.9
+    },
+    {
+      "stock_code": "300548",
+      "stock_name": "长芯博创",
+      "weight": 5.85
+    },
+    {
+      "stock_code": "688205",
+      "stock_name": "德科立",
+      "weight": 5.82
+    },
+    {
+      "stock_code": "300857",
+      "stock_name": "协创数据",
+      "weight": 5.81
+    },
+    {
+      "stock_code": "001267",
+      "stock_name": "汇绿生态",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "601208",
+      "stock_name": "东材科技",
+      "weight": 4.91
+    },
+    {
+      "stock_code": "300153",
+      "stock_name": "科泰电源",
+      "weight": 4.73
+    },
+    {
+      "stock_code": "000880",
+      "stock_name": "潍柴重机",
+      "weight": 4.48
+    },
+    {
+      "stock_code": "002384",
+      "stock_name": "东山精密",
+      "weight": 3.04
+    },
+    {
+      "stock_code": "002130",
+      "stock_name": "沃尔核材",
+      "weight": 2.96
+    },
+    {
+      "stock_code": "601869",
+      "stock_name": "长飞光纤",
+      "weight": 2.91
+    },
+    {
+      "stock_code": "002290",
+      "stock_name": "禾盛新材",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:21",
+  "fetched_at": "2026-02-09 23:56:43",
   "data_source": "eastmoney"
 }

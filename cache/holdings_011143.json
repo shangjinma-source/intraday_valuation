@@ -3,8 +3,8 @@
   "fund_name": "创金合信新材料新能源股票C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.65,
-  "parsed_weight": 52.4,
-  "missing_weight": 41.25,
+  "parsed_weight": 145.76,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300450",
@@ -15,6 +15,16 @@
       "stock_code": "688155",
       "stock_name": "先惠技术",
       "weight": 6.13
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 6.09
+    },
+    {
+      "stock_code": "688518",
+      "stock_name": "联赢激光",
+      "weight": 6.04
     },
     {
       "stock_code": "688559",
@@ -37,6 +47,26 @@
       "weight": 5.09
     },
     {
+      "stock_code": "301291",
+      "stock_name": "明阳电气",
+      "weight": 5.08
+    },
+    {
+      "stock_code": "688499",
+      "stock_name": "利元亨",
+      "weight": 4.61
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 4.51
+    },
+    {
+      "stock_code": "300153",
+      "stock_name": "科泰电源",
+      "weight": 4.3
+    },
+    {
       "stock_code": "920522",
       "stock_name": "纳科诺尔",
       "weight": 4.27
@@ -55,8 +85,193 @@
       "stock_code": "688388",
       "stock_name": "嘉元科技",
       "weight": 4.22
+    },
+    {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 3.86
+    },
+    {
+      "stock_code": "002487",
+      "stock_name": "大金重工",
+      "weight": 3.6
+    },
+    {
+      "stock_code": "300442",
+      "stock_name": "润泽科技",
+      "weight": 3.44
+    },
+    {
+      "stock_code": "688353",
+      "stock_name": "华盛锂电",
+      "weight": 3.16
+    },
+    {
+      "stock_code": "002371",
+      "stock_name": "北方华创",
+      "weight": 3.01
+    },
+    {
+      "stock_code": "688122",
+      "stock_name": "西部超导",
+      "weight": 2.99
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 2.97
+    },
+    {
+      "stock_code": "000988",
+      "stock_name": "华工科技",
+      "weight": 2.88
+    },
+    {
+      "stock_code": "688629",
+      "stock_name": "华丰科技",
+      "weight": 2.8
+    },
+    {
+      "stock_code": "603606",
+      "stock_name": "东方电缆",
+      "weight": 2.62
+    },
+    {
+      "stock_code": "688141",
+      "stock_name": "杰华特",
+      "weight": 2.49
+    },
+    {
+      "stock_code": "002741",
+      "stock_name": "光华科技",
+      "weight": 2.43
+    },
+    {
+      "stock_code": "300587",
+      "stock_name": "天铁科技",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 1.86
+    },
+    {
+      "stock_code": "600884",
+      "stock_name": "杉杉股份",
+      "weight": 1.77
+    },
+    {
+      "stock_code": "600588",
+      "stock_name": "用友网络",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 1.61
+    },
+    {
+      "stock_code": "301511",
+      "stock_name": "德福科技",
+      "weight": 1.53
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 1.5
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 1.49
+    },
+    {
+      "stock_code": "688012",
+      "stock_name": "中微公司",
+      "weight": 1.48
+    },
+    {
+      "stock_code": "002241",
+      "stock_name": "歌尔股份",
+      "weight": 1.39
+    },
+    {
+      "stock_code": "300432",
+      "stock_name": "富临精工",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "688408",
+      "stock_name": "中信博",
+      "weight": 1.12
+    },
+    {
+      "stock_code": "000880",
+      "stock_name": "潍柴重机",
+      "weight": 1.1
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 1.04
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "603806",
+      "stock_name": "福斯特",
+      "weight": 0.96
+    },
+    {
+      "stock_code": "300418",
+      "stock_name": "昆仑万维",
+      "weight": 0.84
+    },
+    {
+      "stock_code": "300457",
+      "stock_name": "赢合科技",
+      "weight": 0.59
+    },
+    {
+      "stock_code": "605009",
+      "stock_name": "豪悦护理",
+      "weight": 0.53
+    },
+    {
+      "stock_code": "002882",
+      "stock_name": "金龙羽",
+      "weight": 0.51
+    },
+    {
+      "stock_code": "603019",
+      "stock_name": "中科曙光",
+      "weight": 0.47
+    },
+    {
+      "stock_code": "688638",
+      "stock_name": "誉辰智能",
+      "weight": 0.45
+    },
+    {
+      "stock_code": "920914",
+      "stock_name": "远航精密",
+      "weight": 0.42
+    },
+    {
+      "stock_code": "301678",
+      "stock_name": "新恒汇",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "001388",
+      "stock_name": "信通电子",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:36",
+  "fetched_at": "2026-02-09 23:58:24",
   "data_source": "eastmoney"
 }

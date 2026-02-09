@@ -3,8 +3,8 @@
   "fund_name": "中加优势企业混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 88.46,
-  "parsed_weight": 69.23,
-  "missing_weight": 19.23,
+  "parsed_weight": 216.48,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "301005",
@@ -22,9 +22,29 @@
       "weight": 9.42
     },
     {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 9.3
+    },
+    {
       "stock_code": "600343",
       "stock_name": "航天动力",
       "weight": 8.92
+    },
+    {
+      "stock_code": "00700",
+      "stock_name": "腾讯控股",
+      "weight": 8.32
+    },
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 7.93
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 7.52
     },
     {
       "stock_code": "688102",
@@ -37,6 +57,21 @@
       "weight": 7.21
     },
     {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 6.45
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 5.9
+    },
+    {
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "weight": 4.57
+    },
+    {
       "stock_code": "300900",
       "stock_name": "广联航空",
       "weight": 4.55
@@ -47,6 +82,36 @@
       "weight": 4.4
     },
     {
+      "stock_code": "09992",
+      "stock_name": "泡泡玛特",
+      "weight": 4.39
+    },
+    {
+      "stock_code": "301061",
+      "stock_name": "匠心家居",
+      "weight": 4.2
+    },
+    {
+      "stock_code": "600690",
+      "stock_name": "海尔智家",
+      "weight": 3.97
+    },
+    {
+      "stock_code": "000651",
+      "stock_name": "格力电器",
+      "weight": 3.82
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 3.81
+    },
+    {
+      "stock_code": "01810",
+      "stock_name": "小米集团-W",
+      "weight": 3.7
+    },
+    {
       "stock_code": "300136",
       "stock_name": "信维通信",
       "weight": 3.65
@@ -55,8 +120,188 @@
       "stock_code": "600879",
       "stock_name": "航天电子",
       "weight": 3.5
+    },
+    {
+      "stock_code": "300383",
+      "stock_name": "光环新网",
+      "weight": 3.42
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 3.38
+    },
+    {
+      "stock_code": "300378",
+      "stock_name": "鼎捷数智",
+      "weight": 3.35
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 3.32
+    },
+    {
+      "stock_code": "605589",
+      "stock_name": "圣泉集团",
+      "weight": 3.18
+    },
+    {
+      "stock_code": "00999",
+      "stock_name": "小菜园",
+      "weight": 2.97
+    },
+    {
+      "stock_code": "01364",
+      "stock_name": "古茗",
+      "weight": 2.87
+    },
+    {
+      "stock_code": "600435",
+      "stock_name": "北方导航",
+      "weight": 2.71
+    },
+    {
+      "stock_code": "301187",
+      "stock_name": "欧圣电气",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 2.41
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 2.33
+    },
+    {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 2.32
+    },
+    {
+      "stock_code": "688159",
+      "stock_name": "有方科技",
+      "weight": 2.28
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "weight": 2.22
+    },
+    {
+      "stock_code": "300661",
+      "stock_name": "圣邦股份",
+      "weight": 2.19
+    },
+    {
+      "stock_code": "600760",
+      "stock_name": "中航沈飞",
+      "weight": 2.11
+    },
+    {
+      "stock_code": "301078",
+      "stock_name": "孩子王",
+      "weight": 2.02
+    },
+    {
+      "stock_code": "300170",
+      "stock_name": "汉得信息",
+      "weight": 1.96
+    },
+    {
+      "stock_code": "000997",
+      "stock_name": "新大陆",
+      "weight": 1.93
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "600415",
+      "stock_name": "小商品城",
+      "weight": 1.86
+    },
+    {
+      "stock_code": "002028",
+      "stock_name": "思源电气",
+      "weight": 1.85
+    },
+    {
+      "stock_code": "09899",
+      "stock_name": "网易云音乐",
+      "weight": 1.85
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 1.74
+    },
+    {
+      "stock_code": "300100",
+      "stock_name": "双林股份",
+      "weight": 1.71
+    },
+    {
+      "stock_code": "601689",
+      "stock_name": "拓普集团",
+      "weight": 1.68
+    },
+    {
+      "stock_code": "02097",
+      "stock_name": "蜜雪集团",
+      "weight": 1.64
+    },
+    {
+      "stock_code": "600066",
+      "stock_name": "宇通客车",
+      "weight": 1.6
+    },
+    {
+      "stock_code": "300738",
+      "stock_name": "奥飞数据",
+      "weight": 1.44
+    },
+    {
+      "stock_code": "300059",
+      "stock_name": "东方财富",
+      "weight": 1.41
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 1.38
+    },
+    {
+      "stock_code": "688151",
+      "stock_name": "华强科技",
+      "weight": 1.17
+    },
+    {
+      "stock_code": "000519",
+      "stock_name": "中兵红箭",
+      "weight": 1.03
+    },
+    {
+      "stock_code": "600967",
+      "stock_name": "内蒙一机",
+      "weight": 0.99
+    },
+    {
+      "stock_code": "688580",
+      "stock_name": "伟思医疗",
+      "weight": 0.4
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 0.21
     }
   ],
-  "fetched_at": "2026-02-08 12:55:13",
+  "fetched_at": "2026-02-09 23:55:41",
   "data_source": "eastmoney"
 }

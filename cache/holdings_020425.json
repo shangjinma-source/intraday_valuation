@@ -3,9 +3,14 @@
   "fund_name": "方正富邦致盛混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.66,
-  "parsed_weight": 68.55,
-  "missing_weight": 25.11,
+  "parsed_weight": 208.35,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "002876",
+      "stock_name": "三利谱",
+      "weight": 9.0
+    },
     {
       "stock_code": "688676",
       "stock_name": "金盘科技",
@@ -27,6 +32,16 @@
       "weight": 7.57
     },
     {
+      "stock_code": "000100",
+      "stock_name": "TCL科技",
+      "weight": 7.37
+    },
+    {
+      "stock_code": "02382",
+      "stock_name": "舜宇光学科技",
+      "weight": 7.02
+    },
+    {
       "stock_code": "300990",
       "stock_name": "同飞股份",
       "weight": 7.0
@@ -42,6 +57,11 @@
       "weight": 6.59
     },
     {
+      "stock_code": "01109",
+      "stock_name": "华润置地",
+      "weight": 6.06
+    },
+    {
       "stock_code": "002240",
       "stock_name": "盛新锂能",
       "weight": 5.63
@@ -52,11 +72,176 @@
       "weight": 5.45
     },
     {
+      "stock_code": "301358",
+      "stock_name": "湖南裕能",
+      "weight": 5.29
+    },
+    {
+      "stock_code": "688116",
+      "stock_name": "天奈科技",
+      "weight": 5.25
+    },
+    {
       "stock_code": "688772",
       "stock_name": "珠海冠宇",
       "weight": 5.04
+    },
+    {
+      "stock_code": "603659",
+      "stock_name": "璞泰来",
+      "weight": 5.0
+    },
+    {
+      "stock_code": "000725",
+      "stock_name": "京东方A",
+      "weight": 4.88
+    },
+    {
+      "stock_code": "300432",
+      "stock_name": "富临精工",
+      "weight": 4.83
+    },
+    {
+      "stock_code": "601966",
+      "stock_name": "玲珑轮胎",
+      "weight": 4.7
+    },
+    {
+      "stock_code": "300073",
+      "stock_name": "当升科技",
+      "weight": 4.66
+    },
+    {
+      "stock_code": "688005",
+      "stock_name": "容百科技",
+      "weight": 4.64
+    },
+    {
+      "stock_code": "688155",
+      "stock_name": "先惠技术",
+      "weight": 4.58
+    },
+    {
+      "stock_code": "002850",
+      "stock_name": "科达利",
+      "weight": 4.5
+    },
+    {
+      "stock_code": "002245",
+      "stock_name": "蔚蓝锂芯",
+      "weight": 4.26
+    },
+    {
+      "stock_code": "002439",
+      "stock_name": "启明星辰",
+      "weight": 4.26
+    },
+    {
+      "stock_code": "688518",
+      "stock_name": "联赢激光",
+      "weight": 4.22
+    },
+    {
+      "stock_code": "002991",
+      "stock_name": "甘源食品",
+      "weight": 4.04
+    },
+    {
+      "stock_code": "00916",
+      "stock_name": "龙源电力",
+      "weight": 3.98
+    },
+    {
+      "stock_code": "03690",
+      "stock_name": "美团-W",
+      "weight": 3.89
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 3.5
+    },
+    {
+      "stock_code": "00688",
+      "stock_name": "中国海外发展",
+      "weight": 3.39
+    },
+    {
+      "stock_code": "00700",
+      "stock_name": "腾讯控股",
+      "weight": 3.24
+    },
+    {
+      "stock_code": "01117",
+      "stock_name": "现代牧业",
+      "weight": 2.96
+    },
+    {
+      "stock_code": "09858",
+      "stock_name": "优然牧业",
+      "weight": 2.95
+    },
+    {
+      "stock_code": "600419",
+      "stock_name": "天润乳业",
+      "weight": 2.73
+    },
+    {
+      "stock_code": "600197",
+      "stock_name": "伊力特",
+      "weight": 2.53
+    },
+    {
+      "stock_code": "000568",
+      "stock_name": "泸州老窖",
+      "weight": 2.29
+    },
+    {
+      "stock_code": "02460",
+      "stock_name": "华润饮料",
+      "weight": 2.27
+    },
+    {
+      "stock_code": "000425",
+      "stock_name": "徐工机械",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "002847",
+      "stock_name": "盐津铺子",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "603517",
+      "stock_name": "绝味食品",
+      "weight": 1.94
+    },
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 1.82
+    },
+    {
+      "stock_code": "06682",
+      "stock_name": "第四范式",
+      "weight": 1.8
+    },
+    {
+      "stock_code": "600557",
+      "stock_name": "康缘药业",
+      "weight": 1.46
+    },
+    {
+      "stock_code": "09922",
+      "stock_name": "九毛九",
+      "weight": 0.48
+    },
+    {
+      "stock_code": "01209",
+      "stock_name": "华润万象生活",
+      "weight": 0.07
     }
   ],
-  "fetched_at": "2026-02-08 12:55:37",
+  "fetched_at": "2026-02-09 23:58:28",
   "data_source": "eastmoney"
 }

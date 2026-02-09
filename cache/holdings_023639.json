@@ -3,8 +3,8 @@
   "fund_name": "国泰A股电网设备ETF联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 99.15,
-  "parsed_weight": 55.98,
-  "missing_weight": 43.17,
+  "parsed_weight": 110.8,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "600089",
@@ -20,6 +20,11 @@
       "stock_code": "002028",
       "stock_name": "思源电气",
       "weight": 9.49
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 9.06
     },
     {
       "stock_code": "600522",
@@ -55,9 +60,454 @@
       "stock_code": "600577",
       "stock_name": "精达股份",
       "weight": 2.76
+    },
+    {
+      "stock_code": "300682",
+      "stock_name": "朗新集团",
+      "weight": 2.13
+    },
+    {
+      "stock_code": "300001",
+      "stock_name": "特锐德",
+      "weight": 2.1
+    },
+    {
+      "stock_code": "601567",
+      "stock_name": "三星医疗",
+      "weight": 2.01
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "000400",
+      "stock_name": "许继电气",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "601168",
+      "stock_name": "西部矿业",
+      "weight": 1.74
+    },
+    {
+      "stock_code": "300638",
+      "stock_name": "广和通",
+      "weight": 1.65
+    },
+    {
+      "stock_code": "600312",
+      "stock_name": "平高电气",
+      "weight": 1.56
+    },
+    {
+      "stock_code": "601179",
+      "stock_name": "中国西电",
+      "weight": 1.39
+    },
+    {
+      "stock_code": "002276",
+      "stock_name": "万马股份",
+      "weight": 1.38
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "weight": 1.25
+    },
+    {
+      "stock_code": "002270",
+      "stock_name": "华明装备",
+      "weight": 1.13
+    },
+    {
+      "stock_code": "000878",
+      "stock_name": "云南铜业",
+      "weight": 1.13
+    },
+    {
+      "stock_code": "002063",
+      "stock_name": "远光软件",
+      "weight": 1.06
+    },
+    {
+      "stock_code": "000682",
+      "stock_name": "东方电子",
+      "weight": 1.03
+    },
+    {
+      "stock_code": "601126",
+      "stock_name": "四方股份",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "600995",
+      "stock_name": "南网储能",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "601222",
+      "stock_name": "林洋能源",
+      "weight": 0.96
+    },
+    {
+      "stock_code": "600517",
+      "stock_name": "国网英大",
+      "weight": 0.91
+    },
+    {
+      "stock_code": "600550",
+      "stock_name": "保变电气",
+      "weight": 0.89
+    },
+    {
+      "stock_code": "600353",
+      "stock_name": "旭光电子",
+      "weight": 0.83
+    },
+    {
+      "stock_code": "300827",
+      "stock_name": "上能电气",
+      "weight": 0.81
+    },
+    {
+      "stock_code": "300222",
+      "stock_name": "科大智能",
+      "weight": 0.8
+    },
+    {
+      "stock_code": "600019",
+      "stock_name": "宝钢股份",
+      "weight": 0.74
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 0.71
+    },
+    {
+      "stock_code": "688248",
+      "stock_name": "南网科技",
+      "weight": 0.69
+    },
+    {
+      "stock_code": "002121",
+      "stock_name": "科陆电子",
+      "weight": 0.68
+    },
+    {
+      "stock_code": "300360",
+      "stock_name": "炬华科技",
+      "weight": 0.68
+    },
+    {
+      "stock_code": "003035",
+      "stock_name": "南网能源",
+      "weight": 0.65
+    },
+    {
+      "stock_code": "002882",
+      "stock_name": "金龙羽",
+      "weight": 0.62
+    },
+    {
+      "stock_code": "301291",
+      "stock_name": "明阳电气",
+      "weight": 0.6
+    },
+    {
+      "stock_code": "601212",
+      "stock_name": "白银有色",
+      "weight": 0.58
+    },
+    {
+      "stock_code": "000737",
+      "stock_name": "北方铜业",
+      "weight": 0.57
+    },
+    {
+      "stock_code": "600973",
+      "stock_name": "宝胜股份",
+      "weight": 0.52
+    },
+    {
+      "stock_code": "002498",
+      "stock_name": "汉缆股份",
+      "weight": 0.5
+    },
+    {
+      "stock_code": "600010",
+      "stock_name": "包钢股份",
+      "weight": 0.46
+    },
+    {
+      "stock_code": "000807",
+      "stock_name": "云铝股份",
+      "weight": 0.4
+    },
+    {
+      "stock_code": "300617",
+      "stock_name": "安靠智电",
+      "weight": 0.37
+    },
+    {
+      "stock_code": "601700",
+      "stock_name": "风范股份",
+      "weight": 0.34
+    },
+    {
+      "stock_code": "000933",
+      "stock_name": "神火股份",
+      "weight": 0.33
+    },
+    {
+      "stock_code": "600219",
+      "stock_name": "南山铝业",
+      "weight": 0.31
+    },
+    {
+      "stock_code": "002782",
+      "stock_name": "可立克",
+      "weight": 0.3
+    },
+    {
+      "stock_code": "603191",
+      "stock_name": "望变电气",
+      "weight": 0.3
+    },
+    {
+      "stock_code": "300712",
+      "stock_name": "永福股份",
+      "weight": 0.3
+    },
+    {
+      "stock_code": "603530",
+      "stock_name": "神马电力",
+      "weight": 0.29
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 0.28
+    },
+    {
+      "stock_code": "605222",
+      "stock_name": "起帆电缆",
+      "weight": 0.27
+    },
+    {
+      "stock_code": "002128",
+      "stock_name": "电投能源",
+      "weight": 0.27
+    },
+    {
+      "stock_code": "600673",
+      "stock_name": "东阳光",
+      "weight": 0.22
+    },
+    {
+      "stock_code": "000932",
+      "stock_name": "华菱钢铁",
+      "weight": 0.21
+    },
+    {
+      "stock_code": "603070",
+      "stock_name": "万控智造",
+      "weight": 0.18
+    },
+    {
+      "stock_code": "601677",
+      "stock_name": "明泰铝业",
+      "weight": 0.18
+    },
+    {
+      "stock_code": "000708",
+      "stock_name": "中信特钢",
+      "weight": 0.16
+    },
+    {
+      "stock_code": "600595",
+      "stock_name": "中孚实业",
+      "weight": 0.15
+    },
+    {
+      "stock_code": "600126",
+      "stock_name": "杭钢股份",
+      "weight": 0.15
+    },
+    {
+      "stock_code": "600282",
+      "stock_name": "南钢股份",
+      "weight": 0.13
+    },
+    {
+      "stock_code": "002075",
+      "stock_name": "沙钢股份",
+      "weight": 0.12
+    },
+    {
+      "stock_code": "000709",
+      "stock_name": "河钢股份",
+      "weight": 0.11
+    },
+    {
+      "stock_code": "000778",
+      "stock_name": "新兴铸管",
+      "weight": 0.11
+    },
+    {
+      "stock_code": "600808",
+      "stock_name": "马钢股份",
+      "weight": 0.11
+    },
+    {
+      "stock_code": "000825",
+      "stock_name": "太钢不锈",
+      "weight": 0.1
+    },
+    {
+      "stock_code": "000612",
+      "stock_name": "焦作万方",
+      "weight": 0.1
+    },
+    {
+      "stock_code": "600361",
+      "stock_name": "创新新材",
+      "weight": 0.1
+    },
+    {
+      "stock_code": "600399",
+      "stock_name": "抚顺特钢",
+      "weight": 0.1
+    },
+    {
+      "stock_code": "002182",
+      "stock_name": "宝武镁业",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "601005",
+      "stock_name": "重庆钢铁",
+      "weight": 0.09
+    },
+    {
+      "stock_code": "600022",
+      "stock_name": "山东钢铁",
+      "weight": 0.08
+    },
+    {
+      "stock_code": "600782",
+      "stock_name": "新钢股份",
+      "weight": 0.08
+    },
+    {
+      "stock_code": "600507",
+      "stock_name": "方大特钢",
+      "weight": 0.07
+    },
+    {
+      "stock_code": "600888",
+      "stock_name": "新疆众和",
+      "weight": 0.07
+    },
+    {
+      "stock_code": "000898",
+      "stock_name": "鞍钢股份",
+      "weight": 0.07
+    },
+    {
+      "stock_code": "002756",
+      "stock_name": "永兴材料",
+      "weight": 0.07
+    },
+    {
+      "stock_code": "603876",
+      "stock_name": "鼎胜新材",
+      "weight": 0.06
+    },
+    {
+      "stock_code": "002110",
+      "stock_name": "三钢闽光",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "600117",
+      "stock_name": "西宁特钢",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "601686",
+      "stock_name": "友发集团",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "300337",
+      "stock_name": "银邦股份",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "600307",
+      "stock_name": "酒钢宏兴",
+      "weight": 0.05
+    },
+    {
+      "stock_code": "000959",
+      "stock_name": "首钢股份",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "300057",
+      "stock_name": "万顺新材",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "002540",
+      "stock_name": "亚太科技",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "000717",
+      "stock_name": "中南股份",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "000761",
+      "stock_name": "本钢板材",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "601702",
+      "stock_name": "华峰铝业",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "600581",
+      "stock_name": "八一钢铁",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "600569",
+      "stock_name": "安阳钢铁",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "001279",
+      "stock_name": "强邦新材",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "600231",
+      "stock_name": "凌钢股份",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "601003",
+      "stock_name": "柳钢股份",
+      "weight": 0.02
     }
   ],
-  "fetched_at": "2026-02-08 12:56:07",
+  "fetched_at": "2026-02-10 00:01:46",
   "data_source": "eastmoney",
   "original_fund_code": "023639",
   "etf_target": "561380",

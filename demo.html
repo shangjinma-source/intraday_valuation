@@ -682,7 +682,7 @@
             const sortedFunds = [...sector.funds]
                 .filter(f => {
                     const v = valuations[f.code];
-                    return v && v.confidence >= 0.15;
+                    return v && v.confidence >= 0.60;
                 })
                 .sort((a, b) => {
                 const valA = valuations[a.code];

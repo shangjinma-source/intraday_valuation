@@ -3,8 +3,8 @@
   "fund_name": "汇添富中证光伏产业指数增强发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.5,
-  "parsed_weight": 65.15,
-  "missing_weight": 28.35,
+  "parsed_weight": 117.1,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300274",
@@ -25,6 +25,11 @@
       "stock_code": "300751",
       "stock_name": "迈为股份",
       "weight": 4.95
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 4.66
     },
     {
       "stock_code": "000100",
@@ -52,14 +57,49 @@
       "weight": 3.26
     },
     {
+      "stock_code": "601865",
+      "stock_name": "福莱特",
+      "weight": 3.09
+    },
+    {
+      "stock_code": "688516",
+      "stock_name": "奥特维",
+      "weight": 3.06
+    },
+    {
+      "stock_code": "605376",
+      "stock_name": "博迁新材",
+      "weight": 3.01
+    },
+    {
       "stock_code": "300118",
       "stock_name": "东方日升",
       "weight": 2.88
     },
     {
+      "stock_code": "688390",
+      "stock_name": "固德威",
+      "weight": 2.71
+    },
+    {
+      "stock_code": "002129",
+      "stock_name": "TCL中环",
+      "weight": 2.71
+    },
+    {
+      "stock_code": "300827",
+      "stock_name": "上能电气",
+      "weight": 2.38
+    },
+    {
       "stock_code": "300593",
       "stock_name": "新雷能",
       "weight": 2.28
+    },
+    {
+      "stock_code": "688408",
+      "stock_name": "中信博",
+      "weight": 2.19
     },
     {
       "stock_code": "002851",
@@ -72,6 +112,11 @@
       "weight": 2.07
     },
     {
+      "stock_code": "600732",
+      "stock_name": "爱旭股份",
+      "weight": 2.05
+    },
+    {
       "stock_code": "300693",
       "stock_name": "盛弘股份",
       "weight": 2.01
@@ -80,8 +125,138 @@
       "stock_code": "002922",
       "stock_name": "伊戈尔",
       "weight": 2.01
+    },
+    {
+      "stock_code": "300757",
+      "stock_name": "罗博特科",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "688599",
+      "stock_name": "天合光能",
+      "weight": 1.86
+    },
+    {
+      "stock_code": "688556",
+      "stock_name": "高测股份",
+      "weight": 1.85
+    },
+    {
+      "stock_code": "300763",
+      "stock_name": "锦浪科技",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "688680",
+      "stock_name": "海优新材",
+      "weight": 1.73
+    },
+    {
+      "stock_code": "688303",
+      "stock_name": "大全能源",
+      "weight": 1.66
+    },
+    {
+      "stock_code": "300316",
+      "stock_name": "晶盛机电",
+      "weight": 1.53
+    },
+    {
+      "stock_code": "002459",
+      "stock_name": "晶澳科技",
+      "weight": 1.45
+    },
+    {
+      "stock_code": "601877",
+      "stock_name": "正泰电器",
+      "weight": 1.42
+    },
+    {
+      "stock_code": "300068",
+      "stock_name": "南都电源",
+      "weight": 1.37
+    },
+    {
+      "stock_code": "688503",
+      "stock_name": "聚和材料",
+      "weight": 1.29
+    },
+    {
+      "stock_code": "002865",
+      "stock_name": "钧达股份",
+      "weight": 1.22
+    },
+    {
+      "stock_code": "603806",
+      "stock_name": "福斯特",
+      "weight": 1.21
+    },
+    {
+      "stock_code": "300724",
+      "stock_name": "捷佳伟创",
+      "weight": 1.1
+    },
+    {
+      "stock_code": "603688",
+      "stock_name": "石英股份",
+      "weight": 1.1
+    },
+    {
+      "stock_code": "688223",
+      "stock_name": "晶科能源",
+      "weight": 1.09
+    },
+    {
+      "stock_code": "600481",
+      "stock_name": "双良节能",
+      "weight": 0.75
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 0.63
+    },
+    {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 0.63
+    },
+    {
+      "stock_code": "688147",
+      "stock_name": "微导纳米",
+      "weight": 0.47
+    },
+    {
+      "stock_code": "301626",
+      "stock_name": "苏州天脉",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301656",
+      "stock_name": "联合动力",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688726",
+      "stock_name": "拉普拉斯",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "603409",
+      "stock_name": "汇通控股",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688615",
+      "stock_name": "合合信息",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:51",
+  "fetched_at": "2026-02-10 00:00:01",
   "data_source": "eastmoney"
 }

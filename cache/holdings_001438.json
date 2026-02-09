@@ -3,8 +3,8 @@
   "fund_name": "易方达瑞享混合E",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.55,
-  "parsed_weight": 60.02,
-  "missing_weight": 33.53,
+  "parsed_weight": 99.81,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300308",
@@ -32,9 +32,39 @@
       "weight": 5.87
     },
     {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 5.5
+    },
+    {
+      "stock_code": "002851",
+      "stock_name": "麦格米特",
+      "weight": 5.47
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "weight": 5.2
+    },
+    {
+      "stock_code": "603306",
+      "stock_name": "华懋科技",
+      "weight": 5.15
+    },
+    {
+      "stock_code": "688205",
+      "stock_name": "德科立",
+      "weight": 4.92
+    },
+    {
       "stock_code": "300548",
       "stock_name": "长芯博创",
       "weight": 4.89
+    },
+    {
+      "stock_code": "688008",
+      "stock_name": "澜起科技",
+      "weight": 4.27
     },
     {
       "stock_code": "688498",
@@ -55,8 +85,38 @@
       "stock_code": "688183",
       "stock_name": "生益电子",
       "weight": 3.48
+    },
+    {
+      "stock_code": "601138",
+      "stock_name": "工业富联",
+      "weight": 2.54
+    },
+    {
+      "stock_code": "603737",
+      "stock_name": "三棵树",
+      "weight": 2.26
+    },
+    {
+      "stock_code": "300926",
+      "stock_name": "博俊科技",
+      "weight": 1.97
+    },
+    {
+      "stock_code": "002273",
+      "stock_name": "水晶光电",
+      "weight": 1.27
+    },
+    {
+      "stock_code": "300832",
+      "stock_name": "新产业",
+      "weight": 1.23
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:16",
+  "fetched_at": "2026-02-09 23:56:07",
   "data_source": "eastmoney"
 }

@@ -3,8 +3,8 @@
   "fund_name": "华泰柏瑞上证科创板半导体材料设备主题ETF发起式联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 98.76,
-  "parsed_weight": 73.13,
-  "missing_weight": 25.63,
+  "parsed_weight": 73.78,
+  "missing_weight": 24.98,
   "positions": [
     {
       "stock_code": "688072",
@@ -57,6 +57,16 @@
       "weight": 4.39
     },
     {
+      "stock_code": "688409",
+      "stock_name": "富创精密",
+      "weight": 0.34
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 0.31
+    },
+    {
       "stock_code": "688802",
       "stock_name": "沐曦股份",
       "weight": 0.09
@@ -77,7 +87,7 @@
       "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:54:59",
+  "fetched_at": "2026-02-09 23:54:05",
   "data_source": "eastmoney",
   "original_fund_code": "024975",
   "etf_target": "588710",

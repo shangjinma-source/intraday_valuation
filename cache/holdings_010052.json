@@ -3,13 +3,18 @@
   "fund_name": "长城久嘉创新成长混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.76,
-  "parsed_weight": 59.36,
-  "missing_weight": 35.4,
+  "parsed_weight": 135.37,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688375",
       "stock_name": "国博电子",
       "weight": 8.85
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "weight": 6.86
     },
     {
       "stock_code": "600343",
@@ -20,6 +25,11 @@
       "stock_code": "002544",
       "stock_name": "普天科技",
       "weight": 6.64
+    },
+    {
+      "stock_code": "688326",
+      "stock_name": "经纬恒润",
+      "weight": 6.43
     },
     {
       "stock_code": "301517",
@@ -37,14 +47,34 @@
       "weight": 5.58
     },
     {
+      "stock_code": "603341",
+      "stock_name": "龙旗科技",
+      "weight": 5.37
+    },
+    {
       "stock_code": "688433",
       "stock_name": "华曙高科",
       "weight": 5.26
     },
     {
+      "stock_code": "688522",
+      "stock_name": "纳睿雷达",
+      "weight": 5.14
+    },
+    {
       "stock_code": "002046",
       "stock_name": "国机精工",
       "weight": 5.07
+    },
+    {
+      "stock_code": "600764",
+      "stock_name": "中国海防",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "300810",
+      "stock_name": "中科海讯",
+      "weight": 4.89
     },
     {
       "stock_code": "603773",
@@ -55,8 +85,113 @@
       "stock_code": "688143",
       "stock_name": "长盈通",
       "weight": 4.52
+    },
+    {
+      "stock_code": "300123",
+      "stock_name": "亚光科技",
+      "weight": 4.45
+    },
+    {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 3.4
+    },
+    {
+      "stock_code": "300213",
+      "stock_name": "佳讯飞鸿",
+      "weight": 3.38
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "weight": 3.25
+    },
+    {
+      "stock_code": "002171",
+      "stock_name": "楚江新材",
+      "weight": 2.79
+    },
+    {
+      "stock_code": "301571",
+      "stock_name": "国科天成",
+      "weight": 2.61
+    },
+    {
+      "stock_code": "688631",
+      "stock_name": "莱斯信息",
+      "weight": 2.56
+    },
+    {
+      "stock_code": "002246",
+      "stock_name": "北化股份",
+      "weight": 2.1
+    },
+    {
+      "stock_code": "301592",
+      "stock_name": "六九一二",
+      "weight": 2.04
+    },
+    {
+      "stock_code": "300593",
+      "stock_name": "新雷能",
+      "weight": 1.92
+    },
+    {
+      "stock_code": "000519",
+      "stock_name": "中兵红箭",
+      "weight": 1.88
+    },
+    {
+      "stock_code": "300353",
+      "stock_name": "东土科技",
+      "weight": 1.84
+    },
+    {
+      "stock_code": "688702",
+      "stock_name": "盛科通信",
+      "weight": 1.75
+    },
+    {
+      "stock_code": "688629",
+      "stock_name": "华丰科技",
+      "weight": 1.64
+    },
+    {
+      "stock_code": "300629",
+      "stock_name": "新劲刚",
+      "weight": 1.56
+    },
+    {
+      "stock_code": "688651",
+      "stock_name": "盛邦安全",
+      "weight": 1.47
+    },
+    {
+      "stock_code": "300922",
+      "stock_name": "天秦装备",
+      "weight": 1.36
+    },
+    {
+      "stock_code": "600990",
+      "stock_name": "四创电子",
+      "weight": 1.29
+    },
+    {
+      "stock_code": "688543",
+      "stock_name": "国科军工",
+      "weight": 0.86
+    },
+    {
+      "stock_code": "688297",
+      "stock_name": "中无人机",
+      "weight": 0.15
+    },
+    {
+      "stock_code": "301678",
+      "stock_name": "新恒汇",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:09",
+  "fetched_at": "2026-02-09 23:55:14",
   "data_source": "eastmoney"
 }

@@ -3,8 +3,8 @@
   "fund_name": "安信成长精选混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.78,
-  "parsed_weight": 59.04,
-  "missing_weight": 35.74,
+  "parsed_weight": 205.42,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300502",
@@ -15,6 +15,21 @@
       "stock_code": "300308",
       "stock_name": "中际旭创",
       "weight": 9.72
+    },
+    {
+      "stock_code": "300723",
+      "stock_name": "一品红",
+      "weight": 9.52
+    },
+    {
+      "stock_code": "00981",
+      "stock_name": "中芯国际",
+      "weight": 6.95
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 6.74
     },
     {
       "stock_code": "603799",
@@ -32,9 +47,44 @@
       "weight": 6.43
     },
     {
+      "stock_code": "06166",
+      "stock_name": "剑桥科技",
+      "weight": 6.14
+    },
+    {
+      "stock_code": "002602",
+      "stock_name": "ST华通",
+      "weight": 5.94
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 5.9
+    },
+    {
       "stock_code": "002475",
       "stock_name": "立讯精密",
       "weight": 5.89
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 5.85
+    },
+    {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 5.82
+    },
+    {
+      "stock_code": "09985",
+      "stock_name": "卫龙美味",
+      "weight": 5.66
+    },
+    {
+      "stock_code": "09868",
+      "stock_name": "小鹏汽车-W",
+      "weight": 5.62
     },
     {
       "stock_code": "002463",
@@ -42,16 +92,176 @@
       "weight": 5.57
     },
     {
+      "stock_code": "002025",
+      "stock_name": "航天电器",
+      "weight": 5.51
+    },
+    {
+      "stock_code": "01585",
+      "stock_name": "雅迪控股",
+      "weight": 5.5
+    },
+    {
+      "stock_code": "01810",
+      "stock_name": "小米集团-W",
+      "weight": 5.41
+    },
+    {
+      "stock_code": "300972",
+      "stock_name": "万辰集团",
+      "weight": 5.3
+    },
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 5.29
+    },
+    {
       "stock_code": "000408",
       "stock_name": "藏格矿业",
       "weight": 4.8
     },
     {
+      "stock_code": "01801",
+      "stock_name": "信达生物",
+      "weight": 4.7
+    },
+    {
+      "stock_code": "01093",
+      "stock_name": "石药集团",
+      "weight": 4.37
+    },
+    {
+      "stock_code": "03690",
+      "stock_name": "美团-W",
+      "weight": 4.35
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 4.3
+    },
+    {
       "stock_code": "603986",
       "stock_name": "兆易创新",
       "weight": 3.71
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "weight": 3.13
+    },
+    {
+      "stock_code": "01318",
+      "stock_name": "毛戈平",
+      "weight": 3.07
+    },
+    {
+      "stock_code": "01530",
+      "stock_name": "三生制药",
+      "weight": 2.68
+    },
+    {
+      "stock_code": "01339",
+      "stock_name": "中国人民保险集团",
+      "weight": 2.64
+    },
+    {
+      "stock_code": "603083",
+      "stock_name": "剑桥科技",
+      "weight": 2.62
+    },
+    {
+      "stock_code": "09992",
+      "stock_name": "泡泡玛特",
+      "weight": 2.52
+    },
+    {
+      "stock_code": "688382",
+      "stock_name": "益方生物",
+      "weight": 2.5
+    },
+    {
+      "stock_code": "02186",
+      "stock_name": "绿叶制药",
+      "weight": 2.48
+    },
+    {
+      "stock_code": "603900",
+      "stock_name": "莱绅通灵",
+      "weight": 2.36
+    },
+    {
+      "stock_code": "01060",
+      "stock_name": "大麦娱乐",
+      "weight": 2.12
+    },
+    {
+      "stock_code": "01357",
+      "stock_name": "美图公司",
+      "weight": 1.99
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "weight": 1.87
+    },
+    {
+      "stock_code": "600547",
+      "stock_name": "山东黄金",
+      "weight": 1.77
+    },
+    {
+      "stock_code": "301205",
+      "stock_name": "联特科技",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "002080",
+      "stock_name": "中材科技",
+      "weight": 1.08
+    },
+    {
+      "stock_code": "03993",
+      "stock_name": "洛阳钼业",
+      "weight": 0.91
+    },
+    {
+      "stock_code": "09688",
+      "stock_name": "再鼎医药",
+      "weight": 0.9
+    },
+    {
+      "stock_code": "002345",
+      "stock_name": "潮宏基",
+      "weight": 0.61
+    },
+    {
+      "stock_code": "603129",
+      "stock_name": "春风动力",
+      "weight": 0.37
+    },
+    {
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "weight": 0.28
+    },
+    {
+      "stock_code": "301602",
+      "stock_name": "超研股份",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301458",
+      "stock_name": "钧崴电子",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301601",
+      "stock_name": "惠通科技",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:23",
+  "fetched_at": "2026-02-09 23:56:55",
   "data_source": "eastmoney"
 }

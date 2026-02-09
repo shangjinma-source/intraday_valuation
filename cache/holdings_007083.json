@@ -3,8 +3,8 @@
   "fund_name": "平安高端制造混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.0,
-  "parsed_weight": 51.83,
-  "missing_weight": 42.17,
+  "parsed_weight": 152.06,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "002459",
@@ -12,9 +12,19 @@
       "weight": 10.28
     },
     {
+      "stock_code": "00968",
+      "stock_name": "信义光能",
+      "weight": 10.02
+    },
+    {
       "stock_code": "688599",
       "stock_name": "天合光能",
       "weight": 10.01
+    },
+    {
+      "stock_code": "03800",
+      "stock_name": "协鑫科技",
+      "weight": 9.93
     },
     {
       "stock_code": "688223",
@@ -32,11 +42,206 @@
       "weight": 8.94
     },
     {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 8.16
+    },
+    {
+      "stock_code": "002541",
+      "stock_name": "鸿路钢构",
+      "weight": 6.76
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 6.34
+    },
+    {
+      "stock_code": "06865",
+      "stock_name": "福莱特玻璃",
+      "weight": 5.3
+    },
+    {
+      "stock_code": "300037",
+      "stock_name": "新宙邦",
+      "weight": 5.17
+    },
+    {
+      "stock_code": "09868",
+      "stock_name": "小鹏汽车-W",
+      "weight": 5.06
+    },
+    {
+      "stock_code": "603786",
+      "stock_name": "科博达",
+      "weight": 4.81
+    },
+    {
+      "stock_code": "02319",
+      "stock_name": "蒙牛乳业",
+      "weight": 4.7
+    },
+    {
+      "stock_code": "002475",
+      "stock_name": "立讯精密",
+      "weight": 4.0
+    },
+    {
+      "stock_code": "600323",
+      "stock_name": "瀚蓝环境",
+      "weight": 3.64
+    },
+    {
+      "stock_code": "00425",
+      "stock_name": "敏实集团",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 3.33
+    },
+    {
+      "stock_code": "601600",
+      "stock_name": "中国铝业",
+      "weight": 3.1
+    },
+    {
+      "stock_code": "002920",
+      "stock_name": "德赛西威",
+      "weight": 3.04
+    },
+    {
       "stock_code": "600690",
       "stock_name": "海尔智家",
       "weight": 2.88
+    },
+    {
+      "stock_code": "603313",
+      "stock_name": "梦百合",
+      "weight": 2.11
+    },
+    {
+      "stock_code": "02600",
+      "stock_name": "中国铝业",
+      "weight": 1.89
+    },
+    {
+      "stock_code": "002714",
+      "stock_name": "牧原股份",
+      "weight": 1.5
+    },
+    {
+      "stock_code": "002262",
+      "stock_name": "恩华药业",
+      "weight": 1.3
+    },
+    {
+      "stock_code": "002444",
+      "stock_name": "巨星科技",
+      "weight": 1.18
+    },
+    {
+      "stock_code": "600989",
+      "stock_name": "宝丰能源",
+      "weight": 0.98
+    },
+    {
+      "stock_code": "03993",
+      "stock_name": "洛阳钼业",
+      "weight": 0.59
+    },
+    {
+      "stock_code": "002039",
+      "stock_name": "黔源电力",
+      "weight": 0.49
+    },
+    {
+      "stock_code": "600968",
+      "stock_name": "海油发展",
+      "weight": 0.49
+    },
+    {
+      "stock_code": "000039",
+      "stock_name": "中集集团",
+      "weight": 0.4
+    },
+    {
+      "stock_code": "600320",
+      "stock_name": "振华重工",
+      "weight": 0.32
+    },
+    {
+      "stock_code": "600352",
+      "stock_name": "浙江龙盛",
+      "weight": 0.3
+    },
+    {
+      "stock_code": "002056",
+      "stock_name": "横店东磁",
+      "weight": 0.29
+    },
+    {
+      "stock_code": "002648",
+      "stock_name": "卫星化学",
+      "weight": 0.26
+    },
+    {
+      "stock_code": "600801",
+      "stock_name": "华新水泥",
+      "weight": 0.21
+    },
+    {
+      "stock_code": "600987",
+      "stock_name": "航民股份",
+      "weight": 0.2
+    },
+    {
+      "stock_code": "601126",
+      "stock_name": "四方股份",
+      "weight": 0.15
+    },
+    {
+      "stock_code": "000700",
+      "stock_name": "模塑科技",
+      "weight": 0.13
+    },
+    {
+      "stock_code": "301039",
+      "stock_name": "中集车辆",
+      "weight": 0.12
+    },
+    {
+      "stock_code": "603279",
+      "stock_name": "景津装备",
+      "weight": 0.11
+    },
+    {
+      "stock_code": "002690",
+      "stock_name": "美亚光电",
+      "weight": 0.11
+    },
+    {
+      "stock_code": "000708",
+      "stock_name": "中信特钢",
+      "weight": 0.1
+    },
+    {
+      "stock_code": "603979",
+      "stock_name": "金诚信",
+      "weight": 0.07
+    },
+    {
+      "stock_code": "600482",
+      "stock_name": "中国动力",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "601058",
+      "stock_name": "赛轮轮胎",
+      "weight": 0.02
     }
   ],
-  "fetched_at": "2026-02-08 12:55:56",
+  "fetched_at": "2026-02-10 00:00:30",
   "data_source": "eastmoney"
 }

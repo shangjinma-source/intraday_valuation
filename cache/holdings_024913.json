@@ -3,8 +3,8 @@
   "fund_name": "华夏国证通用航空产业ETF发起式联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 98.88,
-  "parsed_weight": 33.5,
-  "missing_weight": 65.38,
+  "parsed_weight": 46.42,
+  "missing_weight": 52.46,
   "positions": [
     {
       "stock_code": "002085",
@@ -37,6 +37,11 @@
       "weight": 3.39
     },
     {
+      "stock_code": "688772",
+      "stock_name": "珠海冠宇",
+      "weight": 3.06
+    },
+    {
       "stock_code": "600879",
       "stock_name": "航天电子",
       "weight": 2.83
@@ -47,17 +52,47 @@
       "weight": 2.7
     },
     {
+      "stock_code": "603308",
+      "stock_name": "应流股份",
+      "weight": 2.65
+    },
+    {
       "stock_code": "300342",
       "stock_name": "天银机电",
+      "weight": 2.6
+    },
+    {
+      "stock_code": "688248",
+      "stock_name": "南网科技",
       "weight": 2.6
     },
     {
       "stock_code": "002151",
       "stock_name": "北斗星通",
       "weight": 2.49
+    },
+    {
+      "stock_code": "688002",
+      "stock_name": "睿创微纳",
+      "weight": 2.47
+    },
+    {
+      "stock_code": "600562",
+      "stock_name": "国睿科技",
+      "weight": 0.76
+    },
+    {
+      "stock_code": "688582",
+      "stock_name": "芯动联科",
+      "weight": 0.7
+    },
+    {
+      "stock_code": "600363",
+      "stock_name": "联创光电",
+      "weight": 0.68
     }
   ],
-  "fetched_at": "2026-02-08 12:55:14",
+  "fetched_at": "2026-02-09 23:55:48",
   "data_source": "eastmoney",
   "original_fund_code": "024913",
   "etf_target": "159230",

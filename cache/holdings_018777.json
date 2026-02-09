@@ -3,8 +3,8 @@
   "fund_name": "金信精选成长混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 89.77,
-  "parsed_weight": 82.58,
-  "missing_weight": 7.19,
+  "parsed_weight": 106.66,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688012",
@@ -47,6 +47,16 @@
       "weight": 6.35
     },
     {
+      "stock_code": "688010",
+      "stock_name": "福光股份",
+      "weight": 6.05
+    },
+    {
+      "stock_code": "002338",
+      "stock_name": "奥普光电",
+      "weight": 5.61
+    },
+    {
       "stock_code": "688195",
       "stock_name": "腾景科技",
       "weight": 5.26
@@ -55,8 +65,53 @@
       "stock_code": "301021",
       "stock_name": "英诺激光",
       "weight": 5.22
+    },
+    {
+      "stock_code": "300706",
+      "stock_name": "阿石创",
+      "weight": 5.08
+    },
+    {
+      "stock_code": "300809",
+      "stock_name": "华辰装备",
+      "weight": 3.47
+    },
+    {
+      "stock_code": "688652",
+      "stock_name": "京仪装备",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "001212",
+      "stock_name": "中旗新材",
+      "weight": 1.52
+    },
+    {
+      "stock_code": "603800",
+      "stock_name": "洪田股份",
+      "weight": 0.35
+    },
+    {
+      "stock_code": "688411",
+      "stock_name": "海博思创",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "688758",
+      "stock_name": "赛分科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688757",
+      "stock_name": "胜科纳米",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688545",
+      "stock_name": "兴福电子",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:54:56",
+  "fetched_at": "2026-02-09 23:53:49",
   "data_source": "eastmoney"
 }

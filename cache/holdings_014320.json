@@ -3,8 +3,8 @@
   "fund_name": "德邦半导体产业混合发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.89,
-  "parsed_weight": 43.91,
-  "missing_weight": 49.98,
+  "parsed_weight": 134.03,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "688041",
@@ -22,9 +22,24 @@
       "weight": 6.78
     },
     {
+      "stock_code": "00981",
+      "stock_name": "中芯国际",
+      "weight": 6.07
+    },
+    {
       "stock_code": "001309",
       "stock_name": "德明利",
       "weight": 5.78
+    },
+    {
+      "stock_code": "688008",
+      "stock_name": "澜起科技",
+      "weight": 4.86
+    },
+    {
+      "stock_code": "688220",
+      "stock_name": "翱捷科技",
+      "weight": 4.82
     },
     {
       "stock_code": "301308",
@@ -32,9 +47,34 @@
       "weight": 4.67
     },
     {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 4.61
+    },
+    {
       "stock_code": "603986",
       "stock_name": "兆易创新",
       "weight": 4.59
+    },
+    {
+      "stock_code": "300458",
+      "stock_name": "全志科技",
+      "weight": 4.56
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "weight": 4.38
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 4.35
+    },
+    {
+      "stock_code": "688525",
+      "stock_name": "佰维存储",
+      "weight": 4.33
     },
     {
       "stock_code": "688072",
@@ -42,11 +82,91 @@
       "weight": 4.27
     },
     {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 4.25
+    },
+    {
+      "stock_code": "09660",
+      "stock_name": "地平线机器人-W",
+      "weight": 4.14
+    },
+    {
+      "stock_code": "688052",
+      "stock_name": "纳芯微",
+      "weight": 4.12
+    },
+    {
       "stock_code": "688548",
       "stock_name": "广钢气体",
       "weight": 4.02
+    },
+    {
+      "stock_code": "301421",
+      "stock_name": "波长光电",
+      "weight": 3.91
+    },
+    {
+      "stock_code": "688372",
+      "stock_name": "伟测科技",
+      "weight": 3.52
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "weight": 3.47
+    },
+    {
+      "stock_code": "688536",
+      "stock_name": "思瑞浦",
+      "weight": 3.39
+    },
+    {
+      "stock_code": "688502",
+      "stock_name": "茂莱光学",
+      "weight": 3.24
+    },
+    {
+      "stock_code": "688037",
+      "stock_name": "芯源微",
+      "weight": 3.24
+    },
+    {
+      "stock_code": "300548",
+      "stock_name": "长芯博创",
+      "weight": 3.2
+    },
+    {
+      "stock_code": "688167",
+      "stock_name": "炬光科技",
+      "weight": 2.96
+    },
+    {
+      "stock_code": "688010",
+      "stock_name": "福光股份",
+      "weight": 2.88
+    },
+    {
+      "stock_code": "002222",
+      "stock_name": "福晶科技",
+      "weight": 2.78
+    },
+    {
+      "stock_code": "688630",
+      "stock_name": "芯碁微装",
+      "weight": 2.59
+    },
+    {
+      "stock_code": "603005",
+      "stock_name": "晶方科技",
+      "weight": 2.31
+    },
+    {
+      "stock_code": "000988",
+      "stock_name": "华工科技",
+      "weight": 2.14
     }
   ],
-  "fetched_at": "2026-02-08 12:55:06",
+  "fetched_at": "2026-02-09 23:54:58",
   "data_source": "eastmoney"
 }

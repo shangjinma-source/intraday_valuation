@@ -3,8 +3,8 @@
   "fund_name": "东财景气驱动C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 77.98,
-  "parsed_weight": 66.44,
-  "missing_weight": 11.54,
+  "parsed_weight": 245.04,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "601698",
@@ -12,14 +12,29 @@
       "weight": 7.31
     },
     {
+      "stock_code": "603267",
+      "stock_name": "鸿远电子",
+      "weight": 7.26
+    },
+    {
       "stock_code": "600118",
       "stock_name": "中国卫星",
       "weight": 7.05
     },
     {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 7.03
+    },
+    {
       "stock_code": "300762",
       "stock_name": "上海瀚讯",
       "weight": 6.99
+    },
+    {
+      "stock_code": "002025",
+      "stock_name": "航天电器",
+      "weight": 6.95
     },
     {
       "stock_code": "603698",
@@ -47,16 +62,216 @@
       "weight": 6.63
     },
     {
+      "stock_code": "300251",
+      "stock_name": "光线传媒",
+      "weight": 6.63
+    },
+    {
       "stock_code": "600343",
       "stock_name": "航天动力",
       "weight": 6.52
     },
     {
+      "stock_code": "300416",
+      "stock_name": "苏试试验",
+      "weight": 6.18
+    },
+    {
+      "stock_code": "688332",
+      "stock_name": "中科蓝讯",
+      "weight": 5.9
+    },
+    {
+      "stock_code": "688099",
+      "stock_name": "晶晨股份",
+      "weight": 5.52
+    },
+    {
+      "stock_code": "600760",
+      "stock_name": "中航沈飞",
+      "weight": 5.45
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 5.4
+    },
+    {
+      "stock_code": "002517",
+      "stock_name": "恺英网络",
+      "weight": 5.36
+    },
+    {
+      "stock_code": "000733",
+      "stock_name": "振华科技",
+      "weight": 5.34
+    },
+    {
+      "stock_code": "603678",
+      "stock_name": "火炬电子",
+      "weight": 5.33
+    },
+    {
+      "stock_code": "688018",
+      "stock_name": "乐鑫科技",
+      "weight": 5.28
+    },
+    {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 5.21
+    },
+    {
+      "stock_code": "688608",
+      "stock_name": "恒玄科技",
+      "weight": 5.19
+    },
+    {
+      "stock_code": "002179",
+      "stock_name": "中航光电",
+      "weight": 5.03
+    },
+    {
+      "stock_code": "300726",
+      "stock_name": "宏达电子",
+      "weight": 5.0
+    },
+    {
       "stock_code": "688387",
       "stock_name": "信科移动",
       "weight": 4.96
+    },
+    {
+      "stock_code": "603444",
+      "stock_name": "吉比特",
+      "weight": 4.96
+    },
+    {
+      "stock_code": "002532",
+      "stock_name": "天山铝业",
+      "weight": 4.96
+    },
+    {
+      "stock_code": "688311",
+      "stock_name": "盟升电子",
+      "weight": 4.96
+    },
+    {
+      "stock_code": "02400",
+      "stock_name": "心动公司",
+      "weight": 4.94
+    },
+    {
+      "stock_code": "00586",
+      "stock_name": "海螺创业",
+      "weight": 4.92
+    },
+    {
+      "stock_code": "688111",
+      "stock_name": "金山办公",
+      "weight": 4.03
+    },
+    {
+      "stock_code": "603063",
+      "stock_name": "禾望电气",
+      "weight": 3.23
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 3.21
+    },
+    {
+      "stock_code": "000768",
+      "stock_name": "中航西飞",
+      "weight": 3.11
+    },
+    {
+      "stock_code": "300627",
+      "stock_name": "华测导航",
+      "weight": 3.08
+    },
+    {
+      "stock_code": "601857",
+      "stock_name": "中国石油",
+      "weight": 3.06
+    },
+    {
+      "stock_code": "600941",
+      "stock_name": "中国移动",
+      "weight": 2.9
+    },
+    {
+      "stock_code": "00857",
+      "stock_name": "中国石油股份",
+      "weight": 2.89
+    },
+    {
+      "stock_code": "00631",
+      "stock_name": "三一国际",
+      "weight": 2.89
+    },
+    {
+      "stock_code": "00268",
+      "stock_name": "金蝶国际",
+      "weight": 2.88
+    },
+    {
+      "stock_code": "02016",
+      "stock_name": "浙商银行",
+      "weight": 2.79
+    },
+    {
+      "stock_code": "03690",
+      "stock_name": "美团-W",
+      "weight": 2.77
+    },
+    {
+      "stock_code": "00941",
+      "stock_name": "中国移动",
+      "weight": 2.71
+    },
+    {
+      "stock_code": "01385",
+      "stock_name": "上海复旦",
+      "weight": 2.69
+    },
+    {
+      "stock_code": "00371",
+      "stock_name": "北控水务集团",
+      "weight": 2.62
+    },
+    {
+      "stock_code": "600036",
+      "stock_name": "招商银行",
+      "weight": 2.09
+    },
+    {
+      "stock_code": "00388",
+      "stock_name": "香港交易所",
+      "weight": 2.03
+    },
+    {
+      "stock_code": "688385",
+      "stock_name": "复旦微电",
+      "weight": 2.01
+    },
+    {
+      "stock_code": "600926",
+      "stock_name": "杭州银行",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "600938",
+      "stock_name": "中国海油",
+      "weight": 1.48
+    },
+    {
+      "stock_code": "603083",
+      "stock_name": "剑桥科技",
+      "weight": 1.43
     }
   ],
-  "fetched_at": "2026-02-08 12:55:11",
+  "fetched_at": "2026-02-09 23:55:30",
   "data_source": "eastmoney"
 }

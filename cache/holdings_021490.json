@@ -3,13 +3,18 @@
   "fund_name": "中航趋势领航混合发起C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 91.43,
-  "parsed_weight": 49.97,
-  "missing_weight": 41.46,
+  "parsed_weight": 130.89,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "301550",
       "stock_name": "斯菱智驱",
       "weight": 6.28
+    },
+    {
+      "stock_code": "601100",
+      "stock_name": "恒立液压",
+      "weight": 5.9
     },
     {
       "stock_code": "603119",
@@ -27,6 +32,21 @@
       "weight": 5.34
     },
     {
+      "stock_code": "301000",
+      "stock_name": "肇民科技",
+      "weight": 5.04
+    },
+    {
+      "stock_code": "301413",
+      "stock_name": "安培龙",
+      "weight": 5.0
+    },
+    {
+      "stock_code": "300100",
+      "stock_name": "双林股份",
+      "weight": 4.9
+    },
+    {
       "stock_code": "300953",
       "stock_name": "震裕科技",
       "weight": 4.82
@@ -35,6 +55,16 @@
       "stock_code": "300007",
       "stock_name": "汉威科技",
       "weight": 4.77
+    },
+    {
+      "stock_code": "002896",
+      "stock_name": "中大力德",
+      "weight": 4.71
+    },
+    {
+      "stock_code": "300918",
+      "stock_name": "南山智尚",
+      "weight": 4.61
     },
     {
       "stock_code": "301225",
@@ -52,11 +82,106 @@
       "weight": 4.44
     },
     {
+      "stock_code": "600480",
+      "stock_name": "凌云股份",
+      "weight": 4.38
+    },
+    {
+      "stock_code": "603809",
+      "stock_name": "豪能股份",
+      "weight": 4.34
+    },
+    {
       "stock_code": "603319",
       "stock_name": "美湖股份",
       "weight": 4.27
+    },
+    {
+      "stock_code": "603728",
+      "stock_name": "鸣志电器",
+      "weight": 4.22
+    },
+    {
+      "stock_code": "600699",
+      "stock_name": "均胜电子",
+      "weight": 4.03
+    },
+    {
+      "stock_code": "002965",
+      "stock_name": "祥鑫科技",
+      "weight": 3.77
+    },
+    {
+      "stock_code": "301261",
+      "stock_name": "恒工精密",
+      "weight": 3.58
+    },
+    {
+      "stock_code": "000837",
+      "stock_name": "秦川机床",
+      "weight": 3.3
+    },
+    {
+      "stock_code": "688160",
+      "stock_name": "步科股份",
+      "weight": 3.3
+    },
+    {
+      "stock_code": "688017",
+      "stock_name": "绿的谐波",
+      "weight": 3.28
+    },
+    {
+      "stock_code": "301160",
+      "stock_name": "翔楼新材",
+      "weight": 2.89
+    },
+    {
+      "stock_code": "002860",
+      "stock_name": "星帅尔",
+      "weight": 2.78
+    },
+    {
+      "stock_code": "603040",
+      "stock_name": "新坐标",
+      "weight": 2.41
+    },
+    {
+      "stock_code": "000887",
+      "stock_name": "中鼎股份",
+      "weight": 2.01
+    },
+    {
+      "stock_code": "301196",
+      "stock_name": "唯科科技",
+      "weight": 1.94
+    },
+    {
+      "stock_code": "603305",
+      "stock_name": "旭升集团",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "603009",
+      "stock_name": "北特科技",
+      "weight": 1.15
+    },
+    {
+      "stock_code": "603286",
+      "stock_name": "日盈电子",
+      "weight": 0.87
+    },
+    {
+      "stock_code": "605488",
+      "stock_name": "福莱新材",
+      "weight": 0.6
+    },
+    {
+      "stock_code": "688775",
+      "stock_name": "影石创新",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:43",
+  "fetched_at": "2026-02-09 23:59:10",
   "data_source": "eastmoney"
 }

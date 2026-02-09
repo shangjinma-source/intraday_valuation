@@ -3,8 +3,8 @@
   "fund_name": "德邦高端装备混合发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 93.99,
-  "parsed_weight": 73.11,
-  "missing_weight": 20.88,
+  "parsed_weight": 163.01,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "603179",
@@ -27,9 +27,29 @@
       "weight": 9.18
     },
     {
+      "stock_code": "600592",
+      "stock_name": "龙溪股份",
+      "weight": 9.02
+    },
+    {
+      "stock_code": "002126",
+      "stock_name": "银轮股份",
+      "weight": 8.11
+    },
+    {
+      "stock_code": "002979",
+      "stock_name": "雷赛智能",
+      "weight": 6.99
+    },
+    {
       "stock_code": "300007",
       "stock_name": "汉威科技",
       "weight": 6.98
+    },
+    {
+      "stock_code": "688279",
+      "stock_name": "峰岹科技",
+      "weight": 6.93
     },
     {
       "stock_code": "301413",
@@ -47,16 +67,86 @@
       "weight": 5.95
     },
     {
+      "stock_code": "002765",
+      "stock_name": "蓝黛科技",
+      "weight": 5.92
+    },
+    {
+      "stock_code": "688003",
+      "stock_name": "天准科技",
+      "weight": 5.51
+    },
+    {
+      "stock_code": "301000",
+      "stock_name": "肇民科技",
+      "weight": 5.23
+    },
+    {
+      "stock_code": "300680",
+      "stock_name": "隆盛科技",
+      "weight": 5.06
+    },
+    {
       "stock_code": "300115",
       "stock_name": "长盈精密",
       "weight": 5.04
     },
     {
+      "stock_code": "605133",
+      "stock_name": "嵘泰股份",
+      "weight": 5.01
+    },
+    {
+      "stock_code": "003021",
+      "stock_name": "兆威机电",
+      "weight": 5.01
+    },
+    {
       "stock_code": "601689",
       "stock_name": "拓普集团",
       "weight": 4.98
+    },
+    {
+      "stock_code": "300652",
+      "stock_name": "雷迪克",
+      "weight": 4.97
+    },
+    {
+      "stock_code": "603319",
+      "stock_name": "美湖股份",
+      "weight": 4.08
+    },
+    {
+      "stock_code": "300952",
+      "stock_name": "恒辉安防",
+      "weight": 3.98
+    },
+    {
+      "stock_code": "688722",
+      "stock_name": "同益中",
+      "weight": 3.53
+    },
+    {
+      "stock_code": "300918",
+      "stock_name": "南山智尚",
+      "weight": 3.02
+    },
+    {
+      "stock_code": "688017",
+      "stock_name": "绿的谐波",
+      "weight": 2.99
+    },
+    {
+      "stock_code": "688322",
+      "stock_name": "奥比中光",
+      "weight": 2.59
+    },
+    {
+      "stock_code": "688560",
+      "stock_name": "明冠新材",
+      "weight": 1.95
     }
   ],
-  "fetched_at": "2026-02-08 12:55:39",
+  "fetched_at": "2026-02-09 23:58:45",
   "data_source": "eastmoney"
 }

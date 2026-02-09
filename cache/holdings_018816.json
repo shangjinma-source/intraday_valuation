@@ -3,8 +3,8 @@
   "fund_name": "方正富邦核心优势混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.45,
-  "parsed_weight": 86.17,
-  "missing_weight": 8.28,
+  "parsed_weight": 236.36,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300475",
@@ -14,6 +14,11 @@
     {
       "stock_code": "688766",
       "stock_name": "普冉股份",
+      "weight": 10.55
+    },
+    {
+      "stock_code": "600760",
+      "stock_name": "中航沈飞",
       "weight": 10.55
     },
     {
@@ -27,6 +32,11 @@
       "weight": 9.78
     },
     {
+      "stock_code": "002414",
+      "stock_name": "高德红外",
+      "weight": 9.38
+    },
+    {
       "stock_code": "301308",
       "stock_name": "江波龙",
       "weight": 9.18
@@ -37,14 +47,84 @@
       "weight": 9.14
     },
     {
+      "stock_code": "002049",
+      "stock_name": "紫光国微",
+      "weight": 9.14
+    },
+    {
+      "stock_code": "688297",
+      "stock_name": "中无人机",
+      "weight": 8.95
+    },
+    {
       "stock_code": "688535",
       "stock_name": "华海诚科",
       "weight": 8.91
     },
     {
+      "stock_code": "688439",
+      "stock_name": "振华风光",
+      "weight": 8.86
+    },
+    {
       "stock_code": "688228",
       "stock_name": "开普云",
       "weight": 8.8
+    },
+    {
+      "stock_code": "600893",
+      "stock_name": "航发动力",
+      "weight": 8.01
+    },
+    {
+      "stock_code": "000519",
+      "stock_name": "中兵红箭",
+      "weight": 7.34
+    },
+    {
+      "stock_code": "600435",
+      "stock_name": "北方导航",
+      "weight": 7.26
+    },
+    {
+      "stock_code": "688708",
+      "stock_name": "佳驰科技",
+      "weight": 6.86
+    },
+    {
+      "stock_code": "302132",
+      "stock_name": "中航成飞",
+      "weight": 6.85
+    },
+    {
+      "stock_code": "002179",
+      "stock_name": "中航光电",
+      "weight": 6.39
+    },
+    {
+      "stock_code": "002389",
+      "stock_name": "航天彩虹",
+      "weight": 6.2
+    },
+    {
+      "stock_code": "688281",
+      "stock_name": "华秦科技",
+      "weight": 4.96
+    },
+    {
+      "stock_code": "601698",
+      "stock_name": "中国卫通",
+      "weight": 4.88
+    },
+    {
+      "stock_code": "600482",
+      "stock_name": "中国动力",
+      "weight": 4.79
+    },
+    {
+      "stock_code": "600184",
+      "stock_name": "光电股份",
+      "weight": 4.59
     },
     {
       "stock_code": "688072",
@@ -55,8 +135,58 @@
       "stock_code": "603986",
       "stock_name": "兆易创新",
       "weight": 4.38
+    },
+    {
+      "stock_code": "300593",
+      "stock_name": "新雷能",
+      "weight": 4.37
+    },
+    {
+      "stock_code": "688629",
+      "stock_name": "华丰科技",
+      "weight": 4.26
+    },
+    {
+      "stock_code": "300395",
+      "stock_name": "菲利华",
+      "weight": 4.04
+    },
+    {
+      "stock_code": "600879",
+      "stock_name": "航天电子",
+      "weight": 3.71
+    },
+    {
+      "stock_code": "002149",
+      "stock_name": "西部材料",
+      "weight": 3.67
+    },
+    {
+      "stock_code": "601890",
+      "stock_name": "亚星锚链",
+      "weight": 3.62
+    },
+    {
+      "stock_code": "300762",
+      "stock_name": "上海瀚讯",
+      "weight": 3.37
+    },
+    {
+      "stock_code": "300726",
+      "stock_name": "宏达电子",
+      "weight": 3.33
+    },
+    {
+      "stock_code": "603267",
+      "stock_name": "鸿远电子",
+      "weight": 2.81
+    },
+    {
+      "stock_code": "300922",
+      "stock_name": "天秦装备",
+      "weight": 2.0
     }
   ],
-  "fetched_at": "2026-02-08 12:55:05",
+  "fetched_at": "2026-02-09 23:54:49",
   "data_source": "eastmoney"
 }

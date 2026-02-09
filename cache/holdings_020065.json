@@ -3,9 +3,14 @@
   "fund_name": "西部利得科技创新混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 91.98,
-  "parsed_weight": 66.64,
-  "missing_weight": 25.34,
+  "parsed_weight": 217.25,
+  "missing_weight": 0,
   "positions": [
+    {
+      "stock_code": "02228",
+      "stock_name": "晶泰控股",
+      "weight": 9.52
+    },
     {
       "stock_code": "688615",
       "stock_name": "合合信息",
@@ -22,14 +27,39 @@
       "weight": 9.44
     },
     {
+      "stock_code": "01357",
+      "stock_name": "美图公司",
+      "weight": 9.42
+    },
+    {
+      "stock_code": "300454",
+      "stock_name": "深信服",
+      "weight": 9.38
+    },
+    {
       "stock_code": "300502",
       "stock_name": "新易盛",
       "weight": 9.31
     },
     {
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "weight": 9.06
+    },
+    {
       "stock_code": "688111",
       "stock_name": "金山办公",
       "weight": 7.36
+    },
+    {
+      "stock_code": "603859",
+      "stock_name": "能科科技",
+      "weight": 7.16
+    },
+    {
+      "stock_code": "03896",
+      "stock_name": "金山云",
+      "weight": 6.98
     },
     {
       "stock_code": "688258",
@@ -50,8 +80,188 @@
       "stock_code": "300170",
       "stock_name": "汉得信息",
       "weight": 5.2
+    },
+    {
+      "stock_code": "000100",
+      "stock_name": "TCL科技",
+      "weight": 5.15
+    },
+    {
+      "stock_code": "002410",
+      "stock_name": "广联达",
+      "weight": 5.1
+    },
+    {
+      "stock_code": "600050",
+      "stock_name": "中国联通",
+      "weight": 5.09
+    },
+    {
+      "stock_code": "00268",
+      "stock_name": "金蝶国际",
+      "weight": 4.95
+    },
+    {
+      "stock_code": "06682",
+      "stock_name": "第四范式",
+      "weight": 4.6
+    },
+    {
+      "stock_code": "002415",
+      "stock_name": "海康威视",
+      "weight": 4.58
+    },
+    {
+      "stock_code": "600941",
+      "stock_name": "中国移动",
+      "weight": 4.25
+    },
+    {
+      "stock_code": "01810",
+      "stock_name": "小米集团-W",
+      "weight": 3.92
+    },
+    {
+      "stock_code": "00700",
+      "stock_name": "腾讯控股",
+      "weight": 3.67
+    },
+    {
+      "stock_code": "000725",
+      "stock_name": "京东方A",
+      "weight": 3.41
+    },
+    {
+      "stock_code": "002008",
+      "stock_name": "大族激光",
+      "weight": 3.4
+    },
+    {
+      "stock_code": "603986",
+      "stock_name": "兆易创新",
+      "weight": 3.36
+    },
+    {
+      "stock_code": "688076",
+      "stock_name": "诺泰生物",
+      "weight": 2.87
+    },
+    {
+      "stock_code": "002821",
+      "stock_name": "凯莱英",
+      "weight": 2.8
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 2.72
+    },
+    {
+      "stock_code": "09688",
+      "stock_name": "再鼎医药",
+      "weight": 2.72
+    },
+    {
+      "stock_code": "09863",
+      "stock_name": "零跑汽车",
+      "weight": 2.67
+    },
+    {
+      "stock_code": "00941",
+      "stock_name": "中国移动",
+      "weight": 2.38
+    },
+    {
+      "stock_code": "688717",
+      "stock_name": "艾罗能源",
+      "weight": 2.37
+    },
+    {
+      "stock_code": "300037",
+      "stock_name": "新宙邦",
+      "weight": 2.34
+    },
+    {
+      "stock_code": "688525",
+      "stock_name": "佰维存储",
+      "weight": 2.25
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 2.25
+    },
+    {
+      "stock_code": "300573",
+      "stock_name": "兴齐眼药",
+      "weight": 2.2
+    },
+    {
+      "stock_code": "688981",
+      "stock_name": "中芯国际",
+      "weight": 2.19
+    },
+    {
+      "stock_code": "01177",
+      "stock_name": "中国生物制药",
+      "weight": 2.04
+    },
+    {
+      "stock_code": "600703",
+      "stock_name": "三安光电",
+      "weight": 2.03
+    },
+    {
+      "stock_code": "09926",
+      "stock_name": "康方生物",
+      "weight": 1.95
+    },
+    {
+      "stock_code": "301308",
+      "stock_name": "江波龙",
+      "weight": 1.78
+    },
+    {
+      "stock_code": "603005",
+      "stock_name": "晶方科技",
+      "weight": 1.58
+    },
+    {
+      "stock_code": "688085",
+      "stock_name": "三友医疗",
+      "weight": 1.57
+    },
+    {
+      "stock_code": "603882",
+      "stock_name": "金域医学",
+      "weight": 1.48
+    },
+    {
+      "stock_code": "000880",
+      "stock_name": "潍柴重机",
+      "weight": 1.47
+    },
+    {
+      "stock_code": "688521",
+      "stock_name": "芯原股份",
+      "weight": 1.14
+    },
+    {
+      "stock_code": "002970",
+      "stock_name": "锐明技术",
+      "weight": 1.04
+    },
+    {
+      "stock_code": "300442",
+      "stock_name": "润泽科技",
+      "weight": 1.0
+    },
+    {
+      "stock_code": "688333",
+      "stock_name": "铂力特",
+      "weight": 0.77
     }
   ],
-  "fetched_at": "2026-02-08 12:55:27",
+  "fetched_at": "2026-02-09 23:57:21",
   "data_source": "eastmoney"
 }

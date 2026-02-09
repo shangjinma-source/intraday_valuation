@@ -3,8 +3,8 @@
   "fund_name": "嘉实信息产业股票发起式C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 94.71,
-  "parsed_weight": 77.33,
-  "missing_weight": 17.38,
+  "parsed_weight": 137.64,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "300308",
@@ -37,6 +37,11 @@
       "weight": 8.33
     },
     {
+      "stock_code": "000032",
+      "stock_name": "深桑达A",
+      "weight": 7.33
+    },
+    {
       "stock_code": "000977",
       "stock_name": "浪潮信息",
       "weight": 6.39
@@ -47,16 +52,131 @@
       "weight": 6.28
     },
     {
+      "stock_code": "002415",
+      "stock_name": "海康威视",
+      "weight": 5.68
+    },
+    {
+      "stock_code": "600536",
+      "stock_name": "中国软件",
+      "weight": 5.66
+    },
+    {
       "stock_code": "603986",
       "stock_name": "兆易创新",
       "weight": 5.33
     },
     {
+      "stock_code": "600602",
+      "stock_name": "云赛智联",
+      "weight": 4.95
+    },
+    {
       "stock_code": "920808",
       "stock_name": "曙光数创",
       "weight": 4.86
+    },
+    {
+      "stock_code": "301269",
+      "stock_name": "华大九天",
+      "weight": 3.78
+    },
+    {
+      "stock_code": "688631",
+      "stock_name": "莱斯信息",
+      "weight": 3.45
+    },
+    {
+      "stock_code": "300738",
+      "stock_name": "奥飞数据",
+      "weight": 3.43
+    },
+    {
+      "stock_code": "603228",
+      "stock_name": "景旺电子",
+      "weight": 3.22
+    },
+    {
+      "stock_code": "688579",
+      "stock_name": "山大地纬",
+      "weight": 2.96
+    },
+    {
+      "stock_code": "300188",
+      "stock_name": "国投智能",
+      "weight": 2.66
+    },
+    {
+      "stock_code": "000034",
+      "stock_name": "神州数码",
+      "weight": 2.45
+    },
+    {
+      "stock_code": "000066",
+      "stock_name": "中国长城",
+      "weight": 2.41
+    },
+    {
+      "stock_code": "001267",
+      "stock_name": "汇绿生态",
+      "weight": 2.27
+    },
+    {
+      "stock_code": "688347",
+      "stock_name": "华虹公司",
+      "weight": 2.03
+    },
+    {
+      "stock_code": "002368",
+      "stock_name": "太极股份",
+      "weight": 1.79
+    },
+    {
+      "stock_code": "002777",
+      "stock_name": "久远银海",
+      "weight": 1.77
+    },
+    {
+      "stock_code": "002401",
+      "stock_name": "中远海科",
+      "weight": 1.64
+    },
+    {
+      "stock_code": "002152",
+      "stock_name": "广电运通",
+      "weight": 1.46
+    },
+    {
+      "stock_code": "688507",
+      "stock_name": "索辰科技",
+      "weight": 1.3
+    },
+    {
+      "stock_code": "688411",
+      "stock_name": "海博思创",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "301479",
+      "stock_name": "弘景光电",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "688757",
+      "stock_name": "胜科纳米",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301665",
+      "stock_name": "泰禾股份",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301590",
+      "stock_name": "优优绿能",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:20",
+  "fetched_at": "2026-02-09 23:56:29",
   "data_source": "eastmoney"
 }

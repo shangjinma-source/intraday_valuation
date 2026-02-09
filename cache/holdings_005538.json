@@ -3,8 +3,8 @@
   "fund_name": "中航新起航灵活配置混合C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 91.32,
-  "parsed_weight": 78.22,
-  "missing_weight": 13.1,
+  "parsed_weight": 164.62,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "301662",
@@ -27,14 +27,54 @@
       "weight": 9.48
     },
     {
+      "stock_code": "300409",
+      "stock_name": "道氏技术",
+      "weight": 8.22
+    },
+    {
+      "stock_code": "688567",
+      "stock_name": "孚能科技",
+      "weight": 8.03
+    },
+    {
+      "stock_code": "600206",
+      "stock_name": "有研新材",
+      "weight": 7.71
+    },
+    {
       "stock_code": "301617",
       "stock_name": "博苑股份",
       "weight": 7.5
     },
     {
+      "stock_code": "300530",
+      "stock_name": "领湃科技",
+      "weight": 7.4
+    },
+    {
+      "stock_code": "300473",
+      "stock_name": "德尔股份",
+      "weight": 7.32
+    },
+    {
       "stock_code": "688147",
       "stock_name": "微导纳米",
       "weight": 7.17
+    },
+    {
+      "stock_code": "688116",
+      "stock_name": "天奈科技",
+      "weight": 7.02
+    },
+    {
+      "stock_code": "603663",
+      "stock_name": "三祥新材",
+      "weight": 6.99
+    },
+    {
+      "stock_code": "603200",
+      "stock_name": "上海洗霸",
+      "weight": 6.92
     },
     {
       "stock_code": "688499",
@@ -52,11 +92,56 @@
       "weight": 6.45
     },
     {
+      "stock_code": "300035",
+      "stock_name": "中科电气",
+      "weight": 6.39
+    },
+    {
       "stock_code": "300092",
       "stock_name": "科新机电",
       "weight": 4.91
+    },
+    {
+      "stock_code": "688559",
+      "stock_name": "海目星",
+      "weight": 4.47
+    },
+    {
+      "stock_code": "605088",
+      "stock_name": "冠盛股份",
+      "weight": 4.27
+    },
+    {
+      "stock_code": "301238",
+      "stock_name": "瑞泰新材",
+      "weight": 3.55
+    },
+    {
+      "stock_code": "300648",
+      "stock_name": "星云股份",
+      "weight": 3.17
+    },
+    {
+      "stock_code": "301511",
+      "stock_name": "德福科技",
+      "weight": 3.03
+    },
+    {
+      "stock_code": "002167",
+      "stock_name": "东方锆业",
+      "weight": 1.89
+    },
+    {
+      "stock_code": "688449",
+      "stock_name": "联芸科技",
+      "weight": 0.01
+    },
+    {
+      "stock_code": "301622",
+      "stock_name": "英思特",
+      "weight": 0.01
     }
   ],
-  "fetched_at": "2026-02-08 12:55:33",
+  "fetched_at": "2026-02-09 23:58:03",
   "data_source": "eastmoney"
 }
