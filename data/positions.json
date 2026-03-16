@@ -404,8 +404,8 @@
           "status": "holding",
           "note": "冷却期后加仓",
           "is_supplement": false,
-          "peak_nav": 1.8044,
-          "peak_date": "2026-03-13"
+          "peak_nav": 1.805,
+          "peak_date": "2026-03-16"
         }
       ],
       "supplement_count": 0,
@@ -534,7 +534,8 @@
           "peak_nav": 2.3,
           "peak_date": "2026-03-02",
           "sell_date": "2026-03-16",
-          "sell_shares": 462.15
+          "sell_shares": 462.15,
+          "sell_nav": 1.9656
         },
         {
           "id": "b20260128a",
@@ -608,13 +609,13 @@
           "sell_date": "2026-03-16",
           "sell_shares": 462.15,
           "buy_nav": 2.1564,
-          "sell_nav": null,
+          "sell_nav": 1.9656,
           "cost": 996.59,
-          "gross": null,
-          "fee": null,
-          "net": null,
-          "profit": null,
-          "profit_pct": null,
+          "gross": 908.4,
+          "fee": 0.0,
+          "net": 908.4,
+          "profit": -88.19,
+          "profit_pct": -8.8,
           "hold_days": 49,
           "sell_fee_rate": 0.0,
           "note": "转入"
@@ -625,13 +626,13 @@
           "sell_date": "2026-03-16",
           "sell_shares": 141.41,
           "buy_nav": 2.2741,
-          "sell_nav": null,
+          "sell_nav": 1.9656,
           "cost": 321.58,
-          "gross": null,
-          "fee": null,
-          "net": null,
-          "profit": null,
-          "profit_pct": null,
+          "gross": 277.96,
+          "fee": 0.0,
+          "net": 277.96,
+          "profit": -43.62,
+          "profit_pct": -13.6,
           "hold_days": 47,
           "sell_fee_rate": 0.0,
           "note": "转入"
@@ -968,9 +969,9 @@
     }
   },
   "cash_reserve_ratio": 0.3,
-  "updated_at": "2026-03-16 14:57:55",
+  "updated_at": "2026-03-16 23:13:37",
   "market_regime": "neutral",
   "regime_auto": true,
   "regime_auto_result": "neutral",
-  "regime_auto_at": "2026-03-16 11:24:02"
+  "regime_auto_at": "2026-03-16 23:13:37"
 }

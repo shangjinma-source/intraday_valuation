@@ -1,0 +1,67 @@
+{
+  "fund_code": "017840",
+  "fund_name": "银华清洁能源产业混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 85.39,
+  "parsed_weight": 76.55,
+  "missing_weight": 8.84,
+  "positions": [
+    {
+      "stock_code": "002709",
+      "stock_name": "天赐材料",
+      "weight": 10.84
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 9.28
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 9.09
+    },
+    {
+      "stock_code": "300850",
+      "stock_name": "新强联",
+      "weight": 8.22
+    },
+    {
+      "stock_code": "605117",
+      "stock_name": "德业股份",
+      "weight": 7.98
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 7.38
+    },
+    {
+      "stock_code": "002812",
+      "stock_name": "恩捷股份",
+      "weight": 5.25
+    },
+    {
+      "stock_code": "001301",
+      "stock_name": "尚太科技",
+      "weight": 5.06
+    },
+    {
+      "stock_code": "02208",
+      "stock_name": "金风科技",
+      "weight": 4.74
+    },
+    {
+      "stock_code": "002487",
+      "stock_name": "大金重工",
+      "weight": 4.66
+    },
+    {
+      "stock_code": "002202",
+      "stock_name": "金风科技",
+      "weight": 4.05
+    }
+  ],
+  "fetched_at": "2026-03-16 23:59:02",
+  "data_source": "eastmoney"
+}

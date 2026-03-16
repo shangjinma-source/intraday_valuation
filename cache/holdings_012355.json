@@ -1,0 +1,62 @@
+{
+  "fund_code": "012355",
+  "fund_name": "南方新能源产业趋势混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 91.53,
+  "parsed_weight": 44.6,
+  "missing_weight": 46.93,
+  "positions": [
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 7.14
+    },
+    {
+      "stock_code": "603606",
+      "stock_name": "东方电缆",
+      "weight": 7.11
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 5.63
+    },
+    {
+      "stock_code": "920522",
+      "stock_name": "纳科诺尔",
+      "weight": 5.39
+    },
+    {
+      "stock_code": "600312",
+      "stock_name": "平高电气",
+      "weight": 5.09
+    },
+    {
+      "stock_code": "00425",
+      "stock_name": "敏实集团",
+      "weight": 3.07
+    },
+    {
+      "stock_code": "601012",
+      "stock_name": "隆基绿能",
+      "weight": 3.0
+    },
+    {
+      "stock_code": "688599",
+      "stock_name": "天合光能",
+      "weight": 2.94
+    },
+    {
+      "stock_code": "300073",
+      "stock_name": "当升科技",
+      "weight": 2.81
+    },
+    {
+      "stock_code": "601100",
+      "stock_name": "恒立液压",
+      "weight": 2.42
+    }
+  ],
+  "fetched_at": "2026-03-16 23:58:13",
+  "data_source": "eastmoney"
+}

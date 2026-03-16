@@ -1,0 +1,62 @@
+{
+  "fund_code": "290014",
+  "fund_name": "泰信现代服务业混合",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 86.82,
+  "parsed_weight": 55.14,
+  "missing_weight": 31.68,
+  "positions": [
+    {
+      "stock_code": "002709",
+      "stock_name": "天赐材料",
+      "weight": 5.77
+    },
+    {
+      "stock_code": "002497",
+      "stock_name": "雅化集团",
+      "weight": 5.76
+    },
+    {
+      "stock_code": "300390",
+      "stock_name": "天华新能",
+      "weight": 5.65
+    },
+    {
+      "stock_code": "688778",
+      "stock_name": "厦钨新能",
+      "weight": 5.58
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 5.53
+    },
+    {
+      "stock_code": "600499",
+      "stock_name": "科达制造",
+      "weight": 5.46
+    },
+    {
+      "stock_code": "300073",
+      "stock_name": "当升科技",
+      "weight": 5.39
+    },
+    {
+      "stock_code": "002466",
+      "stock_name": "天齐锂业",
+      "weight": 5.39
+    },
+    {
+      "stock_code": "300014",
+      "stock_name": "亿纬锂能",
+      "weight": 5.31
+    },
+    {
+      "stock_code": "002738",
+      "stock_name": "中矿资源",
+      "weight": 5.3
+    }
+  ],
+  "fetched_at": "2026-03-16 23:43:56",
+  "data_source": "eastmoney"
+}

@@ -1,0 +1,62 @@
+{
+  "fund_code": "024473",
+  "fund_name": "信澳优势行业混合A",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 91.68,
+  "parsed_weight": 71.69,
+  "missing_weight": 19.99,
+  "positions": [
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "weight": 9.91
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "weight": 9.71
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 9.61
+    },
+    {
+      "stock_code": "301128",
+      "stock_name": "强瑞技术",
+      "weight": 8.78
+    },
+    {
+      "stock_code": "688519",
+      "stock_name": "南亚新材",
+      "weight": 6.8
+    },
+    {
+      "stock_code": "301338",
+      "stock_name": "凯格精机",
+      "weight": 6.39
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "weight": 6.02
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "weight": 6.01
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "weight": 4.32
+    },
+    {
+      "stock_code": "688668",
+      "stock_name": "鼎通科技",
+      "weight": 4.14
+    }
+  ],
+  "fetched_at": "2026-03-16 23:24:43",
+  "data_source": "eastmoney"
+}

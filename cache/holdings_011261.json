@@ -1,0 +1,62 @@
+{
+  "fund_code": "011261",
+  "fund_name": "金鹰新能源混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 86.32,
+  "parsed_weight": 40.09,
+  "missing_weight": 46.23,
+  "positions": [
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "weight": 8.69
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "weight": 7.23
+    },
+    {
+      "stock_code": "002028",
+      "stock_name": "思源电气",
+      "weight": 6.08
+    },
+    {
+      "stock_code": "603799",
+      "stock_name": "华友钴业",
+      "weight": 4.63
+    },
+    {
+      "stock_code": "603606",
+      "stock_name": "东方电缆",
+      "weight": 3.27
+    },
+    {
+      "stock_code": "002837",
+      "stock_name": "英维克",
+      "weight": 2.98
+    },
+    {
+      "stock_code": "002487",
+      "stock_name": "大金重工",
+      "weight": 1.9
+    },
+    {
+      "stock_code": "601899",
+      "stock_name": "紫金矿业",
+      "weight": 1.88
+    },
+    {
+      "stock_code": "001301",
+      "stock_name": "尚太科技",
+      "weight": 1.8
+    },
+    {
+      "stock_code": "002709",
+      "stock_name": "天赐材料",
+      "weight": 1.63
+    }
+  ],
+  "fetched_at": "2026-03-16 23:58:48",
+  "data_source": "eastmoney"
+}

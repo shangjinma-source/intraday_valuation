@@ -1,0 +1,62 @@
+{
+  "fund_code": "019235",
+  "fund_name": "华富策略精选混合C",
+  "holdings_asof_date": "2025-12-31",
+  "stock_total_weight": 77.39,
+  "parsed_weight": 61.01,
+  "missing_weight": 16.38,
+  "positions": [
+    {
+      "stock_code": "002738",
+      "stock_name": "中矿资源",
+      "weight": 8.85
+    },
+    {
+      "stock_code": "002466",
+      "stock_name": "天齐锂业",
+      "weight": 8.79
+    },
+    {
+      "stock_code": "002460",
+      "stock_name": "赣锋锂业",
+      "weight": 8.68
+    },
+    {
+      "stock_code": "002497",
+      "stock_name": "雅化集团",
+      "weight": 6.02
+    },
+    {
+      "stock_code": "002756",
+      "stock_name": "永兴材料",
+      "weight": 5.96
+    },
+    {
+      "stock_code": "000792",
+      "stock_name": "盐湖股份",
+      "weight": 5.95
+    },
+    {
+      "stock_code": "600499",
+      "stock_name": "科达制造",
+      "weight": 4.96
+    },
+    {
+      "stock_code": "002192",
+      "stock_name": "融捷股份",
+      "weight": 3.98
+    },
+    {
+      "stock_code": "002240",
+      "stock_name": "盛新锂能",
+      "weight": 3.94
+    },
+    {
+      "stock_code": "600711",
+      "stock_name": "盛屯矿业",
+      "weight": 3.88
+    }
+  ],
+  "fetched_at": "2026-03-16 23:44:28",
+  "data_source": "eastmoney"
+}

@@ -3042,8 +3042,8 @@
                     if (!v) return false;
                     // 净值来源（有✓标记）无视置信度判断，直接输出
                     if (v._source === 'nav') return true;
-                    // 盘中估值：校准后置信度低于60%不输出
-                    return (v.calibrated_confidence ?? v.confidence) >= 0.60;
+                    // 盘中估值：校准后置信度低于50%不输出
+                    return (v.calibrated_confidence ?? v.confidence) >= 0.50;
                 })
                 .sort((a, b) => {
                 const valA = valuations[a.code];
