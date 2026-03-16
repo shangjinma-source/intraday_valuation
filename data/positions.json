@@ -317,7 +317,9 @@
           "shares": 1738.12,
           "status": "holding",
           "note": "建仓",
-          "is_supplement": false
+          "is_supplement": false,
+          "peak_nav": 1.785,
+          "peak_date": "2026-03-16"
         },
         {
           "id": "b20260129a",
@@ -327,7 +329,9 @@
           "shares": 169.41,
           "status": "holding",
           "note": "测试补仓",
-          "is_supplement": false
+          "is_supplement": false,
+          "peak_nav": 1.785,
+          "peak_date": "2026-03-16"
         },
         {
           "id": "b20260312a",
@@ -338,8 +342,8 @@
           "status": "holding",
           "note": "补仓",
           "is_supplement": true,
-          "peak_nav": 1.6657,
-          "peak_date": "2026-03-14"
+          "peak_nav": 1.7842,
+          "peak_date": "2026-03-16"
         }
       ],
       "supplement_count": 1,
@@ -522,29 +526,33 @@
           "amount": 996.59,
           "nav": 2.1564,
           "shares": 462.15,
-          "status": "holding",
+          "status": "sold",
           "note": "转入",
           "is_supplement": false,
           "original_amount": 1854.73,
           "original_shares": 860.1,
           "peak_nav": 2.3,
-          "peak_date": "2026-03-02"
+          "peak_date": "2026-03-02",
+          "sell_date": "2026-03-16",
+          "sell_shares": 462.15
         },
         {
           "id": "b20260128a",
           "buy_date": "2026-01-28",
-          "amount": 918.83,
+          "amount": 597.25,
           "nav": 2.2741,
-          "shares": 404.04,
+          "shares": 262.63,
           "status": "holding",
           "note": "转入",
           "is_supplement": false,
           "peak_nav": 2.3,
-          "peak_date": "2026-03-02"
+          "peak_date": "2026-03-02",
+          "original_amount": 918.83,
+          "original_shares": 404.04
         }
       ],
       "supplement_count": 0,
-      "cooldown_until": "2026-02-15",
+      "cooldown_until": "2026-03-20",
       "fee_schedule": [
         {
           "days": 7,
@@ -593,11 +601,47 @@
           "hold_days": 16,
           "sell_fee_rate": 0.0,
           "note": "转入"
+        },
+        {
+          "id": "s20260316a",
+          "batch_id": "b20260126a",
+          "sell_date": "2026-03-16",
+          "sell_shares": 462.15,
+          "buy_nav": 2.1564,
+          "sell_nav": null,
+          "cost": 996.59,
+          "gross": null,
+          "fee": null,
+          "net": null,
+          "profit": null,
+          "profit_pct": null,
+          "hold_days": 49,
+          "sell_fee_rate": 0.0,
+          "note": "转入"
+        },
+        {
+          "id": "s20260316b",
+          "batch_id": "b20260128a",
+          "sell_date": "2026-03-16",
+          "sell_shares": 141.41,
+          "buy_nav": 2.2741,
+          "sell_nav": null,
+          "cost": 321.58,
+          "gross": null,
+          "fee": null,
+          "net": null,
+          "profit": null,
+          "profit_pct": null,
+          "hold_days": 47,
+          "sell_fee_rate": 0.0,
+          "note": "转入"
         }
       ],
       "vol_sensitivity_auto": 1.11,
       "vol_sensitivity_auto_at": "2026-03-08 19:42:10",
-      "vol_sensitivity": 1.2
+      "vol_sensitivity": 1.2,
+      "cooldown_sell_date": "2026-03-16",
+      "cooldown_trade_days": 2
     },
     "025500__宇宙第一咆哮虎": {
       "fund_name": "",
@@ -635,8 +679,8 @@
           "shares": 289.86,
           "status": "holding",
           "note": "补仓",
-          "peak_nav": 1.2928,
-          "peak_date": "2026-02-24",
+          "peak_nav": 1.3201,
+          "peak_date": "2026-03-16",
           "original_amount": 500.0,
           "original_shares": 414.08
         },
@@ -797,8 +841,8 @@
           "status": "holding",
           "note": "冷却期后加仓",
           "is_supplement": false,
-          "peak_nav": 1.7518,
-          "peak_date": "2026-03-12"
+          "peak_nav": 1.7542,
+          "peak_date": "2026-03-16"
         },
         {
           "id": "b20260312a",
@@ -809,8 +853,8 @@
           "status": "holding",
           "note": "冷却期后加仓",
           "is_supplement": false,
-          "peak_nav": 1.7226,
-          "peak_date": "2026-03-13"
+          "peak_nav": 1.7542,
+          "peak_date": "2026-03-16"
         }
       ],
       "supplement_count": 1,
@@ -924,9 +968,9 @@
     }
   },
   "cash_reserve_ratio": 0.3,
-  "updated_at": "2026-03-14 23:25:09",
+  "updated_at": "2026-03-16 14:57:55",
   "market_regime": "neutral",
   "regime_auto": true,
   "regime_auto_result": "neutral",
-  "regime_auto_at": "2026-03-14 22:35:09"
+  "regime_auto_at": "2026-03-16 11:24:02"
 }
