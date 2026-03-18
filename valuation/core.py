@@ -487,16 +487,17 @@ def calculate_valuation(fund_code: str) -> dict:
     #    （尤其含港股持仓时，A股/港股收盘时间不同导致偏差更大）
     #    替换条件：当天已收盘（15:05后、或非交易日）且有真实净值数据
     if _is_market_closed():
-        # v5.20: 收盘后优先从盘中缓存取估值（比当前重算的更准确）
-        _cached = _intraday_estimation_cache.get(fund_code)
-        # 内存缓存为空时（进程重启），尝试从文件恢复
-        if not _cached and _INTRADAY_CACHE_FILE.exists():
+        # v5.21: 收盘后如果内存缓存为空（进程重启），一次性全量加载文件缓存
+        # 必须在任何 record_deviation 之前完成，因为 _save_deviations 是全量覆盖写入，
+        # 逐基金懒加载会导致只恢复部分基金时就触发写入，丢失其他基金的偏差历史
+        if not _intraday_estimation_cache and _INTRADAY_CACHE_FILE.exists():
             try:
                 with open(_INTRADAY_CACHE_FILE, "r", encoding="utf-8") as f:
                     _intraday_estimation_cache.update(json.load(f))
-                _cached = _intraday_estimation_cache.get(fund_code)
             except Exception:
                 pass
+        # v5.20: 收盘后优先从盘中缓存取估值（比当前重算的更准确）
+        _cached = _intraday_estimation_cache.get(fund_code)
         _est_raw = (
             _cached["est"]
             if _cached and _cached["date"] == today_str and _cached["est"] is not None
