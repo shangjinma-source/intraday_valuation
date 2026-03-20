@@ -20,9 +20,9 @@
         {
           "id": "b20260116b",
           "buy_date": "2026-01-16",
-          "amount": 880.49,
+          "amount": 572.32,
           "nav": 2.1015,
-          "shares": 418.98,
+          "shares": 272.34,
           "status": "holding",
           "note": "建仓转入",
           "is_supplement": false,
@@ -33,7 +33,7 @@
         }
       ],
       "supplement_count": 0,
-      "cooldown_until": "2026-03-23",
+      "cooldown_until": "2026-03-24",
       "sell_records": [
         {
           "id": "s20260212a",
@@ -102,6 +102,23 @@
           "hold_days": 62,
           "sell_fee_rate": 0.0,
           "note": "建仓转入"
+        },
+        {
+          "id": "s20260320a",
+          "batch_id": "b20260116b",
+          "sell_date": "2026-03-20",
+          "sell_shares": 146.64,
+          "buy_nav": 2.1015,
+          "sell_nav": 1.8684,
+          "cost": 308.17,
+          "gross": 273.98,
+          "fee": 0.0,
+          "net": 273.98,
+          "profit": -34.19,
+          "profit_pct": -11.1,
+          "hold_days": 63,
+          "sell_fee_rate": 0.0,
+          "note": "建仓转入"
         }
       ],
       "fee_schedule": [
@@ -120,7 +137,7 @@
       ],
       "vol_sensitivity_auto": 1.04,
       "vol_sensitivity_auto_at": "2026-03-09 21:41:08",
-      "cooldown_sell_date": "2026-03-19",
+      "cooldown_sell_date": "2026-03-20",
       "cooldown_trade_days": 2,
       "vol_sensitivity": 1.0
     },
@@ -148,9 +165,9 @@
         {
           "id": "b20260116b",
           "buy_date": "2026-01-16",
-          "amount": 2696.37,
+          "amount": 1887.46,
           "nav": 2.0485,
-          "shares": 1316.27,
+          "shares": 921.39,
           "status": "holding",
           "note": "建仓转入",
           "is_supplement": false,
@@ -185,7 +202,6 @@
         }
       ],
       "supplement_count": 1,
-      "cooldown_until": "2026-03-23",
       "vol_sensitivity_auto": 1.08,
       "vol_sensitivity_auto_at": "2026-03-09 22:03:12",
       "sell_records": [
@@ -307,11 +323,29 @@
           "hold_days": 62,
           "sell_fee_rate": 0.0,
           "note": "建仓转入"
+        },
+        {
+          "id": "s20260320a",
+          "batch_id": "b20260116b",
+          "sell_date": "2026-03-20",
+          "sell_shares": 394.88,
+          "buy_nav": 2.0485,
+          "sell_nav": null,
+          "cost": 808.91,
+          "gross": null,
+          "fee": null,
+          "net": null,
+          "profit": null,
+          "profit_pct": null,
+          "hold_days": 63,
+          "sell_fee_rate": 0.0,
+          "note": "建仓转入"
         }
       ],
-      "cooldown_sell_date": "2026-03-19",
-      "cooldown_trade_days": 2,
-      "vol_sensitivity": 0.95
+      "vol_sensitivity": 0.95,
+      "cooldown_until": "2026-03-24",
+      "cooldown_sell_date": "2026-03-20",
+      "cooldown_trade_days": 2
     },
     "022084__老婆": {
       "fund_name": "",
@@ -614,7 +648,7 @@
     }
   },
   "cash_reserve_ratio": 0.3,
-  "updated_at": "2026-03-20 13:55:00",
+  "updated_at": "2026-03-20 21:16:55",
   "market_regime": "neutral",
   "regime_auto": true,
   "regime_auto_result": "neutral",

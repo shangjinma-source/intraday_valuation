@@ -524,6 +524,19 @@ def delete_sell_record(fund_code: str, sell_record_id: str) -> bool:
     # 删除卖出记录
     fund["sell_records"] = [r for r in sell_records if r["id"] != sell_record_id]
 
+    # 检查删除后今天是否还有其他卖出记录，若没有则清除冷却标记以恢复信号评估
+    deleted_sell_date = record.get("sell_date", "")
+    if deleted_sell_date and fund.get("cooldown_sell_date") == deleted_sell_date:
+        same_day_remaining = any(
+            r.get("sell_date") == deleted_sell_date
+            for r in fund["sell_records"]
+        )
+        if not same_day_remaining:
+            fund.pop("cooldown_sell_date", None)
+            fund.pop("cooldown_until", None)
+            fund.pop("cooldown_trade_days", None)
+            print(f"[Position] {fund_code} 当日无剩余卖出记录，清除冷却标记")
+
     save_positions(data)
     print(f"[Position] 删除卖出记录并还原批次 {fund_code} {sell_record_id}")
     return True
