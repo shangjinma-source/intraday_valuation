@@ -613,6 +613,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-03-21",
+      "time": "23:33:09",
+      "source": "nav",
+      "signal_name": "常规止损(L2)",
+      "action": "sell",
+      "priority": 1,
+      "reason": "常规止损: 浮亏-14.89% ≤ 止损线-12.0%, 减仓30%(已补仓1次, 保留反弹仓位)",
+      "amount": null,
+      "sell_pct": 30,
+      "today_change": 0.37,
+      "total_profit_pct": -10.03,
+      "current_nav": 1.7434,
+      "nav_at_signal": 1.7434,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "022084__老婆": [
@@ -921,6 +939,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-03-21",
+      "time": "23:33:09",
+      "source": "nav",
+      "signal_name": "趋势确认减仓",
+      "action": "sell",
+      "priority": 1,
+      "reason": "总浮亏-11.09%, 持仓64天, 趋势恶化确认(连跌8天+10日累跌-15.14%+趋势:连跌), 最老批次减仓35%",
+      "amount": null,
+      "sell_pct": 35,
+      "today_change": -0.98,
+      "total_profit_pct": -11.09,
+      "current_nav": 1.8684,
+      "nav_at_signal": 1.8684,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "022084__老爸": [
@@ -1220,6 +1256,24 @@
       "action": "hold",
       "priority": 1,
       "reason": "总浮亏-11.09%, 持仓63天, 趋势恶化确认(连跌8天+10日累跌-15.14%+趋势:连跌), 最老批次减仓35% (今日已执行卖出，次日再评估)",
+      "amount": null,
+      "sell_pct": 35,
+      "today_change": -0.98,
+      "total_profit_pct": -11.09,
+      "current_nav": 1.8684,
+      "nav_at_signal": 1.8684,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
+    },
+    {
+      "date": "2026-03-21",
+      "time": "23:33:09",
+      "source": "nav",
+      "signal_name": "趋势确认减仓",
+      "action": "sell",
+      "priority": 1,
+      "reason": "总浮亏-11.09%, 持仓64天, 趋势恶化确认(连跌8天+10日累跌-15.14%+趋势:连跌), 最老批次减仓35%",
       "amount": null,
       "sell_pct": 35,
       "today_change": -0.98,
@@ -2317,6 +2371,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-03-21",
+      "time": "23:33:09",
+      "source": "nav",
+      "signal_name": "持有等待",
+      "action": "hold",
+      "priority": 8,
+      "reason": "总浮盈-3.45%, 今日-3.19%, 趋势:偏弱, 风险系数1.5×, 波动状态:high_vol, 无触发条件",
+      "amount": null,
+      "sell_pct": null,
+      "today_change": -3.19,
+      "total_profit_pct": -3.45,
+      "current_nav": 1.818,
+      "nav_at_signal": 1.818,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "017560__自选": [
@@ -2607,6 +2679,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-03-21",
+      "time": "23:33:09",
+      "source": "nav",
+      "signal_name": "持有等待",
+      "action": "hold",
+      "priority": 8,
+      "reason": "总浮盈-4.55%, 今日-0.98%, 趋势:中期走弱, 风险系数1.3×, 无触发条件",
+      "amount": null,
+      "sell_pct": null,
+      "today_change": -0.98,
+      "total_profit_pct": -4.55,
+      "current_nav": 2.1926,
+      "nav_at_signal": 2.1926,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "017811__老婆": [
@@ -2883,6 +2973,24 @@
     {
       "date": "2026-03-20",
       "time": "21:46:31",
+      "source": "nav",
+      "signal_name": "常规止损(L2)",
+      "action": "sell",
+      "priority": 1,
+      "reason": "常规止损: 浮亏-14.92% ≤ 止损线-12.0%, 减仓35%(已补仓0次, 保留反弹仓位)",
+      "amount": null,
+      "sell_pct": 35,
+      "today_change": 0.37,
+      "total_profit_pct": -11.85,
+      "current_nav": 1.7434,
+      "nav_at_signal": 1.7434,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
+    },
+    {
+      "date": "2026-03-21",
+      "time": "23:33:09",
       "source": "nav",
       "signal_name": "常规止损(L2)",
       "action": "sell",

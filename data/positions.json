@@ -330,13 +330,13 @@
           "sell_date": "2026-03-20",
           "sell_shares": 394.88,
           "buy_nav": 2.0485,
-          "sell_nav": null,
+          "sell_nav": 1.7434,
           "cost": 808.91,
-          "gross": null,
-          "fee": null,
-          "net": null,
-          "profit": null,
-          "profit_pct": null,
+          "gross": 688.43,
+          "fee": 0.0,
+          "net": 688.43,
+          "profit": -120.48,
+          "profit_pct": -14.9,
           "hold_days": 63,
           "sell_fee_rate": 0.0,
           "note": "建仓转入"
@@ -422,7 +422,7 @@
       ],
       "cooldown_sell_date": "2026-03-19",
       "cooldown_trade_days": 2,
-      "vol_sensitivity": 1.0
+      "vol_sensitivity": 1.1
     },
     "017811__老婆": {
       "fund_name": "",
@@ -588,11 +588,11 @@
       ],
       "cooldown_sell_date": "2026-03-19",
       "cooldown_trade_days": 2,
-      "vol_sensitivity": 0.95
+      "vol_sensitivity": 0.8
     },
     "015395__自选": {
       "fund_name": "",
-      "max_position": 12000,
+      "max_position": 24000,
       "batches": [
         {
           "id": "b20260317a",
@@ -610,11 +610,11 @@
       "supplement_count": 0,
       "cooldown_until": null,
       "watch_note": "空仓待建仓",
-      "vol_sensitivity": 1.05
+      "vol_sensitivity": 1.1
     },
     "017560__自选": {
       "fund_name": "",
-      "max_position": 48000,
+      "max_position": 36000,
       "batches": [
         {
           "id": "b20260310a",
@@ -644,11 +644,11 @@
       "supplement_count": 1,
       "cooldown_until": null,
       "watch_note": "空仓待建仓",
-      "vol_sensitivity": 1.15
+      "vol_sensitivity": 0.9
     }
   },
   "cash_reserve_ratio": 0.3,
-  "updated_at": "2026-03-20 21:16:55",
+  "updated_at": "2026-03-21 13:03:25",
   "market_regime": "neutral",
   "regime_auto": true,
   "regime_auto_result": "neutral",
