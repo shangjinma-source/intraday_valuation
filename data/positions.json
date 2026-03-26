@@ -361,14 +361,14 @@
         {
           "id": "b20260325a",
           "buy_date": "2026-03-25",
-          "amount": 2214.0,
-          "nav": 0.0,
-          "shares": 0.0,
+          "amount": 2706.0,
+          "nav": 2.1935,
+          "shares": 1233.64,
           "status": "holding",
-          "note": "",
-          "is_supplement": "",
+          "note": "低位建仓",
+          "is_supplement": false,
           "peak_nav": 2.1935,
-          "peak_date": "2026-03-25"
+          "peak_date": "2026-03-26"
         }
       ],
       "supplement_count": 0,
@@ -396,7 +396,7 @@
     }
   },
   "cash_reserve_ratio": 0.3,
-  "updated_at": "2026-03-25 22:08:12",
+  "updated_at": "2026-03-26 15:05:01",
   "market_regime": "neutral",
   "regime_auto": true,
   "regime_auto_result": "neutral",
