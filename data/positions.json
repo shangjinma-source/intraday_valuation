@@ -147,8 +147,8 @@
           "status": "holding",
           "note": "冷却期后加仓",
           "is_supplement": false,
-          "peak_nav": 1.8132,
-          "peak_date": "2026-03-17"
+          "peak_nav": 1.8269,
+          "peak_date": "2026-03-30"
         }
       ],
       "supplement_count": 0,
@@ -396,7 +396,7 @@
     }
   },
   "cash_reserve_ratio": 0.3,
-  "updated_at": "2026-03-26 15:05:01",
+  "updated_at": "2026-03-30 13:38:11",
   "market_regime": "neutral",
   "regime_auto": true,
   "regime_auto_result": "neutral",
