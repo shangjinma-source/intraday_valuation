@@ -1281,6 +1281,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "冷却期后加仓",
+      "action": "buy",
+      "priority": 4,
+      "reason": "冷却期结束, 总浮亏-8.83%, 加仓343.27元",
+      "amount": 343.27,
+      "sell_pct": null,
+      "today_change": -1.2,
+      "total_profit_pct": -8.83,
+      "current_nav": 1.916,
+      "nav_at_signal": 1.916,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "022084__老爸": [
@@ -3037,6 +3055,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "持有等待",
+      "action": "hold",
+      "priority": 8,
+      "reason": "总浮盈-5.05%, 今日-0.45%, 趋势:中期走弱, 风险系数1.38×, 无触发条件",
+      "amount": null,
+      "sell_pct": null,
+      "today_change": -0.45,
+      "total_profit_pct": -5.05,
+      "current_nav": 1.788,
+      "nav_at_signal": 1.788,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "017560__自选": [
@@ -3594,6 +3630,24 @@
       "total_profit_pct": -5.98,
       "current_nav": 2.1596,
       "nav_at_signal": 2.1596,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "持有等待",
+      "action": "hold",
+      "priority": 8,
+      "reason": "总浮盈-8.96%, 今日-3.17%, 趋势:偏弱, 风险系数1.32×, 波动状态:high_vol, 无触发条件",
+      "amount": null,
+      "sell_pct": null,
+      "today_change": -3.17,
+      "total_profit_pct": -8.96,
+      "current_nav": 2.0911,
+      "nav_at_signal": 2.0911,
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
@@ -4157,6 +4211,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "持有等待",
+      "action": "hold",
+      "priority": 8,
+      "reason": "总浮盈-4.63%, 今日-4.05%, 趋势:震荡, 风险系数1.37×, 波动状态:extreme_vol, 无触发条件",
+      "amount": null,
+      "sell_pct": null,
+      "today_change": -4.05,
+      "total_profit_pct": -4.63,
+      "current_nav": 1.7349,
+      "nav_at_signal": 1.7349,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "008701": [
@@ -4509,6 +4581,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "大跌抄底",
+      "action": "buy",
+      "priority": 6,
+      "reason": "今日跌-4.05% ≤ 动态阈值-3.05%, 买入8064.0元",
+      "amount": 8064.0,
+      "sell_pct": null,
+      "today_change": -4.05,
+      "total_profit_pct": null,
+      "current_nav": null,
+      "nav_at_signal": null,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "010524": [
@@ -4747,6 +4837,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "连跌低吸",
+      "action": "buy",
+      "priority": 7,
+      "reason": "今日跌-1.83% ≤ -1.8%, 昨日跌-1.83%, 连跌低吸5197.5元",
+      "amount": 5197.5,
+      "sell_pct": null,
+      "today_change": -1.83,
+      "total_profit_pct": null,
+      "current_nav": null,
+      "nav_at_signal": null,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "017560": [
@@ -4949,6 +5057,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "持有等待",
+      "action": "hold",
+      "priority": 8,
+      "reason": "总浮盈-4.67%, 今日-3.17%, 趋势:偏弱, 风险系数1.32×, 波动状态:high_vol, 无触发条件",
+      "amount": null,
+      "sell_pct": null,
+      "today_change": -3.17,
+      "total_profit_pct": -4.67,
+      "current_nav": 2.0911,
+      "nav_at_signal": 2.0911,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "010524__老爸": [
@@ -5131,6 +5257,24 @@
       "outcome_t3": null,
       "outcome_t5": null,
       "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "连跌低吸",
+      "action": "buy",
+      "priority": 7,
+      "reason": "今日跌-1.83% ≤ -1.8%, 昨日跌-1.83%, 连跌低吸2598.75元",
+      "amount": 2598.75,
+      "sell_pct": null,
+      "today_change": -1.83,
+      "total_profit_pct": null,
+      "current_nav": null,
+      "nav_at_signal": null,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
     }
   ],
   "013596__老爸": [
@@ -5307,6 +5451,24 @@
       "amount": 3780.0,
       "sell_pct": null,
       "today_change": -1.38,
+      "total_profit_pct": null,
+      "current_nav": null,
+      "nav_at_signal": null,
+      "outcome_t3": null,
+      "outcome_t5": null,
+      "outcome_t10": null
+    },
+    {
+      "date": "2026-04-01",
+      "time": "00:44:09",
+      "source": "nav",
+      "signal_name": "大跌抄底",
+      "action": "buy",
+      "priority": 6,
+      "reason": "今日跌-4.05% ≤ 动态阈值-3.05%, 买入4032.0元",
+      "amount": 4032.0,
+      "sell_pct": null,
+      "today_change": -4.05,
       "total_profit_pct": null,
       "current_nav": null,
       "nav_at_signal": null,

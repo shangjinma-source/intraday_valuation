@@ -3,8 +3,8 @@
   "fund_name": "富国中证细分化工产业主题ETF发起式联接C",
   "holdings_asof_date": "2025-12-31",
   "stock_total_weight": 1.13,
-  "parsed_weight": 0.82,
-  "missing_weight": 0.31,
+  "parsed_weight": 1.13,
+  "missing_weight": 0,
   "positions": [
     {
       "stock_code": "600309",
@@ -55,8 +55,63 @@
       "stock_code": "600486",
       "stock_name": "扬农化工",
       "weight": 0.04
+    },
+    {
+      "stock_code": "600141",
+      "stock_name": "兴发集团",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "601233",
+      "stock_name": "桐昆股份",
+      "weight": 0.04
+    },
+    {
+      "stock_code": "600331",
+      "stock_name": "宏达股份",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "600378",
+      "stock_name": "昊华科技",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "603379",
+      "stock_name": "三美股份",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "605589",
+      "stock_name": "圣泉集团",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "601216",
+      "stock_name": "君正集团",
+      "weight": 0.03
+    },
+    {
+      "stock_code": "603737",
+      "stock_name": "三棵树",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "603077",
+      "stock_name": "和邦生物",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "603650",
+      "stock_name": "彤程新材",
+      "weight": 0.02
+    },
+    {
+      "stock_code": "603225",
+      "stock_name": "新凤鸣",
+      "weight": 0.02
     }
   ],
-  "fetched_at": "2026-03-31 16:16:30",
+  "fetched_at": "2026-04-01 00:49:40",
   "data_source": "eastmoney"
 }
