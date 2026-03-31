@@ -98,8 +98,11 @@ def flush_deviations():
         devs = _load_deviations()
         for buf_key, (fund_code, record) in _deviation_buffer.items():
             records = devs.setdefault(fund_code, [])
-            # 去重：同一天不重复记录
-            if any(r["date"] == record["date"] for r in records):
+            # 去重：同一天已有完整记录则跳过；若已有但nav为null则覆盖补全
+            existing = next((r for r in records if r["date"] == record["date"]), None)
+            if existing:
+                if existing.get("nav") is None and record.get("nav") is not None:
+                    existing.update(record)
                 continue
             records.insert(0, record)
             # 截断
@@ -118,8 +121,10 @@ def calibrate_confidence(fund_code: str, raw_confidence: float) -> float:
     if len(records) < 1:
         return raw_confidence
 
-    # 取最近30条偏差
-    recent = [r["deviation"] for r in records[:30]]
+    # 取最近30条偏差（跳过尚未补录nav的记录）
+    recent = [r["deviation"] for r in records[:30] if r.get("deviation") is not None]
+    if not recent:
+        return raw_confidence
     recent.sort()
     median_dev = recent[len(recent) // 2]
 

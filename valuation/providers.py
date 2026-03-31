@@ -17,8 +17,8 @@ install_opener(build_opener(ProxyHandler({})))
 
 # === 配置常量 ===
 CACHE_DIR = Path(__file__).parent.parent / "cache"
-QUOTES_TTL_SECONDS = 8
-REQUEST_TIMEOUT = 15
+QUOTES_TTL_SECONDS = 30
+REQUEST_TIMEOUT = 8
 HOLDINGS_CACHE_DAYS = 30  # 持仓缓存天数（唯一控制持仓缓存有效期的常量）
 
 # === 内存缓存 ===
