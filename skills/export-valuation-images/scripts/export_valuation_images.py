@@ -136,6 +136,7 @@ def is_trading_day(date=None):
 def is_valid_execution_time():
     """
     Check if current time is within valid execution windows:
+    - Trading day 13:50 (盘中估值 - 定时任务时间)
     - Trading day 15:00 (盘中估值)
     - Trading day 22:00 (收盘后净值)
     
@@ -151,6 +152,12 @@ def is_valid_execution_time():
     # Check time windows (allow 30-minute window around target times)
     hour = now.hour
     minute = now.minute
+    
+    # 13:50 window (13:35 - 14:05) - 定时任务时间
+    if hour == 13 and minute >= 35:
+        return True
+    if hour == 14 and minute <= 5:
+        return True
     
     # 15:00 window (14:45 - 15:15)
     if hour == 14 and minute >= 45:
