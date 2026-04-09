@@ -24,6 +24,7 @@ from datetime import datetime
 
 
 API_URL = "http://localhost:8000/v1/strategy/signals"
+POSITIONS_FILE = r"E:\Git\valuation_grid\data\positions.json"
 TIMEOUT = 180
 BACKEND_DIR = r"E:\Git\valuation_grid"
 BACKEND_PORT = 8000
@@ -106,6 +107,38 @@ def fetch_grid_signals():
         return {"success": False, "error": f"未知错误：{str(e)}"}
 
 
+def load_positions_data():
+    """Load positions data from local file."""
+    try:
+        with open(POSITIONS_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception:
+        return {"funds": {}}
+
+
+def get_fund_holding(fund_code_full, positions_data):
+    """Get holding value and profit for a fund."""
+    funds = positions_data.get("funds", {})
+    fund_data = funds.get(fund_code_full, {})
+    
+    # Calculate total holding value and profit
+    batches = fund_data.get("batches", [])
+    total_value = 0
+    total_profit = 0
+    
+    for batch in batches:
+        if batch.get("status") == "holding":
+            shares = batch.get("shares", 0)
+            nav = batch.get("latest_nav", 0) or batch.get("nav", 0)
+            cost_nav = batch.get("nav", 0)
+            value = shares * nav
+            profit = shares * (nav - cost_nav)
+            total_value += value
+            total_profit += profit
+    
+    return total_value, total_profit
+
+
 def format_text_message(signals):
     """
     Format signal data into text message.
@@ -121,6 +154,9 @@ def format_text_message(signals):
     
     time_str = datetime.now().strftime("%m-%d %H:%M")
     lines = []
+    
+    # Load positions data for holding info
+    positions_data = load_positions_data()
     
     # Group by owner
     by_owner = {}
@@ -141,25 +177,29 @@ def format_text_message(signals):
         lines.append("-" * 40)
         
         for sig in owner_signals:
-            fund_code = sig.get("fund_code", "").split("__")[0]
-            fund_name = sig.get("fund_name", "")
+            fund_code_full = sig.get("fund_code", "")
+            fund_code = fund_code_full.split("__")[0]
             action = sig.get("action", "hold")
-            signal_name = sig.get("signal_name", "观望")
+            
+            # Get holding info from positions data
+            holding_value, holding_profit = get_fund_holding(fund_code_full, positions_data)
             
             if action == "buy":
-                amount = sig.get("amount", 0)
+                amount = sig.get("amount", 0) or 0
                 reason = sig.get("reason", "")
-                lines.append(f"  [买入] {fund_code} {fund_name}")
+                lines.append(f"  [买入] {fund_code}")
+                lines.append(f"     持仓：{holding_value:.2f} 元 (盈亏：{holding_profit:.2f} 元)")
                 lines.append(f"     建议：买入 {amount:.2f} 元")
                 if reason:
                     lines.append(f"     原因：{reason}")
             
             elif action == "sell":
-                sell_shares = sig.get("sell_shares", 0)
-                sell_pct = sig.get("sell_pct", 0)
+                sell_shares = sig.get("sell_shares", 0) or 0
+                sell_pct = sig.get("sell_pct", 0) or 0
                 target_batch = sig.get("target_batch_id", "")
                 reason = sig.get("reason", "")
-                lines.append(f"  [卖出] {fund_code} {fund_name}")
+                lines.append(f"  [卖出] {fund_code}")
+                lines.append(f"     持仓：{holding_value:.2f} 元 (盈亏：{holding_profit:.2f} 元)")
                 lines.append(f"     建议：卖出 {sell_shares} 份 (该批次{sell_pct}%)")
                 if target_batch:
                     lines.append(f"     批次：{target_batch}")
@@ -167,7 +207,8 @@ def format_text_message(signals):
                     lines.append(f"     原因：{reason}")
             
             else:  # hold
-                lines.append(f"  [持有] {fund_code} {fund_name}")
+                lines.append(f"  [持有] {fund_code}")
+                lines.append(f"     持仓：{holding_value:.2f} 元 (盈亏：{holding_profit:.2f} 元)")
                 lines.append(f"     建议：持有等待")
             
             lines.append("")
