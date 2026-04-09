@@ -155,9 +155,6 @@ def format_text_message(signals):
     time_str = datetime.now().strftime("%m-%d %H:%M")
     lines = []
     
-    # Load positions data for holding info
-    positions_data = load_positions_data()
-    
     # Group by owner
     by_owner = {}
     for sig in signals:
@@ -177,18 +174,13 @@ def format_text_message(signals):
         lines.append("-" * 40)
         
         for sig in owner_signals:
-            fund_code_full = sig.get("fund_code", "")
-            fund_code = fund_code_full.split("__")[0]
+            fund_code = sig.get("fund_code", "").split("__")[0]
             action = sig.get("action", "hold")
-            
-            # Get holding info from positions data
-            holding_value, holding_profit = get_fund_holding(fund_code_full, positions_data)
             
             if action == "buy":
                 amount = sig.get("amount", 0) or 0
                 reason = sig.get("reason", "")
                 lines.append(f"  [买入] {fund_code}")
-                lines.append(f"     持仓：{holding_value:.2f} 元 (盈亏：{holding_profit:.2f} 元)")
                 lines.append(f"     建议：买入 {amount:.2f} 元")
                 if reason:
                     lines.append(f"     原因：{reason}")
@@ -199,7 +191,6 @@ def format_text_message(signals):
                 target_batch = sig.get("target_batch_id", "")
                 reason = sig.get("reason", "")
                 lines.append(f"  [卖出] {fund_code}")
-                lines.append(f"     持仓：{holding_value:.2f} 元 (盈亏：{holding_profit:.2f} 元)")
                 lines.append(f"     建议：卖出 {sell_shares} 份 (该批次{sell_pct}%)")
                 if target_batch:
                     lines.append(f"     批次：{target_batch}")
@@ -208,7 +199,6 @@ def format_text_message(signals):
             
             else:  # hold
                 lines.append(f"  [持有] {fund_code}")
-                lines.append(f"     持仓：{holding_value:.2f} 元 (盈亏：{holding_profit:.2f} 元)")
                 lines.append(f"     建议：持有等待")
             
             lines.append("")
