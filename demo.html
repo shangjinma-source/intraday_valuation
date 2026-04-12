@@ -2105,13 +2105,17 @@
                     }
                     html += `<div class="pos-actions">
                         <button class="buy-btn" onclick="showBuyModal('${code}')">录入买入</button>`;
+                    // 有持仓时始终显示"录入卖出"按钮（不依赖策略信号）
+                    if (hasPos) {
+                        html += `<button class="sell-btn" onclick="showSellFifoModal('${code}', 0)">录入卖出</button>`;
+                    }
                     const fifoP = sig.fifo_sell_plan;
                     if (fifoP && fifoP.steps && fifoP.steps.length > 0) {
-                        html += `<button class="sell-btn" onclick="showSellFifoModal('${code}', ${fifoP.total_shares})">执行卖出(${fifoP.total_shares}份)</button>`;
+                        html += `<button class="sell-btn" onclick="showSellFifoModal('${code}', ${fifoP.total_shares})" style="font-weight:700;">执行卖出(${fifoP.total_shares}份)</button>`;
                     } else {
                         const sellSignals = (sig.all_signals || [sig]).filter(s => s.action === 'sell' && s.target_batch_id);
                         for (const ss of sellSignals) {
-                            html += `<button class="sell-btn" onclick="showSellFifoModal('${code}', ${ss.sell_shares || 0})">执行${ss.signal_name}(${ss.sell_shares}份)</button>`;
+                            html += `<button class="sell-btn" onclick="showSellFifoModal('${code}', ${ss.sell_shares || 0})" style="font-weight:700;">执行${ss.signal_name}(${ss.sell_shares}份)</button>`;
                         }
                     }
                     html += `</div>`;
