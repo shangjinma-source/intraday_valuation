@@ -136,7 +136,7 @@ def is_trading_day(date=None):
 def is_valid_execution_time():
     """
     Check if current time is within valid execution window:
-    - Trading day 15:00 - 22:00 (北京时间)
+    - Trading day 13:00 - 22:00 (北京时间)
     
     Returns:
         bool: True if should execute, False otherwise
@@ -147,11 +147,11 @@ def is_valid_execution_time():
     if not is_trading_day(now.date()):
         return False
     
-    # Check time window: 15:00 - 22:00 (Asia/Shanghai)
+    # Check time window: 13:00 - 22:00 (Asia/Shanghai)
     hour = now.hour
     
-    # Allow execution between 15:00 and 22:59 (inclusive of both 15:00 and 22:00)
-    if 15 <= hour <= 22:
+    # Allow execution between 13:00 and 22:59 (inclusive of both 13:00 and 22:00)
+    if 13 <= hour <= 22:
         return True
     
     return False
